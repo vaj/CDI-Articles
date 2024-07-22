@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 13 disaggregated computing articles published on the website between July 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 14 disaggregated computing articles published on the website between July 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -15,6 +15,8 @@ All titles are in English, regardless of the language in which they were written
   - [2021](#2021)
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
+  - [2022](#2022)
+    - [PCI-SIG](#pci-sig)
   - [2023](#2023)
     - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia)
@@ -44,6 +46,14 @@ Debendra Das Sharma
 Tomoaki Sato
 
 2021/07/08 [What is "Disaggregated Computing"? (1) GigaIO FabreX Products](https://valinux.hatenablog.com/entry/20210708)
+
+## 2022
+
+### PCI-SIG
+
+Debendra Das Sharma
+
+2022/06/29 [The History of PCI IO Technology 30 Years of PCI-SIG® Innovation](https://pcisig.com/sites/default/files/files/30%20Years%20of%20PCI-SIG%20Innovation%20Webinar_Final%20Slides.pdf)
 
 ## 2023
 
