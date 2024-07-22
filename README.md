@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 15 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 16 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -71,6 +71,10 @@ Christian Pinto (IBM Research Europe - Ireland)
 2023/04/20 [Disentangling your data center with the OpenFabrics Management Framework](https://drive.google.com/file/d/1NyD762XWFTy_151d7akhIdudWEeRYRrx/view?usp=share_link)
 
 ### SNIA
+
+Mats Öberg (Marvell)
+
+2023/04/11 [SNIA CMSS - Thinking Memory](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Oberg-Thinking-Memory.pdf)
 
 Phil Cayton, et al.
 
