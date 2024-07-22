@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 14 disaggregated computing articles published on the website between July 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 15 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -12,11 +12,12 @@ All titles are in English, regardless of the language in which they were written
   - [Table of Contents](#table-of-contents)
   - [2020](#2020)
     - [CXL Consortium](#cxl-consortium)
+    - [PCI-SIG](#pci-sig)
   - [2021](#2021)
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2022](#2022)
-    - [PCI-SIG](#pci-sig)
+    - [PCI-SIG](#pci-sig-1)
   - [2023](#2023)
     - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia)
@@ -32,6 +33,12 @@ All titles are in English, regardless of the language in which they were written
 Mahesh Natu (Intel) and Thanu Rangarajan (Arm)
 
 2020/07/28 [Compute Express Link: UEFI and ACPI Specification Enhancement Recommendations](https://uefi.org/blog/compute-express-link-uefi-and-acpi-specification-enhancement-recommendations)
+
+### PCI-SIG
+
+Debendra Das Sharma
+
+2020/06/04 [PCIe® 6.0 Specification The Interconnect for IO Needs of the Future](https://pcisig.com/sites/default/files/files/PCIe%206.0%20Webinar_Final_.pdf)
 
 ## 2021
 
