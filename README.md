@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 9 disaggregated computing articles published on the website between July 2021 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 10 disaggregated computing articles published on the website between July 2021 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -13,6 +13,7 @@ All titles are in English, regardless of the language in which they were written
   - [2021](#2021)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2023](#2023)
+    - [SNIA](#snia)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
@@ -27,6 +28,12 @@ Tomoaki Sato
 2021/07/08 [What is "Disaggregated Computing"? (1) GigaIO FabreX Products](https://valinux.hatenablog.com/entry/20210708)
 
 ## 2023
+
+### SNIA
+
+Phil Cayton, et al.
+
+2023/05/17 [Casting the Net\_ Scaling Management of Storage and Fabrics](https://www.snia.org/sites/default/files/Alliances/Casting-the-Net-Scaling-Mangement-of-Storage-and-Fabrics.pdf)
 
 ### The OpenFabrics Alliance
 
