@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 11 disaggregated computing articles published on the website between July 2021 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 12 disaggregated computing articles published on the website between July 2021 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -14,6 +14,7 @@ All titles are in English, regardless of the language in which they were written
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2023](#2023)
+    - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
@@ -35,6 +36,12 @@ Tomoaki Sato
 2021/07/08 [What is "Disaggregated Computing"? (1) GigaIO FabreX Products](https://valinux.hatenablog.com/entry/20210708)
 
 ## 2023
+
+### Open Compute Project
+
+Christian Pinto (IBM Research Europe - Ireland)
+
+2023/04/20 [Disentangling your data center with the OpenFabrics Management Framework](https://drive.google.com/file/d/1NyD762XWFTy_151d7akhIdudWEeRYRrx/view?usp=share_link)
 
 ### SNIA
 
