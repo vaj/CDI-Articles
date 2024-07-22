@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 10 disaggregated computing articles published on the website between July 2021 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 11 disaggregated computing articles published on the website between July 2021 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -11,6 +11,7 @@ All titles are in English, regardless of the language in which they were written
   - [About this book](#about-this-book)
   - [Table of Contents](#table-of-contents)
   - [2021](#2021)
+    - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2023](#2023)
     - [SNIA](#snia)
@@ -20,6 +21,12 @@ All titles are in English, regardless of the language in which they were written
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
 ## 2021
+
+### Intel
+
+Debendra Das Sharma
+
+2021/08/20 [Keynote1 Compute Express Link changing the game for Cloud Computing](https://ieeexplore.ieee.org/document/9547033)
 
 ### VA Linux Systems Japan
 
