@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 25 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 26 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -18,6 +18,7 @@ All titles are in English, regardless of the language in which they were written
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2022](#2022)
+    - [CXL Consrtium](#cxl-consrtium)
     - [Hot Chips 34](#hot-chips-34)
     - [PCI-SIG](#pci-sig-1)
   - [2023](#2023)
@@ -64,6 +65,12 @@ Tomoaki Sato
 2021/07/08 [What is "Disaggregated Computing"? (1) GigaIO FabreX Products](https://valinux.hatenablog.com/entry/20210708)
 
 ## 2022
+
+### CXL Consrtium
+
+Danny Volkind (UnifabriX) and Elad Shliselberg (UnifabriX)
+
+2022/06/15 [CXL 1.1 vs. CXL 2.0 – What’s the difference](https://computeexpresslink.org/wp-content/uploads/2023/12/2022-06-15-CXL-1.1-vs-2.0-Webinar_FINAL.pdf)
 
 ### Hot Chips 34
 
