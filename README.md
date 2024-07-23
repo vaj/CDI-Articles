@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 27 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 28 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -23,10 +23,11 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consrtium](#cxl-consrtium)
     - [Hot Chips 34](#hot-chips-34)
     - [PCI-SIG](#pci-sig-1)
+    - [SNIA](#snia)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
     - [Open Compute Project](#open-compute-project)
-    - [SNIA](#snia)
+    - [SNIA](#snia-1)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
@@ -105,6 +106,12 @@ Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
 Debendra Das Sharma
 
 2022/06/29 [The History of PCI IO Technology 30 Years of PCI-SIG® Innovation](https://pcisig.com/sites/default/files/files/30%20Years%20of%20PCI-SIG%20Innovation%20Webinar_Final%20Slides.pdf)
+
+### SNIA
+
+Cheolmin Park (Samsung)
+
+2022/05/24 [SNIA PM+CS'22 CXL and UCIe](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Park-CXL-and-UCIe.pdf)
 
 ## 2023
 
