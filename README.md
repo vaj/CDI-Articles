@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 22 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 23 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -109,6 +109,10 @@ Mats Öberg (Marvell)
 Phil Cayton, et al.
 
 2023/05/17 [Casting the Net\_ Scaling Management of Storage and Fabrics](https://www.snia.org/sites/default/files/Alliances/Casting-the-Net-Scaling-Mangement-of-Storage-and-Fabrics.pdf)
+
+Vince Hache (Rambus)
+
+2023/04/11 [SNIA CMSS23 - Introduction to Fabrics in CXL 3.0](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Hache-Introduction-to-CXL-Fabrics.pdf)
 
 ### The OpenFabrics Alliance
 
