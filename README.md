@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 21 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 22 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -20,6 +20,7 @@ All titles are in English, regardless of the language in which they were written
     - [Hot Chips 34](#hot-chips-34)
     - [PCI-SIG](#pci-sig-1)
   - [2023](#2023)
+    - [ASPLOS 2023](#asplos-2023)
     - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
@@ -82,6 +83,12 @@ Debendra Das Sharma
 2022/06/29 [The History of PCI IO Technology 30 Years of PCI-SIG® Innovation](https://pcisig.com/sites/default/files/files/30%20Years%20of%20PCI-SIG%20Innovation%20Webinar_Final%20Slides.pdf)
 
 ## 2023
+
+### ASPLOS 2023
+
+Maruf, Hasan Al, et al.
+
+2023/03/25 [TPP: Transparent Page Placement for CXL-Enabled Tiered-Memory](https://dl.acm.org/doi/abs/10.1145/3582016.3582063)
 
 ### Open Compute Project
 
