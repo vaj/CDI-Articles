@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 24 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 25 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -108,6 +108,10 @@ Christian Pinto (IBM Research Europe - Ireland)
 Andy Rudoff (Intel)
 
 2023/04/11 [SNIA CMSS23 - CXL™ 3.0 Expanded Capabilities for Increasing Scale &Optimizing Resource Utilization](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Rudoff-CXL-Expanded-Capabilities.pdf)
+
+Clarete Crasta
+
+2023/04/11 [SNIA CMSS23 - Fabric Attached Memory – Hardware and Software Architecture](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Crasta-%20Fabric-Attached-Memory.pdf)
 
 Mats Öberg (Marvell)
 
