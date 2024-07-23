@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 17 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 21 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -17,6 +17,7 @@ All titles are in English, regardless of the language in which they were written
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2022](#2022)
+    - [Hot Chips 34](#hot-chips-34)
     - [PCI-SIG](#pci-sig-1)
   - [2023](#2023)
     - [Open Compute Project](#open-compute-project)
@@ -55,6 +56,24 @@ Tomoaki Sato
 2021/07/08 [What is "Disaggregated Computing"? (1) GigaIO FabreX Products](https://valinux.hatenablog.com/entry/20210708)
 
 ## 2022
+
+### Hot Chips 34
+
+Ishwar Agarwal (Intel)
+
+2022/08/21 [CXL overview and evolution](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20Overview%20and%20evolution.pdf)
+
+Robert Blankenship (Intel)
+
+2022/08/21 [CXL2/CXL3 coherency deep dive](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20MemoryChallenges.pdf)
+
+Prakash Chauhan (Meta) and Mahesh Wagh (AMD)
+
+2022/08/21 [Memory use cases and challenges](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20MemoryChallenges.pdf)
+
+Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
+
+2022/08/21 [CXL3 Fabric introduction & use cases](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL3%20Fabric%20Intro%20and%20use%20cases.pdf)
 
 ### PCI-SIG
 
