@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 26 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 27 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -10,6 +10,8 @@ All titles are in English, regardless of the language in which they were written
 - [Disaggregated computing related articles](#disaggregated-computing-related-articles)
   - [About this book](#about-this-book)
   - [Table of Contents](#table-of-contents)
+  - [2017](#2017)
+    - [OpenFabrics Alliance](#openfabrics-alliance)
   - [2020](#2020)
     - [CXL Consortium](#cxl-consortium)
     - [PCI-SIG](#pci-sig)
@@ -29,6 +31,14 @@ All titles are in English, regardless of the language in which they were written
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
+
+## 2017
+
+### OpenFabrics Alliance
+
+Brand Benton (AMD)
+
+2017/03/29 [CCIX, GEN-Z, OpenCAPI Overview & Comparison](https://www.openfabrics.org/images/eventpresos/2017presentations/213_CCIXGen-Z_BBenton.pdf)
 
 ## 2020
 
