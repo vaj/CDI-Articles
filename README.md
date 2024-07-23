@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 23 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 24 disaggregated computing articles published on the website between June 2020 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -14,6 +14,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium)
     - [PCI-SIG](#pci-sig)
   - [2021](#2021)
+    - [Fujitsu](#fujitsu)
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2022](#2022)
@@ -43,6 +44,12 @@ Debendra Das Sharma
 2020/06/04 [PCIe® 6.0 Specification The Interconnect for IO Needs of the Future](https://pcisig.com/sites/default/files/files/PCIe%206.0%20Webinar_Final_.pdf)
 
 ## 2021
+
+### Fujitsu
+
+Yasunori Goto (Fujitsu) and Ruan Shiyang (Nanjing Fujitsu Nanda Software Technology)
+
+2021/09/23 [The forefront of the development for NVDIMM on Linux Kernel](https://www.fujitsu.com/jp/documents/products/software/os/linux/catalog/2021Sep23_The_Forefront_of_the_Development_for_NVDIMMM_on_Linux_kernel_Yasunori_Goto_Ruan_Shiyang.pdf)
 
 ### Intel
 
