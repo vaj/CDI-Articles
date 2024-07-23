@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 28 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 29 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -12,6 +12,8 @@ All titles are in English, regardless of the language in which they were written
   - [Table of Contents](#table-of-contents)
   - [2017](#2017)
     - [OpenFabrics Alliance](#openfabrics-alliance)
+  - [2018](#2018)
+    - [OpenFabrics Alliance](#openfabrics-alliance-1)
   - [2020](#2020)
     - [CXL Consortium](#cxl-consortium)
     - [PCI-SIG](#pci-sig)
@@ -40,6 +42,14 @@ All titles are in English, regardless of the language in which they were written
 Brand Benton (AMD)
 
 2017/03/29 [CCIX, GEN-Z, OpenCAPI Overview & Comparison](https://www.openfabrics.org/images/eventpresos/2017presentations/213_CCIXGen-Z_BBenton.pdf)
+
+## 2018
+
+### OpenFabrics Alliance
+
+Paul Grun (Cray Inc) and Doug Voigt (HPE)
+
+2018/04/13 [OFA Think Tank Session Remote Persistent Memory](https://www.openfabrics.org/images/2018workshop/presentations/406_PGrunDVoigt_OFATT_RPM.pdf)
 
 ## 2020
 
