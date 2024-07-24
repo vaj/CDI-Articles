@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 31 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 32 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -23,6 +23,7 @@ All titles are in English, regardless of the language in which they were written
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2022](#2022)
     - [CXL Consrtium](#cxl-consrtium)
+    - [Flash Memory Summit](#flash-memory-summit)
     - [Hot Chips 34](#hot-chips-34)
     - [Linux Plumbers Conference](#linux-plumbers-conference)
     - [PCI-SIG](#pci-sig-1)
@@ -94,6 +95,12 @@ Tomoaki Sato
 Danny Volkind (UnifabriX) and Elad Shliselberg (UnifabriX)
 
 2022/06/15 [CXL 1.1 vs. CXL 2.0 – What’s the difference](https://computeexpresslink.org/wp-content/uploads/2023/12/2022-06-15-CXL-1.1-vs-2.0-Webinar_FINAL.pdf)
+
+### Flash Memory Summit
+
+Steve Glaser (NVIDIA)
+
+2022/08/02 [NVIDIA Beyond Just Another Interconnect Protocol](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_NVIDIA.pdf)
 
 ### Hot Chips 34
 
