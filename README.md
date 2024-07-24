@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 30 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 31 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -24,6 +24,7 @@ All titles are in English, regardless of the language in which they were written
   - [2022](#2022)
     - [CXL Consrtium](#cxl-consrtium)
     - [Hot Chips 34](#hot-chips-34)
+    - [Linux Plumbers Conference](#linux-plumbers-conference)
     - [PCI-SIG](#pci-sig-1)
     - [SNIA](#snia)
   - [2023](#2023)
@@ -111,6 +112,12 @@ Prakash Chauhan (Meta) and Mahesh Wagh (AMD)
 Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
 
 2022/08/21 [CXL3 Fabric introduction & use cases](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL3%20Fabric%20Intro%20and%20use%20cases.pdf)
+
+### Linux Plumbers Conference
+
+Jonathan Cameron (Huawei)
+
+2022/09/14 [CXL 2.0+ Emulation With QEMU Status, requirements and roadmap. - Jonathan Cameron](https://lpc.events/event/16/contributions/1248/attachments/1047/2002/CXL%20plumbers%20uconf%20QEMU.pdf)
 
 ### PCI-SIG
 
