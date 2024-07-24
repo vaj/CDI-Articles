@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 32 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 33 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -30,6 +30,7 @@ All titles are in English, regardless of the language in which they were written
     - [SNIA](#snia)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
+    - [Flash Memory Summit](#flash-memory-summit-1)
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia-1)
@@ -145,6 +146,13 @@ Cheolmin Park (Samsung)
 Maruf, Hasan Al, et al.
 
 2023/03/25 [TPP: Transparent Page Placement for CXL-Enabled Tiered-Memory](https://dl.acm.org/doi/abs/10.1145/3582016.3582063)
+
+### Flash Memory Summit
+
+Debendra Das Sharma (Intel), Mahesh Wagh (AMD), Maheash Natu (Intel) and Vincent Hache (Rambus)
+
+2023/08/07 [Compute Express LinkTM (CXL™): An Open
+Industry Standard for Composable Computing](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_FMS-2023-Tutorial_FINAL.pdf)
 
 ### IOWN GLOBAL FORUM
 
