@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 33 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 34 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -96,6 +96,10 @@ Tomoaki Sato
 Danny Volkind (UnifabriX) and Elad Shliselberg (UnifabriX)
 
 2022/06/15 [CXL 1.1 vs. CXL 2.0 – What’s the difference](https://computeexpresslink.org/wp-content/uploads/2023/12/2022-06-15-CXL-1.1-vs-2.0-Webinar_FINAL.pdf)
+
+Danny Moore (Rambus) and Debendra Das Sharma (Intel)
+
+2022/06/06 [CXL 3.0\_ Enabling composable systems with expanded fabric capabilities](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_3.0-Webinar_FINAL.pdf)
 
 ### Flash Memory Summit
 
