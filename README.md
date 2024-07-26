@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 35 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 36 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -18,6 +18,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium)
     - [PCI-SIG](#pci-sig)
   - [2021](#2021)
+    - [CXL Consortium, Gen-Z Consortium, SNIA](#cxl-consortium-gen-z-consortium-snia)
     - [Fujitsu](#fujitsu)
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
@@ -70,6 +71,12 @@ Debendra Das Sharma
 2020/06/04 [PCIe® 6.0 Specification The Interconnect for IO Needs of the Future](https://pcisig.com/sites/default/files/files/PCIe%206.0%20Webinar_Final_.pdf)
 
 ## 2021
+
+### CXL Consortium, Gen-Z Consortium, SNIA
+
+Kurtis Bowman, et al.
+
+2021/11/17 [CXL™ Consortium, Gen-Z Consortium™, SNIA and End-Users – Is Disaggregation of Systems the Future](https://sc21.supercomputing.org/proceedings/bof/bof_pages/bof167.html)
 
 ### Fujitsu
 
