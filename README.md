@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 36 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 37 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -73,6 +73,10 @@ Debendra Das Sharma
 ## 2021
 
 ### CXL Consortium, Gen-Z Consortium, SNIA
+
+Ishwar Agarwal (Intel) and Mahesh Natu (Broadcom)
+
+2021/12/09 [An Overview of the Compute Express Link™ (CXL™) 2.0 ECN](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL-200-ECN-Webinar_Training_FINAL.pdf)
 
 Kurtis Bowman, et al.
 
