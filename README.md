@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 43 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 44 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -14,8 +14,10 @@ All titles are in English, regardless of the language in which they were written
     - [OpenFabrics Alliance](#openfabrics-alliance)
   - [2018](#2018)
     - [OpenFabrics Alliance](#openfabrics-alliance-1)
-  - [2020](#2020)
+  - [2019](#2019)
     - [CXL Consortium](#cxl-consortium)
+  - [2020](#2020)
+    - [CXL Consortium](#cxl-consortium-1)
     - [PCI-SIG](#pci-sig)
   - [2021](#2021)
     - [CXL Consortium, Gen-Z Consortium, SNIA](#cxl-consortium-gen-z-consortium-snia)
@@ -38,7 +40,7 @@ All titles are in English, regardless of the language in which they were written
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
-    - [CXL Consortium](#cxl-consortium-1)
+    - [CXL Consortium](#cxl-consortium-2)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
 ## 2017
@@ -56,6 +58,14 @@ Brand Benton (AMD)
 Paul Grun (Cray Inc) and Doug Voigt (HPE)
 
 2018/04/13 [OFA Think Tank Session Remote Persistent Memory](https://www.openfabrics.org/images/2018workshop/presentations/406_PGrunDVoigt_OFATT_RPM.pdf)
+
+## 2019
+
+### CXL Consortium
+
+Glenn Ward (Microsoft), Debendra Das Sharma (Intel) and Kurtis Bowman (AMD)
+
+2019/03/01 [Introduction to Compute Express Link™ (CXL™)](https://docs.wixstatic.com/ugd/0c1418_d9878707bbb7427786b70c3c91d5fbd1.pdf)
 
 ## 2020
 
