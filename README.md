@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 47 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 48 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -223,6 +223,10 @@ Alan Benjamin (GigaIO)
 2023/03/16 [DCI Functional Architecture](https://iowngf.org/wp-content/uploads/2023/04/IOWN-GF-RD-DCI_Functional_Architecture-2.0.pdf)
 
 ### Open Compute Project
+
+Charles Fan (MemVerge)
+
+2023/10/17 [CXL Shared Memory Smashes Through the IO Wall for AI Clusters ](https://drive.google.com/file/d/1kwEeO-mm2wF138xp_dSvkbl_gmVdvLzs/view?usp=share_link)
 
 Christian Pinto (IBM Research Europe - Ireland)
 
