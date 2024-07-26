@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 41 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 42 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -38,6 +38,7 @@ All titles are in English, regardless of the language in which they were written
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
+    - [CXL Consortium](#cxl-consortium-1)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
 ## 2017
@@ -238,6 +239,12 @@ Tomoaki Sato
 2023/07/12 [What is "Disaggregated Computing"? (Links)](https://valinux.hatenablog.com/entry/20230712)
 
 ## 2024
+
+### CXL Consortium
+
+Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX)
+
+[Exploring CXL® Use Cases and Implementations](https://computeexpresslink.org/wp-content/uploads/2024/07/CXL-Q224-Webinar-Slides.pdf)
 
 ### VA Linux Systems Japan
 
