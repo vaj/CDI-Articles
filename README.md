@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 40 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 41 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -59,6 +59,10 @@ Paul Grun (Cray Inc) and Doug Voigt (HPE)
 ## 2020
 
 ### CXL Consortium
+
+Debendra Das Sharma (Intel) and Ahmad Danesh (Microchip Technology)
+
+2020/12/16 [Compute Express Link™ (CXL™) Introducing the Compute Express Link™ 2.0 Specification](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_2.0_webinar_FINAL.pdf)
 
 Mahesh Natu (Intel) and Thanu Rangarajan (Arm)
 
