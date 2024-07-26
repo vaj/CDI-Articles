@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 50 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 51 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -227,6 +227,10 @@ Alan Benjamin (GigaIO)
 Ahmad Danesh (Astera labs)
 
 2023/10/17 [CXL The Superhighway for AI Workloads](https://drive.google.com/file/d/1Bc77pT1ys6_ND1LijpYDvirYDN51OGyh/view?usp=share_link)
+
+Brian Pan (H3 Platform)
+
+2023/10/17 [256-lane CXL switch and testing results](https://drive.google.com/file/d/16t3piSlPbpepxkhlBMZWj3tkqc3P-O-n/view?usp=drive_link)
 
 Charles Fan (MemVerge)
 
