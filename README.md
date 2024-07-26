@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 44 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 45 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -259,6 +259,10 @@ Tomoaki Sato
 Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX)
 
 [Exploring CXL® Use Cases and Implementations](https://computeexpresslink.org/wp-content/uploads/2024/07/CXL-Q224-Webinar-Slides.pdf)
+
+Robert Blankenship (Intel) and Mahesh Wagh (AMD)
+
+2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
 
 ### VA Linux Systems Japan
 
