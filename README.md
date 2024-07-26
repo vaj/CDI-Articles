@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 48 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 49 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -223,6 +223,10 @@ Alan Benjamin (GigaIO)
 2023/03/16 [DCI Functional Architecture](https://iowngf.org/wp-content/uploads/2023/04/IOWN-GF-RD-DCI_Functional_Architecture-2.0.pdf)
 
 ### Open Compute Project
+
+Ahmad Danesh (Astera labs)
+
+2023/10/17 [CXL The Superhighway for AI Workloads](https://drive.google.com/file/d/1Bc77pT1ys6_ND1LijpYDvirYDN51OGyh/view?usp=share_link)
 
 Charles Fan (MemVerge)
 
