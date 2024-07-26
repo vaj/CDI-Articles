@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 37 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 38 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -81,6 +81,10 @@ Ishwar Agarwal (Intel) and Mahesh Natu (Broadcom)
 Kurtis Bowman, et al.
 
 2021/11/17 [CXL™ Consortium, Gen-Z Consortium™, SNIA and End-Users – Is Disaggregation of Systems the Future](https://sc21.supercomputing.org/proceedings/bof/bof_pages/bof167.html)
+
+Raghu Makaram (Intel) and David Harriman (Intel)
+
+2021/09/15 [Compute Express Link™ (CXL™) Link-level Integrity and Data Encryption (CXL IDE)](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_CXL-IDE-Webinar_FINAL.pdf)
 
 ### Fujitsu
 
