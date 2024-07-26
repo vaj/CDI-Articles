@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 46 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 47 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -35,6 +35,7 @@ All titles are in English, regardless of the language in which they were written
     - [ASPLOS 2023](#asplos-2023)
     - [CXL Consortium](#cxl-consortium-2)
     - [Flash Memory Summit](#flash-memory-summit-1)
+    - [GigaIO](#gigaio)
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia-1)
@@ -210,6 +211,12 @@ Debendra Das Sharma (Intel), Mahesh Wagh (AMD), Maheash Natu (Intel) and Vincent
 
 2023/08/07 [Compute Express LinkTM (CXL™): An Open
 Industry Standard for Composable Computing](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_FMS-2023-Tutorial_FINAL.pdf)
+
+### GigaIO
+
+Alan Benjamin (GigaIO)
+
+2023/11/21 [GigaIO: The March of Composability – Onward to Memory with CXL](https://www.slideshare.net/slideshow/gigaio-the-march-of-composability-onward-to-memory-with-cxl/263685610)
 
 ### IOWN GLOBAL FORUM
 
