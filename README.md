@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 45 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 46 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -33,6 +33,7 @@ All titles are in English, regardless of the language in which they were written
     - [SNIA](#snia)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
+    - [CXL Consortium](#cxl-consortium-2)
     - [Flash Memory Summit](#flash-memory-summit-1)
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Open Compute Project](#open-compute-project)
@@ -40,7 +41,7 @@ All titles are in English, regardless of the language in which they were written
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
-    - [CXL Consortium](#cxl-consortium-2)
+    - [CXL Consortium](#cxl-consortium-3)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
 ## 2017
@@ -196,6 +197,12 @@ Cheolmin Park (Samsung)
 Maruf, Hasan Al, et al.
 
 2023/03/25 [TPP: Transparent Page Placement for CXL-Enabled Tiered-Memory](https://dl.acm.org/doi/abs/10.1145/3582016.3582063)
+
+### CXL Consortium
+
+Kurtis Bowman (CXL MWG Co-Chair), Tracy Spitler (IntelliProp), Vijay Nain (Micron) and Bill Gervasi (Wolley)
+
+2023/11/12 [Increasing Memory Utilization and Reducing Total Memory Cost Using CXL](https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof201.html)
 
 ### Flash Memory Summit
 
