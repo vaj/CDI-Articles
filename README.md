@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 77 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 78 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -346,6 +346,10 @@ Vikrant Soman (Uber) and Anjaneya Chagam (Intel)
 WaiKiong Poon (Molex) and Seunghyun Eddy Hwang (NVIDIA)
 
 2023/10/17 [Partnership to enable copper for the next generation artificial Intelligence Computing](https://drive.google.com/file/d/1SBA_m4_vm_yUu1Sat-6rWZ7ThAvX10RI/view?usp=drive_link)
+
+Yishen Huang, Qing Wang and Janet Chen (Meta)
+
+2023/10/17 [Methods for integration and evaluation of LPO](https://drive.google.com/file/d/1FQo6FsgLglEzdxzpRgq_fFwjNTGuUoCV/view?usp=drive_link)
 
 ### SNIA
 
