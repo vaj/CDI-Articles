@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 51 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 52 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -239,6 +239,10 @@ Charles Fan (MemVerge)
 Chris Petersen (Meta) and Prakash Chauhan (Meta)
 
 2023/10/17 [Flexible AI System Design and CXL](https://drive.google.com/file/d/1C9VXlet5sVBFtPk2LoirjHMRhVaTNq--/view?usp=share_link)
+
+Christopher Blackburn and Brian Costello (TE Connectivity)
+
+2023/10/17 [Disaggregated & Composable Architectures The Importance of Extended PCIe Cabling](https://drive.google.com/file/d/12ZSTkIgkzESbf4fZzj7WQBi3y4oto-gB/view?usp=drive_link)
 
 Christian Pinto (IBM Research Europe - Ireland)
 
