@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 63 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 64 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -287,6 +287,10 @@ Priya Vartak (Astera Labs)
 Vikrant Soman (Uber)
 
 2023/10/17 [Methodology for performance benchmarking of containerized microservices using CMS memory pooling](https://drive.google.com/file/d/1NFB92xKvQSVjkebGL63M7ljnQzNw05WN/view?usp=drive_link)
+
+Vikrant Soman (Uber) and Anjaneya Chagam (Intel)
+
+2023/10/17 [OCP Composable Memory Systems (CMS) Logical and Physical Architecture overview and use case mapping](https://drive.google.com/file/d/1PBZKfoZXhWtS1xjm-umFmJNDynr8-Xiw/view?usp=drive_link)
 
 WaiKiong Poon (Molex) and Seunghyun Eddy Hwang (NVIDIA)
 
