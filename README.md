@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 58 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 59 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -259,6 +259,10 @@ Kevin Yasumura (Google)
 Mohamad El-Batal (Seagate)
 
 2023/10/17 [OCP PCIe Extended Connectivity Requirements](https://drive.google.com/file/d/1_DDvarls2mPcDUpriH7HK03m8H_dyWtZ/view?usp=drive_link)
+
+Nathan Tracy (OIF)
+
+2023/10/17 [The Path for Next Generation Optics](https://drive.google.com/file/d/1emqE1hHhUu5EFbF4C6KvhOzXWGrBP0jR/view?usp=drive_link)
 
 Sam Kocsis (Amphenol) and Chris Cole (II-VI)
 
