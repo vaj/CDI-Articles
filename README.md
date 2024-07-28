@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 83 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 85 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -228,6 +228,10 @@ Ahmad Danesh (Astera labs)
 
 2023/10/17 [CXL The Superhighway for AI Workloads](https://drive.google.com/file/d/1Bc77pT1ys6_ND1LijpYDvirYDN51OGyh/view?usp=share_link)
 
+Allan Cantle (Nallasway)
+
+2023/10/17 [HPC- The Next Generation - A Sustainable - Energy Centric Architecture first - Innovation](https://drive.google.com/file/d/1mrrb9YjtnxKmOVAUO7-71eAlUkb3QbUN/view?usp=drive_link)
+
 Anant Thakar (Cisco) and Kiran Vemuri (Meta)
 
 2023/10/17 [CMS Hardware Form Factors](https://drive.google.com/file/d/1Ga22X77gWsmXUn0zFWtsrnJcyw098m4k/view?usp=drive_link)
@@ -272,6 +276,10 @@ Darron Young (Meta)
 Don Moon (SK hynix), Daniel Byrne and Sounak Gupta (Intel)
 
 2023/10/17 [More cache for less cash: CXL Memory Bandwidth and Capacity Expansion in Software Caches](https://drive.google.com/file/d/1AQX56jb9qa-W9adlAjNkt4dhUMOcfHGI/view?usp=drive_link)
+
+Gregory D Sellman (AMD), Dirk Blevins (Intel) and Damien Chong (Meta)
+
+2023/10/17 [DC-MHS Modular Shared Infrastructure (M-SIF) - Comprehending Multi-Node/Host](https://drive.google.com/file/d/1CeP6nnnA9dRHFEsd22UZQGBAgqYT7NIu/view?usp=drive_link)
 
 Hasan Ali (Molex) and Joe Jacques (Cisco)
 
