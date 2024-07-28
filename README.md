@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 69 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 70 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -267,6 +267,10 @@ Don Moon (SK hynix), Daniel Byrne and Sounak Gupta (Intel)
 Hemal Shah (Braodcom) and Jeff Autor (HPE)
 
 2023/10/17 [Hardware Management Project Update: New sub-projects and Workstreams](https://drive.google.com/file/d/1UAh7XNCH25dvddKsADUKx6QXqgqKRlI2/view?usp=drive_link)
+
+Larrie Carr (Rambus)
+
+2023/10/17 [Mitigating Silent Errors and Corruption within the Data Center](https://drive.google.com/file/d/1g7fPOKjnSAfNbt_FZCqRQotqdh_rrKmV/view?usp=drive_link)
 
 Kevin Yasumura (Google)
 
