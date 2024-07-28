@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 68 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 69 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -291,6 +291,10 @@ Priya Vartak (Astera Labs)
 Sam Kocsis (Amphenol) and Chris Cole (II-VI)
 
 2023/10/17 [Extending PCIe Connectivity with Optics](https://drive.google.com/file/d/1viUimL0CaVcpxee4swtIz6Dq0OOSRI9U/view?usp=drive_link)
+
+Samir Rajadnya (Microsoft), Durgesh Srivastava (Nvidia) and Larrie Carr (Rambus)
+
+2023/10/17 [Hotness Tracking in Composable Memory Systems](https://drive.google.com/file/d/1CJ3Td79NtfNhmxLRE6aIpudZqjOftI8u/view?usp=drive_link)
 
 Steve Scargall (Memverge)
 
