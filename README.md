@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 89 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 90 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -356,6 +356,10 @@ Samer El-Haj-Mahmoud (Arm), James Bodner (Nvidia) and Tim Lewis (Insyde Software
 Samir Rajadnya (Microsoft), Durgesh Srivastava (Nvidia) and Larrie Carr (Rambus)
 
 2023/10/17 [Hotness Tracking in Composable Memory Systems](https://drive.google.com/file/d/1CJ3Td79NtfNhmxLRE6aIpudZqjOftI8u/view?usp=drive_link)
+
+Scott Stetzer (KIOXIA)
+
+2023/10/17 [Next Evolution of Flash is Software-Defined - presented by KIOXIA](https://drive.google.com/file/d/1jtaOkBrUEMmYDk9OzEz6IDYs4hOnSf83/view?usp=share_link)
 
 Steve Scargall (Memverge)
 
