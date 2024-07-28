@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 78 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 79 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -282,6 +282,10 @@ Jonathan Zhang (Astera Labs)
 Larrie Carr (Rambus)
 
 2023/10/17 [Mitigating Silent Errors and Corruption within the Data Center](https://drive.google.com/file/d/1g7fPOKjnSAfNbt_FZCqRQotqdh_rrKmV/view?usp=drive_link)
+
+LK Bhupathi (Ayar Labs)
+
+2023/10/17 [THE NEXT WAVE OF COMPUTING WITH OPTICAL I/O](https://drive.google.com/file/d/1am_pLTwnL9YZ-_5VhbSChygjUEEPzB-H/view?usp=drive_link)
 
 Kevin Yasumura (Google)
 
