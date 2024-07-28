@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 72 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 73 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -303,6 +303,10 @@ Priya Vartak (Astera Labs)
 Sam Kocsis (Amphenol) and Chris Cole (II-VI)
 
 2023/10/17 [Extending PCIe Connectivity with Optics](https://drive.google.com/file/d/1viUimL0CaVcpxee4swtIz6Dq0OOSRI9U/view?usp=drive_link)
+
+Sameh Boujelbene (Dell'Oro Group)
+
+2023/10/17 [AI Networking Market Overview](https://drive.google.com/file/d/1EgAAq3u0NvKtiK6FNQz-eNHTf5-swfMf/view?usp=drive_link)
 
 Samir Rajadnya (Microsoft), Durgesh Srivastava (Nvidia) and Larrie Carr (Rambus)
 
