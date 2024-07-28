@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 80 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 81 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -233,6 +233,8 @@ Anant Thakar (Cisco) and Kiran Vemuri (Meta)
 2023/10/17 [CMS Hardware Form Factors](https://drive.google.com/file/d/1Ga22X77gWsmXUn0zFWtsrnJcyw098m4k/view?usp=drive_link)
 
 Andy Bechtolsheim (Arista)
+
+2023/10/17 [The AI Datacenter](https://drive.google.com/file/d/1KKWXip0DuiLtmuxPmt6gjsVCK3H8aQAr/view?usp=share_link)
 
 2023/10/17 [Large Scale AI Clusters: Network Architectures and Optics](https://drive.google.com/file/d/1b4ZB_9beeEoAljE_3TiUIKoEpcyD-qIH/view?usp=drive_link)
 
