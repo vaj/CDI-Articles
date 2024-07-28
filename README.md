@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 86 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 87 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -344,6 +344,10 @@ Sam Kocsis (Amphenol) and Chris Cole (II-VI)
 Sameh Boujelbene (Dell'Oro Group)
 
 2023/10/17 [AI Networking Market Overview](https://drive.google.com/file/d/1EgAAq3u0NvKtiK6FNQz-eNHTf5-swfMf/view?usp=drive_link)
+
+Samer El-Haj-Mahmoud (Arm), James Bodner (Nvidia) and Tim Lewis (Insyde Software)
+
+2023/10/17 [Designing standards compliant servers with Arm SystemReady and the NVIDIA Grace open ecosystem](https://drive.google.com/file/d/15ThhPfP5AfCZaAiAqlryEOILPwrqO9vq/view?usp=drive_link)
 
 Samir Rajadnya (Microsoft), Durgesh Srivastava (Nvidia) and Larrie Carr (Rambus)
 
