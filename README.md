@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 64 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 65 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -276,13 +276,17 @@ Nathan Tracy (OIF)
 
 2023/10/17 [The Path for Next Generation Optics](https://drive.google.com/file/d/1emqE1hHhUu5EFbF4C6KvhOzXWGrBP0jR/view?usp=drive_link)
 
+Priya Vartak (Astera Labs)
+
+2023/10/17 [Unleash the Full Potential of CXL](https://drive.google.com/file/d/1xSVb0D_RkmXZrETT1gqoyWpyE21nWEmE/view?usp=drive_link)
+
 Sam Kocsis (Amphenol) and Chris Cole (II-VI)
 
 2023/10/17 [Extending PCIe Connectivity with Optics](https://drive.google.com/file/d/1viUimL0CaVcpxee4swtIz6Dq0OOSRI9U/view?usp=drive_link)
 
-Priya Vartak (Astera Labs)
+Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 
-2023/10/17 [Unleash the Full Potential of CXL](https://drive.google.com/file/d/1xSVb0D_RkmXZrETT1gqoyWpyE21nWEmE/view?usp=drive_link)
+2023/10/17 [Capacity & TCO benefits to Applications using VMware Memory tiering](https://drive.google.com/file/d/1TNUveAT6IrhVEkwySzcwnMBT2UaXpYGd/view?usp=drive_link)
 
 Vikrant Soman (Uber)
 
