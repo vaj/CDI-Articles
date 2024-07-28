@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 66 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 68 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -232,6 +232,10 @@ Anant Thakar (Cisco) and Kiran Vemuri (Meta)
 
 2023/10/17 [CMS Hardware Form Factors](https://drive.google.com/file/d/1Ga22X77gWsmXUn0zFWtsrnJcyw098m4k/view?usp=drive_link)
 
+Andy Mills (SMART Modular Technologies)
+
+2023/10/17 [CXL Memory Disaggregation and Tiering: Lessons Learned from Storage](https://drive.google.com/file/d/19325MgjMedFqF5I4q5nC9zpJ1F1fxIyM/view?usp=drive_link)
+
 Anjaneya Chagam (Intel) and Manoj Wadekar (Meta)
 
 2023/10/17 [OCP CMS Sub-Project  progress update and plans](https://drive.google.com/file/d/1vW4S2RyiT1OPVKaqDkiM_sSQ3USQ3bko/view?usp=drive_link)
@@ -287,6 +291,10 @@ Priya Vartak (Astera Labs)
 Sam Kocsis (Amphenol) and Chris Cole (II-VI)
 
 2023/10/17 [Extending PCIe Connectivity with Optics](https://drive.google.com/file/d/1viUimL0CaVcpxee4swtIz6Dq0OOSRI9U/view?usp=drive_link)
+
+Steve Scargall (Memverge)
+
+2023/10/17 [CXL Device Telemetry: A Software Interface Proposal](https://drive.google.com/file/d/13UDYypZw5y2n6IyPmj6yyTUU908Hprhh/view?usp=drive_link)
 
 Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 
