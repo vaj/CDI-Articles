@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 75 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 76 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -326,6 +326,10 @@ Steve Scargall (Memverge)
 Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 
 2023/10/17 [Capacity & TCO benefits to Applications using VMware Memory tiering](https://drive.google.com/file/d/1TNUveAT6IrhVEkwySzcwnMBT2UaXpYGd/view?usp=drive_link)
+
+Vlad Kozlov (Light Counting), Manish Mehta (Broadcom), Loi Nguyen (Marvell) and Andy Bechtolsheim (Arista)
+
+2023/10/17 [Panel Challenges and opportunities for optics in AI](https://drive.google.com/file/d/1exCoTN8hltVcAw4skEOI7sc_PWt0bL_s/view?usp=drive_link)
 
 Vikrant Soman (Uber)
 
