@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 53 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 54 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -251,6 +251,10 @@ Christopher Blackburn and Brian Costello (TE Connectivity)
 Christian Pinto (IBM Research Europe - Ireland)
 
 2023/04/20 [Disentangling your data center with the OpenFabrics Management Framework](https://drive.google.com/file/d/1NyD762XWFTy_151d7akhIdudWEeRYRrx/view?usp=share_link)
+
+Priya Vartak (Astera Labs)
+
+2023/10/17 [Unleash the Full Potential of CXL](https://drive.google.com/file/d/1xSVb0D_RkmXZrETT1gqoyWpyE21nWEmE/view?usp=drive_link)
 
 ### SNIA
 
