@@ -316,7 +316,7 @@ Tomoaki Sato
 
 Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX)
 
-[Exploring CXL® Use Cases and Implementations](https://computeexpresslink.org/wp-content/uploads/2024/07/CXL-Q224-Webinar-Slides.pdf)
+2024/06/27 [Exploring CXL® Use Cases and Implementations](https://computeexpresslink.org/wp-content/uploads/2024/07/CXL-Q224-Webinar-Slides.pdf)
 
 Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
