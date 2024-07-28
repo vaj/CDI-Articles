@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 87 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 88 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -360,6 +360,10 @@ Steve Scargall (Memverge)
 Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 
 2023/10/17 [Capacity & TCO benefits to Applications using VMware Memory tiering](https://drive.google.com/file/d/1TNUveAT6IrhVEkwySzcwnMBT2UaXpYGd/view?usp=drive_link)
+
+Tim Lambert (Dell), Mike Witkowski (HPE), Todd Rosedahl (IBM) and Javier Lasa (Intel)
+
+2023/10/17 [DC-MHS: Peripheral Out-of-Band Management Evolution](https://drive.google.com/file/d/15HI6QgYAcsrrYav1oWO0Z67OL2s5pEJh/view?usp=drive_link)
 
 Vlad Kozlov (Light Counting), Manish Mehta (Broadcom), Loi Nguyen (Marvell) and Andy Bechtolsheim (Arista)
 
