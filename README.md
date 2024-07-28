@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 82 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 83 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -280,6 +280,10 @@ Hasan Ali (Molex) and Joe Jacques (Cisco)
 Hemal Shah (Braodcom) and Jeff Autor (HPE)
 
 2023/10/17 [Hardware Management Project Update: New sub-projects and Workstreams](https://drive.google.com/file/d/1UAh7XNCH25dvddKsADUKx6QXqgqKRlI2/view?usp=drive_link)
+
+Hoshik Kim (SK hynix)
+
+2023/10/17 [CXL: A Prelude to Memory-centric Computing - presented by SK hynix](https://drive.google.com/file/d/1pKSD6d7kwTXwOW-vKfZp3Y5e-6JopXF0/view?usp=drive_link)
 
 Jonathan Zhang (Astera Labs)
 
