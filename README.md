@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 85 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 86 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -308,6 +308,10 @@ LK Bhupathi (Ayar Labs)
 Kevin Yasumura (Google)
 
 2023/10/17 [Lightwave Fabrics: At-Scale Optical Circuit Switching for Datacenter and Machine Learning Systems](https://drive.google.com/file/d/1iiRGUyvDrvdDM1kCfvFO5iVdsPMLTF7g/view?usp=drive_link)
+
+Kiran Vemuri and Chenyu Xu (Meta)
+
+2023/10/17 [Yosemite v4, Meta's next gen modular server platform](https://drive.google.com/file/d/14z7lVf-yZK_dXmLwz0eqDC0oanOIc3iu/view?usp=drive_link)
 
 Michael Klempa (AlphaWave IP)
 
