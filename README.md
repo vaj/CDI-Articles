@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 61 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 62 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -263,6 +263,10 @@ Hemal Shah (Braodcom) and Jeff Autor (HPE)
 Kevin Yasumura (Google)
 
 2023/10/17 [Lightwave Fabrics: At-Scale Optical Circuit Switching for Datacenter and Machine Learning Systems](https://drive.google.com/file/d/1iiRGUyvDrvdDM1kCfvFO5iVdsPMLTF7g/view?usp=drive_link)
+
+Manoj Wadekar (Meta) and Samir Rajadnya (Microsoft)
+
+2023/10/17 [Composable Memory - Hyperscale use cases and Benchmarks](https://drive.google.com/file/d/1qhjEccdoHT-FuL3CE41JULgCnyUMISwt/view?usp=drive_link)
 
 Mohamad El-Batal (Seagate)
 
