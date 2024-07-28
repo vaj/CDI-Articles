@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 81 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 82 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -344,6 +344,10 @@ Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 Vlad Kozlov (Light Counting), Manish Mehta (Broadcom), Loi Nguyen (Marvell) and Andy Bechtolsheim (Arista)
 
 2023/10/17 [Panel Challenges and opportunities for optics in AI](https://drive.google.com/file/d/1exCoTN8hltVcAw4skEOI7sc_PWt0bL_s/view?usp=drive_link)
+
+Vikram Kasivajhula (Google), Manoj Wadekar (Meta) and Alex Wetmore (Microsoft)
+
+2023/10/17 [AI Use Cases](https://drive.google.com/file/d/1hy2rE9b5uJc_Qf236sYoEjRHIiXT87ex/view?usp=share_link)
 
 Vikrant Soman (Uber)
 
