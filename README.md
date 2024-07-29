@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 108 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 109 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -511,6 +511,10 @@ Rob Nance (Jabil) and Paul Artman (AMD)
 Ron Swartzentruber (Lightelligence)
 
 2024/04/24 [Optical CXL for disaggregated compute architectures](https://drive.google.com/file/d/1ydt8Edbyjf_-UmSIoQCq1C3caPuYT3G7/view?usp=drive_link)
+
+Sam Kocsis (Amphenol)
+
+2024/04/24 [Participating in an Open Hardware Ecosystem](https://drive.google.com/file/d/1aBEt-hRyQ2ya4Mz0RagryMTmLkT98-NJ/view?usp=drive_link)
 
 Siamak Tavallaei (Independent), Anjaneya Chagam (Intel)
 
