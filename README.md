@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 109 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 110 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -507,6 +507,10 @@ Nilesh Shah (zeropoint technologies)
 Rob Nance (Jabil) and Paul Artman (AMD)
 
 2024/04/24 [DC-MHS Modular Shared Infrastructure (M-SIF)](https://drive.google.com/file/d/1XGHiMXNIRNICuMjdkactn6ov8UJC0MlX/view?usp=drive_link)
+
+Roy Rubenstein (LightCounting), William Koss (Drut Technologies), Ron Swartzentruber (Lightelligence), Vlad Kozlov (Light Counting) and Andrew Alduino (Meta)
+
+2024/04/24 [PANEL The evolving role of optics in AI Clusters](https://drive.google.com/file/d/1Gok_Rxs6Pl6d6ffBupyKN_yrxfrRXFIC/view?usp=drive_link)
 
 Ron Swartzentruber (Lightelligence)
 
