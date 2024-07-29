@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 113 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 114 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -246,6 +246,10 @@ Andy Bechtolsheim (Arista)
 Andy Mills (SMART Modular Technologies)
 
 2023/10/17 [CXL Memory Disaggregation and Tiering: Lessons Learned from Storage](https://drive.google.com/file/d/19325MgjMedFqF5I4q5nC9zpJ1F1fxIyM/view?usp=drive_link)
+
+Anil Agrawal and Gada Badeer (Meta)
+
+2023/10/17 [A proposed solution to improve reliability by containing the impact of PCIe Uncorrected Errors](https://drive.google.com/file/d/1COPMU_H84GwYnzM9ADAUOdUELi7OQaZ2/view?usp=drive_link)
 
 Anjaneya Chagam (Intel) and Manoj Wadekar (Meta)
 
