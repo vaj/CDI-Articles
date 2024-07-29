@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 105 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 106 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -489,6 +489,10 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
 
 ### Open Compute Project
+
+Anil Agrawal and Carlos Fernandez (Meta)
+
+2024/04/24 [PCIe Express corrected errors handling (RAS) solution implementation considerations](https://drive.google.com/file/d/1PW2cxy5y6JWR6b_jM08434d3jgHlOt94/view?usp=drive_link)
 
 Nilesh Shah (zeropoint technologies)
 
