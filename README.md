@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 116 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 117 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -467,6 +467,10 @@ Phil Cayton, et al.
 Vince Hache (Rambus)
 
 2023/04/11 [SNIA CMSS23 - Introduction to Fabrics in CXL 3.0](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Hache-Introduction-to-CXL-Fabrics.pdf)
+
+Yang Seok Ki (Samsung)
+
+2023/09/19 [Is SSD with CXL Interfaces Brilliantly Stupid or Stupidly Brilliant](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Ki-Is-SSD-with-CXL-Interfaces-Brilliantly-Stupid-or-Stupidly-Brilliant.pdf)
 
 ### The OpenFabrics Alliance
 
