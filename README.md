@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 101 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 102 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -489,6 +489,10 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
 
 ### Open Compute Project
+
+Nilesh Shah (zeropoint technologies)
+
+2024/04/24 [Streamlining CXL Adoption for Hyperscale Efficiency](https://drive.google.com/file/d/1GLQs-N0bnzShzYIVhKwNFmMkM6dqIl69/view?usp=drive_link)
 
 Suresh Subramaniam (Apex Semiconductors)
 
