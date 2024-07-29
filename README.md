@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 92 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 93 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -277,9 +277,17 @@ Christian Pinto (IBM Research Europe - Ireland)
 Darron Young (Meta)
 2023/10/17 [Meta Use Cases](https://drive.google.com/file/d/1zC08Uny8cE4P1airjfstyzYGsClgF-sM/view?usp=drive_link)
 
+Debendra Das Sharma
+
+2023/10/17 [UCIe™ (Universal Chiplet Interconnect Express™) Building an open ecosystem of chiplets for on-package innovations](https://drive.google.com/file/d/1N-dB0aKDdtDDlYJoETbTMzcYE1d4K-6M/view?usp=drive_link)
+
 Don Moon (SK hynix), Daniel Byrne and Sounak Gupta (Intel)
 
 2023/10/17 [More cache for less cash: CXL Memory Bandwidth and Capacity Expansion in Software Caches](https://drive.google.com/file/d/1AQX56jb9qa-W9adlAjNkt4dhUMOcfHGI/view?usp=drive_link)
+
+Hemal Shah (Broadcom), Yuval Itkin (nVidia) and Patrick Caporale (Lenovo)
+
+2023/10/17 [A preview of next generation MCTP for OCP platform management communication infrastructure](https://drive.google.com/file/d/1Ap1ZhOSqumGzAxSd1mjBqUMl_vUVis_T/view?usp=drive_link)
 
 Jeff Twombly (Credo Semiconductor)
 
