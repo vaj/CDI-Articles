@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 94 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 95 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -285,14 +285,6 @@ Don Moon (SK hynix), Daniel Byrne and Sounak Gupta (Intel)
 
 2023/10/17 [More cache for less cash: CXL Memory Bandwidth and Capacity Expansion in Software Caches](https://drive.google.com/file/d/1AQX56jb9qa-W9adlAjNkt4dhUMOcfHGI/view?usp=drive_link)
 
-Hemal Shah (Broadcom), Yuval Itkin (nVidia) and Patrick Caporale (Lenovo)
-
-2023/10/17 [A preview of next generation MCTP for OCP platform management communication infrastructure](https://drive.google.com/file/d/1Ap1ZhOSqumGzAxSd1mjBqUMl_vUVis_T/view?usp=drive_link)
-
-Jeff Twombly (Credo Semiconductor)
-
-2023/10/17 [The Rise of Chiplets in Advanced AI / ML / HPC SoC's - presented by Credo Semiconductor](https://drive.google.com/file/d/1SAYWAWfppkIc-e4quDMNuMEOreKR-p3z/view?usp=share_link)
-
 Gregory D Sellman (AMD), Dirk Blevins (Intel) and Damien Chong (Meta)
 
 2023/10/17 [DC-MHS Modular Shared Infrastructure (M-SIF) - Comprehending Multi-Node/Host](https://drive.google.com/file/d/1CeP6nnnA9dRHFEsd22UZQGBAgqYT7NIu/view?usp=drive_link)
@@ -305,9 +297,21 @@ Hemal Shah (Braodcom) and Jeff Autor (HPE)
 
 2023/10/17 [Hardware Management Project Update: New sub-projects and Workstreams](https://drive.google.com/file/d/1UAh7XNCH25dvddKsADUKx6QXqgqKRlI2/view?usp=drive_link)
 
+Hemal Shah (Broadcom), Yuval Itkin (nVidia) and Patrick Caporale (Lenovo)
+
+2023/10/17 [A preview of next generation MCTP for OCP platform management communication infrastructure](https://drive.google.com/file/d/1Ap1ZhOSqumGzAxSd1mjBqUMl_vUVis_T/view?usp=drive_link)
+
 Hoshik Kim (SK hynix)
 
 2023/10/17 [CXL: A Prelude to Memory-centric Computing - presented by SK hynix](https://drive.google.com/file/d/1pKSD6d7kwTXwOW-vKfZp3Y5e-6JopXF0/view?usp=drive_link)
+
+Jeff Twombly (Credo Semiconductor)
+
+2023/10/17 [The Rise of Chiplets in Advanced AI / ML / HPC SoC's - presented by Credo Semiconductor](https://drive.google.com/file/d/1SAYWAWfppkIc-e4quDMNuMEOreKR-p3z/view?usp=share_link)
+
+John Leung (Intel)
+
+2023/10/17 [OCP Profiles for Interoperable Management](https://drive.google.com/file/d/1TijK7SbiXksg-_4n5lcIpNxZ6PpbvMtw/view?usp=drive_link)
 
 Jonathan Zhang (Astera Labs)
 
