@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 115 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 116 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -497,6 +497,10 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
 
 ### Open Compute Project
+
+Andrew Alduino (Meta)
+
+2024/04/24 [Optics in AI Clusters - Meta Perspective](https://drive.google.com/file/d/1Gok_Rxs6Pl6d6ffBupyKN_yrxfrRXFIC/view?usp=drive_link)
 
 Anil Agrawal and Carlos Fernandez (Meta)
 
