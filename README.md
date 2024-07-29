@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 111 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 112 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -511,6 +511,8 @@ Nilesh Shah (zeropoint technologies)
 Rob Nance (Jabil) and Paul Artman (AMD)
 
 2024/04/24 [DC-MHS Modular Shared Infrastructure (M-SIF)](https://drive.google.com/file/d/1XGHiMXNIRNICuMjdkactn6ov8UJC0MlX/view?usp=drive_link)
+
+2024/04/24 [Data Center Modular Hardware System Specification (DC-MHS) the overview](https://drive.google.com/file/d/1Zyli_17qrjioO_mkYAHCxc3iBJcUCcWV/view?usp=drive_link)
 
 Roy Rubenstein (LightCounting), William Koss (Drut Technologies), Ron Swartzentruber (Lightelligence), Vlad Kozlov (Light Counting) and Andrew Alduino (Meta)
 
