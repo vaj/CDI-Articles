@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 91 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 92 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -249,6 +249,10 @@ Andy Mills (SMART Modular Technologies)
 Anjaneya Chagam (Intel) and Manoj Wadekar (Meta)
 
 2023/10/17 [OCP CMS Sub-Project  progress update and plans](https://drive.google.com/file/d/1vW4S2RyiT1OPVKaqDkiM_sSQ3USQ3bko/view?usp=drive_link)
+
+Antonio Hasbun (Intel), Drew Walton (Google) and Yogesh Varma (Intel)
+
+2023/10/17 [RAS API workstream - Overview and status](https://drive.google.com/file/d/183vic7Bq-Hnf9efy21UfJtPUCLOtTR40/view?usp=drive_link)
 
 Brian Pan (H3 Platform)
 
