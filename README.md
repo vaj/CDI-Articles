@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 90 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 91 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -276,6 +276,10 @@ Darron Young (Meta)
 Don Moon (SK hynix), Daniel Byrne and Sounak Gupta (Intel)
 
 2023/10/17 [More cache for less cash: CXL Memory Bandwidth and Capacity Expansion in Software Caches](https://drive.google.com/file/d/1AQX56jb9qa-W9adlAjNkt4dhUMOcfHGI/view?usp=drive_link)
+
+Jeff Twombly (Credo Semiconductor)
+
+2023/10/17 [The Rise of Chiplets in Advanced AI / ML / HPC SoC's - presented by Credo Semiconductor](https://drive.google.com/file/d/1SAYWAWfppkIc-e4quDMNuMEOreKR-p3z/view?usp=share_link)
 
 Gregory D Sellman (AMD), Dirk Blevins (Intel) and Damien Chong (Meta)
 
