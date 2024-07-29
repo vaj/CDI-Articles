@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 117 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 118 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -463,6 +463,10 @@ Mats Öberg (Marvell)
 Phil Cayton, et al.
 
 2023/05/17 [Casting the Net\_ Scaling Management of Storage and Fabrics](https://www.snia.org/sites/default/files/Alliances/Casting-the-Net-Scaling-Mangement-of-Storage-and-Fabrics.pdf)
+
+Richelle Ahlvers (Broadcom), Sandeep Dattaprasad (Astera Labs), Gerry Fan (Xconn Technologies) and Steve Scargall (Intel)
+
+2023/09/21 [SDC 2023 - CXL Advancing Coherent Connectivity](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Alvers-Dattaprasad-CXL-Advancing-Coherent-Connectivity.pdf)
 
 Vince Hache (Rambus)
 
