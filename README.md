@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 97 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 99 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -278,6 +278,10 @@ Christian Pinto (IBM Research Europe - Ireland)
 
 2023/04/20 [Disentangling your data center with the OpenFabrics Management Framework](https://drive.google.com/file/d/1NyD762XWFTy_151d7akhIdudWEeRYRrx/view?usp=share_link)
 
+CMS Sub-project
+
+2023/10/17 [OCP Composable Memory Systems Overview - presented by CMS](https://drive.google.com/file/d/1JHxDpQJhGgTNJzMG4OAWM4Wq5BW99LIt/view?usp=drive_link)
+
 Darron Young (Meta)
 2023/10/17 [Meta Use Cases](https://drive.google.com/file/d/1zC08Uny8cE4P1airjfstyzYGsClgF-sM/view?usp=drive_link)
 
@@ -388,6 +392,10 @@ Samir Rajadnya (Microsoft), Durgesh Srivastava (Nvidia) and Larrie Carr (Rambus)
 Scott Stetzer (KIOXIA)
 
 2023/10/17 [Next Evolution of Flash is Software-Defined - presented by KIOXIA](https://drive.google.com/file/d/1jtaOkBrUEMmYDk9OzEz6IDYs4hOnSf83/view?usp=share_link)
+
+Siamak Tavallaei
+
+2023/10/17 [Scale-up and Scale-out challenges for disaggregated infrastructure](https://drive.google.com/file/d/1Pp4e4X-x-ZxfUa2qn8HWL_AR9RAxP4az/view?usp=drive_link)
 
 Steve Scargall (Memverge)
 
