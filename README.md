@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 99 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 100 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -43,6 +43,7 @@ All titles are in English, regardless of the language in which they were written
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
     - [CXL Consortium](#cxl-consortium-3)
+    - [Open Compute Project](#open-compute-project-1)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
 ## 2017
@@ -486,6 +487,12 @@ Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX
 Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
 2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
+
+### Open Compute Project
+
+Todd Rosedahl (Jabil)
+
+2024/04/24 [Large Memory Server Design Overview](https://drive.google.com/file/d/1DXrynarhCKYKhHXqXIN-0ECOzUuHUN3Z/view?usp=drive_link)
 
 ### VA Linux Systems Japan
 
