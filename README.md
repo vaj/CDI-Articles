@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 93 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 94 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -388,6 +388,10 @@ Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 Tim Lambert (Dell), Mike Witkowski (HPE), Todd Rosedahl (IBM) and Javier Lasa (Intel)
 
 2023/10/17 [DC-MHS: Peripheral Out-of-Band Management Evolution](https://drive.google.com/file/d/15HI6QgYAcsrrYav1oWO0Z67OL2s5pEJh/view?usp=drive_link)
+
+Tom Hackenberg (Yole Group), Jayaprakash Balachandran (d-Matrix), Majid Foodeei (Kandou), Andy Heinig (Fraunhofer) and Subu Iyer (UCLA)
+
+2023/10/17 [Panel: What is Next in Building The Open Chiplet Economy](https://drive.google.com/file/d/1lIG1zvWP8fMU5bcVm3Y6a7KuhHdciaJ0/view?usp=drive_link)
 
 Vlad Kozlov (Light Counting), Manish Mehta (Broadcom), Loi Nguyen (Marvell) and Andy Bechtolsheim (Arista)
 
