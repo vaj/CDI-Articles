@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 107 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 108 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -493,6 +493,10 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 Anil Agrawal and Carlos Fernandez (Meta)
 
 2024/04/24 [PCIe Express corrected errors handling (RAS) solution implementation considerations](https://drive.google.com/file/d/1PW2cxy5y6JWR6b_jM08434d3jgHlOt94/view?usp=drive_link)
+
+Glenn Ge (TetraMem)
+
+2024/04/24 [Analog In-memory computing with multilevel memristive devices for high performance computing](https://drive.google.com/file/d/1EFbCGfI_XonVemcHCtKYiaaPWivTXxKv/view?usp=drive_link)
 
 Nilesh Shah (zeropoint technologies)
 
