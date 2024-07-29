@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 114 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 115 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -545,6 +545,10 @@ Suresh Subramaniam (Apex Semiconductors)
 Todd Rosedahl (Jabil)
 
 2024/04/24 [Large Memory Server Design Overview](https://drive.google.com/file/d/1DXrynarhCKYKhHXqXIN-0ECOzUuHUN3Z/view?usp=drive_link)
+
+Vlad Kozlov (Light Counting)
+
+2024/04/24 [Market Overview](https://drive.google.com/file/d/1DzFEn7-aHpn54qDRhBxOlVH6LPOsQ_4U/view?usp=drive_link)
 
 ### VA Linux Systems Japan
 
