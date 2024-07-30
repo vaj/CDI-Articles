@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 118 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 119 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -151,6 +151,10 @@ Vincent Haché (Rambus)
 2022/05/22 [Introduction to the Compute Express Link™ (CXL™) Fabric Manager](https://computeexpresslink.org/wp-content/uploads/2023/12/20220322_CXL_FM_Webinar_Final.pdf)
 
 ### Flash Memory Summit
+
+Manoj Wadeker (Meta)
+
+2022/08/02 [Enabling Software Defined Memory Real World Use Cases with CXL](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_OCPMeta.pdf)
 
 Steve Glaser (NVIDIA)
 
