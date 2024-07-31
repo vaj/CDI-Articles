@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 120 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 121 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -163,6 +163,10 @@ Manoj Wadeker (Meta)
 Steve Glaser (NVIDIA)
 
 2022/08/02 [NVIDIA Beyond Just Another Interconnect Protocol](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_NVIDIA.pdf)
+
+Will Nelson (Intel)
+
+2022/08/02 [Intel CXL Industry Enablement](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_Intel.pdf)
 
 ### Hot Chips 34
 
