@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 121 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 122 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -219,6 +219,10 @@ Kurtis Bowman (CXL MWG Co-Chair), Tracy Spitler (IntelliProp), Vijay Nain (Micro
 2023/11/12 [Increasing Memory Utilization and Reducing Total Memory Cost Using CXL](https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof201.html)
 
 ### Flash Memory Summit
+
+Charles Fan (MemVerge)
+
+2023/08/06 [MemVerge Project Gismo Global IO-free Shared Memory Objects](https://memverge.com/wp-content/uploads/MemVerge-Gismo-FMS2023.pdf)
 
 Debendra Das Sharma (Intel), Mahesh Wagh (AMD), Maheash Natu (Intel) and Vincent Hache (Rambus)
 
