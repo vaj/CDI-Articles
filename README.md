@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 126 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 127 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -187,6 +187,10 @@ Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
 2022/08/21 [CXL3 Fabric introduction & use cases](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL3%20Fabric%20Intro%20and%20use%20cases.pdf)
 
 ### Linux Plumbers Conference
+
+Heekwon Park (Samsung)
+
+2022/09/14 [Design and implementation of Autocaching for CXLSSD - Heekwon Park](https://lpc.events/event/16/contributions/1253/attachments/1118/2148/LPC2022_Autocaching_New_v4_pdf.pdf)
 
 Jérôme Glisse (Google)
 
