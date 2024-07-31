@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 129 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 130 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -21,6 +21,7 @@ All titles are in English, regardless of the language in which they were written
     - [PCI-SIG](#pci-sig)
   - [2021](#2021)
     - [CXL Consortium, Gen-Z Consortium, SNIA](#cxl-consortium-gen-z-consortium-snia)
+    - [Linux Plumbers Conference](#linux-plumbers-conference)
     - [Fujitsu](#fujitsu)
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
@@ -28,7 +29,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consrtium](#cxl-consrtium)
     - [Flash Memory Summit](#flash-memory-summit)
     - [Hot Chips 34](#hot-chips-34)
-    - [Linux Plumbers Conference](#linux-plumbers-conference)
+    - [Linux Plumbers Conference](#linux-plumbers-conference-1)
     - [PCI-SIG](#pci-sig-1)
     - [SNIA](#snia)
   - [2023](#2023)
@@ -115,6 +116,12 @@ Mahesh Wagh (Intel) and Rick Sodke(Microchip)
 Raghu Makaram (Intel) and David Harriman (Intel)
 
 2021/09/15 [Compute Express Link™ (CXL™) Link-level Integrity and Data Encryption (CXL IDE)](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_CXL-IDE-Webinar_FINAL.pdf)
+
+### Linux Plumbers Conference
+
+Ben Widawsky (Intel)
+
+2021/09/24 [Compute Express Link + Linux + QEMU = Yes - Ben Widawsky](https://lpc.events/event/11/contributions/906/attachments/743/1399/LPC2021%20-%20CXL.pdf)
 
 ### Fujitsu
 
