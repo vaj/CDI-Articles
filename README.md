@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 119 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 120 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -145,6 +145,10 @@ Danny Volkind (UnifabriX) and Elad Shliselberg (UnifabriX)
 Danny Moore (Rambus) and Debendra Das Sharma (Intel)
 
 2022/06/06 [CXL 3.0\_ Enabling composable systems with expanded fabric capabilities](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_3.0-Webinar_FINAL.pdf)
+
+Siamak Tavallaei
+
+2022/08/02 [CXL Consortium Update](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_CXL-Consortium.pdf)
 
 Vincent Haché (Rambus)
 
