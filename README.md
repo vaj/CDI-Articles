@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 128 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 129 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -199,6 +199,10 @@ Jérôme Glisse (Google)
 Jonathan Cameron (Huawei)
 
 2022/09/14 [CXL 2.0+ Emulation With QEMU Status, requirements and roadmap. - Jonathan Cameron](https://lpc.events/event/16/contributions/1248/attachments/1047/2002/CXL%20plumbers%20uconf%20QEMU.pdf)
+
+Jonathan Zhang (Meta)
+
+2022/09/14 [Meta_s CXL Journey and Learnings in Linux - Jonathan Zhang](https://lpc.events/event/16/contributions/1207/attachments/950/1866/LPC2022_%20Meta's%20CXL%20Journey%20and%20Learnings.pdf)
 
 Navneet Singh (Intel)
 
