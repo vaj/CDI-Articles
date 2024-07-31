@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 130 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 131 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -38,6 +38,7 @@ All titles are in English, regardless of the language in which they were written
     - [Flash Memory Summit](#flash-memory-summit-1)
     - [GigaIO](#gigaio)
     - [IOWN GLOBAL FORUM](#iown-global-forum)
+    - [Linux Plumbers Conferene](#linux-plumbers-conferene)
     - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia-1)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
@@ -273,6 +274,12 @@ Alan Benjamin (GigaIO)
 ### IOWN GLOBAL FORUM
 
 2023/03/16 [DCI Functional Architecture](https://iowngf.org/wp-content/uploads/2023/04/IOWN-GF-RD-DCI_Functional_Architecture-2.0.pdf)
+
+### Linux Plumbers Conferene
+
+Fan Ni (Samsung)
+
+2023/11/14 [CXL Emulation in OEMUProgress, Status and most importantly. What's next](https://lpc.events/event/17/contributions/1454/attachments/1156/2558/CXL%20Emulation%20in%20QEMU_%20Progress,%20Status%20and%20most%20importantly…%20What’s%20next-Lastest-full-slides.pdf)
 
 ### Open Compute Project
 
