@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 122 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 123 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -191,6 +191,10 @@ Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
 Jonathan Cameron (Huawei)
 
 2022/09/14 [CXL 2.0+ Emulation With QEMU Status, requirements and roadmap. - Jonathan Cameron](https://lpc.events/event/16/contributions/1248/attachments/1047/2002/CXL%20plumbers%20uconf%20QEMU.pdf)
+
+PJ Waskiewicz (Jump Trading)
+
+2022/09/14 [CXL hotplug\_ spec to reality - PJ Waskiewicz](https://lpc.events/event/16/contributions/1251/attachments/1122/2155/CXL%20spec%20to%20reality%20MC%20talk.pdf)
 
 ### PCI-SIG
 
