@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 123 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 125 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -192,9 +192,17 @@ Jonathan Cameron (Huawei)
 
 2022/09/14 [CXL 2.0+ Emulation With QEMU Status, requirements and roadmap. - Jonathan Cameron](https://lpc.events/event/16/contributions/1248/attachments/1047/2002/CXL%20plumbers%20uconf%20QEMU.pdf)
 
+Navneet Singh (Intel)
+
+2022/09/14 [CXL Dynamic Capacity MM - Jonathan Cameron, Navneet Singh](<https://lpc.events/event/16/contributions/1252/attachments/1044/1998/cxl%20plumbers%20DCD%20(005).pdf>)
+
 PJ Waskiewicz (Jump Trading)
 
 2022/09/14 [CXL hotplug\_ spec to reality - PJ Waskiewicz](https://lpc.events/event/16/contributions/1251/attachments/1122/2155/CXL%20spec%20to%20reality%20MC%20talk.pdf)
+
+Sayanta Pattanayak (ARM)
+
+2022/09/14 [CXL Type-3 device discovery, configuration in firmware and prepare ACPI tables... Sayanta Pattanayak](https://lpc.events/event/16/contributions/1254/attachments/1113/2136/CXL%20Type-3%20device%20discovery,%20configuration%20in%20firmware%20and%20prepare%20ACPI%20tables%20for%20kernel%20usage.pdf)
 
 ### PCI-SIG
 
