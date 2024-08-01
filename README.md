@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 186 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 187 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -686,6 +686,10 @@ Nilesh Shah (Montage)
 Nilesh Shah (ZeroPoint)
 
 2024/02/13 [ZeroPoint. Remove the waste. Release the power](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-zeropoint-remove-the-waste-release-the-power/266325688)
+
+Ravi Budruk (MindShare)
+
+2024/02/13 [About MindShare Training](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-about-mindshare-training/266312769)
 
 Ravi Gummaluri (Micron)
 
