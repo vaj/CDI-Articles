@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 136 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 137 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -300,6 +300,10 @@ Navneet Singh, Ira Weiny (Intel) and Jonathan Cameron (Huawei)
 Ravi Kiran Gummaluri and John Groves (Micron Technology)
 
 2023/11/14 [CXL Memory Tiering for heterogenous computing](https://lpc.events/event/17/contributions/1458/attachments/1245/2550/LPC2023_CXLMemoryTiering_%20RaviGummaluri.pdf)
+
+Robert Richter and Terry Bowman (AMD)
+
+2023/11/14 [Adding RAS Support for CXL Port Devices](https://lpc.events/event/17/contributions/1452/attachments/1157/2430/Adding-RAS-Support-For-CXL-Port-Devices-CXL-LPC-MC-111323-2.pdf)
 
 ### Open Compute Project
 
