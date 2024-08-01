@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 178 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 179 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -676,6 +676,8 @@ Ron Swartzentruber (Lightelligence)
 2024/02/14 [Lightelligence Advantages of Optical CXL for Disaggregated Compute Architectures](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-advantages-of-optical-cxl-for-disaggregated-compute-architectures/266312309)
 
 Siamak Tavallaei (CXL Consortium)
+
+2024/02/11 [CXL Related Activities Within OCP](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxlrelated-activities-within-ocp/266312757)
 
 2024/02/16 [CXL 3.1 Update](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-compute-express-link-cxl-31-update/266312320)
 
