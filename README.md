@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 198 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 199 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -40,6 +40,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium-2)
     - [Flash Memory Summit](#flash-memory-summit-1)
     - [GigaIO](#gigaio)
+    - [Hot Chips](#hot-chips)
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Linux Plumbers Conferene](#linux-plumbers-conferene)
     - [Open Compute Project](#open-compute-project)
@@ -308,6 +309,12 @@ Industry Standard for Composable Computing](https://computeexpresslink.org/wp-co
 Alan Benjamin (GigaIO)
 
 2023/11/21 [GigaIO: The March of Composability – Onward to Memory with CXL](https://www.slideshare.net/slideshow/gigaio-the-march-of-composability-onward-to-memory-with-cxl/263685610)
+
+### Hot Chips
+
+Swadesh Choudhary (Intel) and Marvin Denman (NVIDIA)
+
+2023/08/27 [UCIe Protocol](https://hc2023.hotchips.org/assets/program/tutorials/ucie/UCIe%20Protocol.pdf)
 
 ### IOWN GLOBAL FORUM
 
