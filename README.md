@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 194 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 195 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -801,6 +801,10 @@ Vlad Kozlov (Light Counting)
 Catherine Appleby and Michael Aguilar (Sandia National Laboratories)
 
 2024/04/23 [OFA Virtual Workshop 2024 Day 2 Session 8](https://www.openfabrics.org/wp-content/uploads/2024-workshop/2024-workshop-presentations/session-8.pdf)
+
+Christian Pinto (IBM Research Europe), Michael Aguilar (Sandia National Laboratories), Phil Cayton (Intel), Russ Herrell (HPE) and Brian Pan (H3 Platform)
+
+2024/04/23 [OFA Virtual Workshop 2024 Day 2 Session 7](https://www.openfabrics.org/wp-content/uploads/2024-workshop/2024-workshop-presentations/session-7.pdf)
 
 Kurtis Bowman (CXL Consortium) and Mitch Wright (Liqid)
 
