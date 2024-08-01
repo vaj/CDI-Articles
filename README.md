@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 183 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 184 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -692,6 +692,10 @@ Siamak Tavallaei (CXL Consortium)
 2024/02/11 [CXL Related Activities Within OCP](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxlrelated-activities-within-ocp/266312757)
 
 2024/02/16 [CXL 3.1 Update](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-compute-express-link-cxl-31-update/266312320)
+
+Steve Scargall (MemVerge)
+
+2024/02/16 [MemVerge Memory Fabric Webinar   Using CXL with AI Applications](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-using-cxl-with-ai-applications-steve-scargallpptx/266325554)
 
 Thibault Grossi (Yole)
 
