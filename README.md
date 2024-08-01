@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 147 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 148 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -21,6 +21,7 @@ All titles are in English, regardless of the language in which they were written
   - [2020](#2020)
     - [CXL Consortium](#cxl-consortium-1)
     - [PCI-SIG](#pci-sig)
+    - [SNIA](#snia-1)
   - [2021](#2021)
     - [CXL Consortium, Gen-Z Consortium, SNIA](#cxl-consortium-gen-z-consortium-snia)
     - [Linux Plumbers Conference](#linux-plumbers-conference-1)
@@ -33,7 +34,7 @@ All titles are in English, regardless of the language in which they were written
     - [Hot Chips 34](#hot-chips-34)
     - [Linux Plumbers Conference](#linux-plumbers-conference-2)
     - [PCI-SIG](#pci-sig-1)
-    - [SNIA](#snia-1)
+    - [SNIA](#snia-2)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
     - [CXL Consortium](#cxl-consortium-2)
@@ -42,7 +43,7 @@ All titles are in English, regardless of the language in which they were written
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Linux Plumbers Conferene](#linux-plumbers-conferene)
     - [Open Compute Project](#open-compute-project)
-    - [SNIA](#snia-2)
+    - [SNIA](#snia-3)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
@@ -107,6 +108,12 @@ Mahesh Natu (Intel) and Thanu Rangarajan (Arm)
 Debendra Das Sharma
 
 2020/06/04 [PCIe® 6.0 Specification The Interconnect for IO Needs of the Future](https://pcisig.com/sites/default/files/files/PCIe%206.0%20Webinar_Final_.pdf)
+
+### SNIA
+
+Robert Blankenship (Intel)
+
+2020/09/22 [SDC2020 CXL 1.1 Protocol Extensions Review of the cache and memory protocols in CXL](https://snia.org/sites/default/files/SDC/2020/130-Blankenship-CXL-1.1-Protocol-Extensions.pdf)
 
 ## 2021
 
