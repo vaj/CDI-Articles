@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 131 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 132 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -277,9 +277,13 @@ Alan Benjamin (GigaIO)
 
 ### Linux Plumbers Conferene
 
-Fan Ni (Samsung)
+Jonathan Cameron (Huawei) and Fan Ni (Samsung)
 
 2023/11/14 [CXL Emulation in OEMUProgress, Status and most importantly. What's next](https://lpc.events/event/17/contributions/1454/attachments/1156/2558/CXL%20Emulation%20in%20QEMU_%20Progress,%20Status%20and%20most%20importantly…%20What’s%20next-Lastest-full-slides.pdf)
+
+Navneet Singh, Ira Weiny (Intel) and Jonathan Cameron (Huawei)
+
+2023/11/14 [Plumbing challenges in Dynamic Capacity Devices](https://lpc.events/event/17/contributions/1457/attachments/1213/2479/LPC2023_dcd.pptx)
 
 ### Open Compute Project
 
