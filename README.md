@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 164 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 165 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -707,6 +707,10 @@ Adam Manzanares (Samsung)
 Ahmed Medhioub (Astera Labs)
 
 2024/05/21 [Breaking Through the Memory Wall with CXL](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Medhioub-Breaking-Through-The-Memory-Wall-with-CXL.pdf)
+
+Andy Banta (Magnition IO)
+
+2024/04/24 [Regional SDC Austin 24 Optimizing Content Delivery Networks through Simulations](https://www.snia.org/sites/default/files/SDC/Austin/SNIA-RSDC-Banta-Optimizing-Memory-Hierarchies.pdf)
 
 Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 
