@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 142 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 143 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -556,6 +556,10 @@ Clarete Crasta
 Debendra Das Sharma (Intel)
 
 [SDC 2023 - PCIe® 7.0 Specification 128 GTs Bandwidth for Future Data-Intensive Markets](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-DasSharma-PCIe-7.0-Specification-Bandwidth.pdf)
+
+Jim Handy (Objective Analysis)
+
+2023/09/20 [SDC 2023 - Riding the Long Tail of Optane’s Comet - Emerging Memories, CXL, UCIe, and More](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Handy-Coughlin-Riding-Tail-of-Optanes-Comet.pdf)
 
 Mats Öberg (Marvell)
 
