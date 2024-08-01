@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 154 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 155 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -707,6 +707,10 @@ Ahmed Medhioub (Astera Labs)
 David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMware)
 
 2024/05/21 [Bringing Unique Customer Value with CXL Accelerator-Based Memory Solutions](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-McIntyre-Jagannath-Balasubramanian-Bringing-Unique-Customer-Value-with-CXL-Accelerator-Based-Memory-Solutions.pdf)
+
+Jim Handy (Objective Analysis)
+
+2024/05/21 [Memories are Driving Big Architectural Changes – Hold Onto Your Hats!](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Handy-Coughlin-Memories-Are-Driving-Big-Architectural-Changes.pdf)
 
 Kurtis Bowman (CXL Consortium), Sandeep Dattaprasad (Astera Labs) and Steve Scargall (MemVerge)
 
