@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 177 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 178 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -658,6 +658,10 @@ Brian Pan (H3 Platform)
 Charles Fan (MemVerge)
 
 2024/02/11 [MemVerge Big Memory Computing for AI](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-big-memory-computing-for-ai/266312376)
+
+Eddie McMorrow (GigaIO)
+
+2024/02/14 [GigaIO Memory Fabric in a Composable System](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-memory-fabric-in-a-composable-system/266312387)
 
 JP Jiang (Xconn Technologies)
 
