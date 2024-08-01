@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 185 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 186 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -662,6 +662,10 @@ Charles Fan (MemVerge)
 Eddie McMorrow (GigaIO)
 
 2024/02/14 [GigaIO Memory Fabric in a Composable System](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-memory-fabric-in-a-composable-system/266312387)
+
+Gary Ruggles (Synopsys)
+
+2024/02/14 [Synopsys Building Fast and Secure Chips with CXL IP](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-building-fast-and-secure-chips-with-cxl-ip/266325662)
 
 JP Jiang (Xconn Technologies)
 
