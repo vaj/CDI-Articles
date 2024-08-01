@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 134 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 135 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -292,6 +292,10 @@ Jonathan Cameron (Huawei) and Fan Ni (Samsung)
 Navneet Singh, Ira Weiny (Intel) and Jonathan Cameron (Huawei)
 
 2023/11/14 [Plumbing challenges in Dynamic Capacity Devices](https://lpc.events/event/17/contributions/1457/attachments/1213/2479/LPC2023_dcd.pptx)
+
+Ravi Kiran Gummaluri and John Groves (Micron Technology)
+
+2023/11/14 [CXL Memory Tiering for heterogenous computing](https://lpc.events/event/17/contributions/1458/attachments/1245/2550/LPC2023_CXLMemoryTiering_%20RaviGummaluri.pdf)
 
 ### Open Compute Project
 
