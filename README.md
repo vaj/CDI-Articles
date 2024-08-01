@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 153 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 154 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -699,6 +699,10 @@ Vlad Kozlov (Light Counting)
 2024/04/24 [Market Overview](https://drive.google.com/file/d/1DzFEn7-aHpn54qDRhBxOlVH6LPOsQ_4U/view?usp=drive_link)
 
 ### SNIA
+
+Ahmed Medhioub (Astera Labs)
+
+2024/05/21 [Breaking Through the Memory Wall with CXL](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Medhioub-Breaking-Through-The-Memory-Wall-with-CXL.pdf)
 
 David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMware)
 
