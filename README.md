@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 144 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 146 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -242,6 +242,10 @@ Debendra Das Sharma
 2022/06/29 [The History of PCI IO Technology 30 Years of PCI-SIG® Innovation](https://pcisig.com/sites/default/files/files/30%20Years%20of%20PCI-SIG%20Innovation%20Webinar_Final%20Slides.pdf)
 
 ### SNIA
+
+Charles Fan (MemVerge)
+
+2022/09/15 [SDC2022 – Memory Disaggregation and Pooling with CXL](https://www.snia.org/sites/default/files/SDC/2022/SNIA-SDC22-Fan-Memory-Disaggregation-and-Pooling-with-CXL.pdf)
 
 Cheolmin Park (Samsung)
 
@@ -552,6 +556,10 @@ Andy Rudoff (Intel)
 Clarete Crasta
 
 2023/04/11 [SNIA CMSS23 - Fabric Attached Memory – Hardware and Software Architecture](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Crasta-%20Fabric-Attached-Memory.pdf)
+
+David Emberson (HPE)
+
+2023/09/21 [SDC 2023 - Fabric Attached Memory – Hardware and Software Architecture](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Emberson-Singhal-Crasta-Fabric-Attached-Memory.pdf)
 
 Debendra Das Sharma (Intel)
 
