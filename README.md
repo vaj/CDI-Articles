@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 148 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 149 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -49,6 +49,7 @@ All titles are in English, regardless of the language in which they were written
   - [2024](#2024)
     - [CXL Consortium](#cxl-consortium-3)
     - [Open Compute Project](#open-compute-project-1)
+    - [SNIA](#snia-4)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
 ## 2017
@@ -696,6 +697,12 @@ Todd Rosedahl (Jabil)
 Vlad Kozlov (Light Counting)
 
 2024/04/24 [Market Overview](https://drive.google.com/file/d/1DzFEn7-aHpn54qDRhBxOlVH6LPOsQ_4U/view?usp=drive_link)
+
+### SNIA
+
+Sudhir Balasubramanian and Arvind Jagannath (VMware)
+
+2024/05/22 [VMware Memory Vision for Real World Applications](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Jagannath-Balasubramanian-VMware-Memory-Vision-for-Real-World-Applications.pdf)
 
 ### VA Linux Systems Japan
 
