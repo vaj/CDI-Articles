@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 140 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 141 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -536,6 +536,10 @@ Yishen Huang, Qing Wang and Janet Chen (Meta)
 2023/10/17 [Methods for integration and evaluation of LPO](https://drive.google.com/file/d/1FQo6FsgLglEzdxzpRgq_fFwjNTGuUoCV/view?usp=drive_link)
 
 ### SNIA
+
+Andy Banta (Magnition IO) and Kin-Yip Liu (AMD)
+
+2023/09/21 [SDC 2023 - CXL and the Art of Hierarchical Memories Their Management and Use](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Banta-Liu-CXL-and-the-Art_1.pdf)
 
 Andy Mills (Smart Modular Technologies)
 
