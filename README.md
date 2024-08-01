@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 195 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 196 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -891,6 +891,10 @@ Steven Yuan (StorageX.ai)
 Wentao Hou (University of Wisconsin-Madison) Jie Zhang, Zeke Wang (Zhejiang University), Ming Liu (University of Wisconsin-Madison)
 
 2024/04/16 [NSDI '24 - Understanding Routable PCIe Performance for Composable Infrastructures](https://www.usenix.org/conference/nsdi24/presentation/hou)
+
+Zhe Yang (Tsinghua University)
+
+2024/02/27 [FAST '24 - TeRM Extending RDMA-Attached Memory with SSD](https://www.usenix.org/system/files/fast24_slides-yang_zhe.pdf)
 
 ### VA Linux Systems Japan
 
