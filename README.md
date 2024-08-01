@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 158 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 159 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -727,6 +727,10 @@ Kurtis Bowman (CXL Consortium), Sandeep Dattaprasad (Astera Labs) and Steve Scar
 Larrie Carr (Rambus)
 
 2024/05/22 [Proprietary Interconnects and CXL](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Carr-Proprietary-Interconnects-and-CXL.pdf)
+
+Manoj Wadekar (Meta)
+
+2024/05/22 [AI Pushing Infra boundaries - Memory is a key factor](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Wadekar-Pushing-Infra-Boundaries.pdf)
 
 Paul McLeod (Supermicro)
 
