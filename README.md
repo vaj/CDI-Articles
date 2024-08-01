@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 181 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 183 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -670,6 +670,14 @@ JP Jiang (Xconn Technologies)
 Michael Abraham (Micron)
 
 2024/02/14 [Micron CXL Compatible Memory Modules](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-micron-cxlcompatible-memory-modules/266312344)
+
+Michael Ocampo (Astera Labs)
+
+2024/02/12 [Astera Labs  Breaking Through the Memory Wall with CXL](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-breaking-through-the-memory-wall/266312460)
+
+Nilesh Shah (Montage)
+
+2024/02/11 [Montage Memory Controllers](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxl-controller-by-montage-technology/266312746)
 
 Ravi Gummaluri (Micron)
 
