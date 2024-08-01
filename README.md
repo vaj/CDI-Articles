@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 146 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 147 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -17,6 +17,7 @@ All titles are in English, regardless of the language in which they were written
   - [2019](#2019)
     - [CXL Consortium](#cxl-consortium)
     - [Linux Plumbers Conference](#linux-plumbers-conference)
+    - [SNIA](#snia)
   - [2020](#2020)
     - [CXL Consortium](#cxl-consortium-1)
     - [PCI-SIG](#pci-sig)
@@ -32,7 +33,7 @@ All titles are in English, regardless of the language in which they were written
     - [Hot Chips 34](#hot-chips-34)
     - [Linux Plumbers Conference](#linux-plumbers-conference-2)
     - [PCI-SIG](#pci-sig-1)
-    - [SNIA](#snia)
+    - [SNIA](#snia-1)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
     - [CXL Consortium](#cxl-consortium-2)
@@ -41,7 +42,7 @@ All titles are in English, regardless of the language in which they were written
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Linux Plumbers Conferene](#linux-plumbers-conferene)
     - [Open Compute Project](#open-compute-project)
-    - [SNIA](#snia-1)
+    - [SNIA](#snia-2)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
@@ -78,6 +79,12 @@ Glenn Ward (Microsoft), Debendra Das Sharma (Intel) and Kurtis Bowman (AMD)
 Jim Hull, Betty Dall and Keith Packard (HPE)
 
 2019/09/11 [LPC2019 - Linux Gen-Z Sub-system](https://lpc.events/event/4/contributions/301/attachments/214/385/GenZ_Subsystem_Plumbers19.pdf)
+
+### SNIA
+
+Alan Bumgarner (Intel) and Tom Talpey (Microsoft)
+
+2019/09/24 [SNIA Nonvolatile Memory Programming TWG - Remote Persistent Memory (SDC 2019)](https://www.snia.org/sites/default/files/SDC/2019/presentations/PM/Talpey_Tom_Bumgarner_Nonvolatile_Memory_Programming_TWG_Remote_Persistent_Memory.pdf)
 
 ## 2020
 
