@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 169 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 170 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -658,6 +658,10 @@ Siamak Tavallaei (CXL Consortium)
 Thibault Grossi (Yole)
 
 2024/02/11 [Yole Memory Processor Interface 2023 - Focus on CXL](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-memory-processor-interface-2023-focus-on-cxl/266312361)
+
+Torry Steed (SMART Modular)
+
+2024/02/14 [SMART Modular CXL Form Factor Primer](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxl-form-factor-primer/266312399)
 
 ### Open Compute Project
 
