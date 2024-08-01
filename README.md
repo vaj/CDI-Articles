@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 180 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 181 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -692,6 +692,8 @@ Thibault Grossi (Yole)
 Torry Steed (SMART Modular)
 
 2024/02/11 [SMART Modular CXL Product Line](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-smart-cxl-product-lineup/266312429)
+
+2024/02/13 [SMART Modular CXL Product Lineup (DAY2)](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-smart-cxl-product-lineup/266312429)
 
 2024/02/14 [SMART Modular CXL Form Factor Primer](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxl-form-factor-primer/266312399)
 
