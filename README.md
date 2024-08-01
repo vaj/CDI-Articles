@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 165 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 167 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -48,6 +48,7 @@ All titles are in English, regardless of the language in which they were written
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
     - [CXL Consortium](#cxl-consortium-3)
+    - [Memory Fabric Forum](#memory-fabric-forum)
     - [Open Compute Project](#open-compute-project-1)
     - [SNIA](#snia-4)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
@@ -639,6 +640,16 @@ Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX
 Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
 2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
+
+### Memory Fabric Forum
+
+Brian Pan (H3 Platform)
+
+2024/03/05 [Q1 Memory Fabric Forum: H3 CXL Solution](https://www.slideshare.net/slideshow/h3-platform-cxl-solutionmemory-fabric-forumpptx/266344775)
+
+Charles Fan (MemVerge)
+
+2024/02/11 [MemVerge Big Memory Computing for AI](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-big-memory-computing-for-ai/266312376)
 
 ### Open Compute Project
 
