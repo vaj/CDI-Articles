@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 150 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 151 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -699,6 +699,10 @@ Vlad Kozlov (Light Counting)
 2024/04/24 [Market Overview](https://drive.google.com/file/d/1DzFEn7-aHpn54qDRhBxOlVH6LPOsQ_4U/view?usp=drive_link)
 
 ### SNIA
+
+Larrie Carr (Rambus)
+
+2024/05/22 [Proprietary Interconnects and CXL](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Carr-Proprietary-Interconnects-and-CXL.pdf)
 
 Paul McLeod (Supermicro)
 
