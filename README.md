@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 187 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 188 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -678,6 +678,10 @@ Michael Abraham (Micron)
 Michael Ocampo (Astera Labs)
 
 2024/02/12 [Astera Labs  Breaking Through the Memory Wall with CXL](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-breaking-through-the-memory-wall/266312460)
+
+Nick Kriczsky and Gorden Getty (Teledyne LeCroy)
+
+2024/02/13 [Teledyne LeCroy Austin Labs](https://www.slideshare.net/slideshow/q1-memory-fabric-forum-teledyne-lecroy-austin-labs/266312725)
 
 Nilesh Shah (Montage)
 
