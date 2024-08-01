@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 179 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 180 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -670,6 +670,10 @@ JP Jiang (Xconn Technologies)
 Michael Abraham (Micron)
 
 2024/02/14 [Micron CXL Compatible Memory Modules](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-micron-cxlcompatible-memory-modules/266312344)
+
+Ravi Gummaluri (Micron)
+
+2024/02/11 [Micron Memory Expansion with CLX Ready Systems and Devices](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-memory-expansion-with-cxlready-systems-and-devices/266312807)
 
 Ron Swartzentruber (Lightelligence)
 
