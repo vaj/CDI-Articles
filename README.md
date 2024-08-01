@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 138 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 139 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -544,6 +544,10 @@ Andy Rudoff (Intel)
 Clarete Crasta
 
 2023/04/11 [SNIA CMSS23 - Fabric Attached Memory – Hardware and Software Architecture](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Crasta-%20Fabric-Attached-Memory.pdf)
+
+Debendra Das Sharma (Intel)
+
+[SDC 2023 - PCIe® 7.0 Specification 128 GTs Bandwidth for Future Data-Intensive Markets](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-DasSharma-PCIe-7.0-Specification-Bandwidth.pdf)
 
 Mats Öberg (Marvell)
 
