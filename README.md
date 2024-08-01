@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 137 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 138 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -16,12 +16,13 @@ All titles are in English, regardless of the language in which they were written
     - [OpenFabrics Alliance](#openfabrics-alliance-1)
   - [2019](#2019)
     - [CXL Consortium](#cxl-consortium)
+    - [Linux Plumbers Conference](#linux-plumbers-conference)
   - [2020](#2020)
     - [CXL Consortium](#cxl-consortium-1)
     - [PCI-SIG](#pci-sig)
   - [2021](#2021)
     - [CXL Consortium, Gen-Z Consortium, SNIA](#cxl-consortium-gen-z-consortium-snia)
-    - [Linux Plumbers Conference](#linux-plumbers-conference)
+    - [Linux Plumbers Conference](#linux-plumbers-conference-1)
     - [Fujitsu](#fujitsu)
     - [Intel](#intel)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
@@ -29,7 +30,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consrtium](#cxl-consrtium)
     - [Flash Memory Summit](#flash-memory-summit)
     - [Hot Chips 34](#hot-chips-34)
-    - [Linux Plumbers Conference](#linux-plumbers-conference-1)
+    - [Linux Plumbers Conference](#linux-plumbers-conference-2)
     - [PCI-SIG](#pci-sig-1)
     - [SNIA](#snia)
   - [2023](#2023)
@@ -71,6 +72,12 @@ Paul Grun (Cray Inc) and Doug Voigt (HPE)
 Glenn Ward (Microsoft), Debendra Das Sharma (Intel) and Kurtis Bowman (AMD)
 
 2019/03/01 [Introduction to Compute Express Link™ (CXL™)](https://docs.wixstatic.com/ugd/0c1418_d9878707bbb7427786b70c3c91d5fbd1.pdf)
+
+### Linux Plumbers Conference
+
+Jim Hull, Betty Dall and Keith Packard (HPE)
+
+2019/09/11 [LPC2019 - Linux Gen-Z Sub-system](https://lpc.events/event/4/contributions/301/attachments/214/385/GenZ_Subsystem_Plumbers19.pdf)
 
 ## 2020
 
