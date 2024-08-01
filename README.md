@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 133 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 134 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -280,6 +280,10 @@ Alan Benjamin (GigaIO)
 Ira Weiny (Intel)
 
 2023/11/14 [CXL Type-2 core support](https://lpc.events/event/17/contributions/1453/attachments/1170/2540/LPC2023_type2-large-font.pdf)
+
+John Groves (Micron Technology)
+
+2023/11/14 [CXL 3 Shared Memory What Will Be Required](https://lpc.events/event/17/contributions/1455/attachments/1179/2546/cxl-shared-fam-what-is-needed-v4.pdf)
 
 Jonathan Cameron (Huawei) and Fan Ni (Samsung)
 
