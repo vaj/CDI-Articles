@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 197 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 198 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -71,6 +71,10 @@ Brand Benton (AMD)
 Paul Grun (Cray Inc) and Doug Voigt (HPE)
 
 2018/04/13 [OFA Think Tank Session Remote Persistent Memory](https://www.openfabrics.org/images/2018workshop/presentations/406_PGrunDVoigt_OFATT_RPM.pdf)
+
+Tom Talpey (Microsoft)
+
+2018/04/10 [Persistent Memory Programming – the Remote Access Perspective](https://www.openfabrics.org/images/2018workshop/presentations/109_TTalpey_RemotePersistentMemory.pdf)
 
 ## 2019
 
