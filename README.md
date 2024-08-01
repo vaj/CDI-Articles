@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 190 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 191 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -50,6 +50,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium-3)
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [Open Compute Project](#open-compute-project-1)
+    - [PCI-SIG](#pci-sig-2)
     - [SNIA](#snia-4)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
@@ -792,6 +793,12 @@ Todd Rosedahl (Jabil)
 Vlad Kozlov (Light Counting)
 
 2024/04/24 [Market Overview](https://drive.google.com/file/d/1DzFEn7-aHpn54qDRhBxOlVH6LPOsQ_4U/view?usp=drive_link)
+
+### PCI-SIG
+
+Samuel Kocsis (Amphenole) and Mohiuddin Mazumder (Intel)
+
+2024/07/11 [The Journey to CopprLink™ and Beyond An Exploration of PCIe® Cabling Solutions](https://pcisig.com/sites/default/files/files/PCI-SIG%20Cabling%20Webinar_FINAL.pdf)
 
 ### SNIA
 
