@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 173 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 174 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -654,6 +654,10 @@ Brian Pan (H3 Platform)
 Charles Fan (MemVerge)
 
 2024/02/11 [MemVerge Big Memory Computing for AI](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-big-memory-computing-for-ai/266312376)
+
+JP Jiang (Xconn Technologies)
+
+2024/02/14 [XConn CXL Switches for AI](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-xconn-cxl-switches-for-ai/266311269)
 
 Michael Abraham (Micron)
 
