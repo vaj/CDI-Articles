@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 184 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 185 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -678,6 +678,10 @@ Michael Ocampo (Astera Labs)
 Nilesh Shah (Montage)
 
 2024/02/11 [Montage Memory Controllers](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxl-controller-by-montage-technology/266312746)
+
+Nilesh Shah (ZeroPoint)
+
+2024/02/13 [ZeroPoint. Remove the waste. Release the power](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-zeropoint-remove-the-waste-release-the-power/266325688)
 
 Ravi Gummaluri (Micron)
 
