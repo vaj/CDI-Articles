@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 196 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 197 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -887,6 +887,10 @@ Steven Yuan (StorageX.ai)
 2024/05/21 [Overcome Real World Challenges Between Data and AI](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Yuan-Overcome%20Real-World-Challenges-between-Data-and-AI%20%281%29.pdf)
 
 ### USENIX
+
+Jian Zhang (Rutgers University), Marie Nguyen (Samsung) and Changwoo Min (Igalia)
+
+2024/02/27 [FAST '24 - OmniCache Collaborative Caching for Near-storage Accelerators](https://www.usenix.org/system/files/fast24_slides-zhang-jian.pdf)
 
 Wentao Hou (University of Wisconsin-Madison) Jie Zhang, Zeke Wang (Zhejiang University), Ming Liu (University of Wisconsin-Madison)
 
