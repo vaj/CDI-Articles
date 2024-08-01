@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 132 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 133 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -276,6 +276,10 @@ Alan Benjamin (GigaIO)
 2023/03/16 [DCI Functional Architecture](https://iowngf.org/wp-content/uploads/2023/04/IOWN-GF-RD-DCI_Functional_Architecture-2.0.pdf)
 
 ### Linux Plumbers Conferene
+
+Ira Weiny (Intel)
+
+2023/11/14 [CXL Type-2 core support](https://lpc.events/event/17/contributions/1453/attachments/1170/2540/LPC2023_type2-large-font.pdf)
 
 Jonathan Cameron (Huawei) and Fan Ni (Samsung)
 
