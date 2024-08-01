@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 135 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 136 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -276,6 +276,10 @@ Alan Benjamin (GigaIO)
 2023/03/16 [DCI Functional Architecture](https://iowngf.org/wp-content/uploads/2023/04/IOWN-GF-RD-DCI_Functional_Architecture-2.0.pdf)
 
 ### Linux Plumbers Conferene
+
+Gregory Price and Svetly Todorov (MemVerge)
+
+[A move_pages() equivalent for physical memory](https://lpc.events/event/17/contributions/1456/attachments/1227/2497/move_phys_pages.pptx)
 
 Ira Weiny (Intel)
 
