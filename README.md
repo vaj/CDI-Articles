@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 139 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 140 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -536,6 +536,10 @@ Yishen Huang, Qing Wang and Janet Chen (Meta)
 2023/10/17 [Methods for integration and evaluation of LPO](https://drive.google.com/file/d/1FQo6FsgLglEzdxzpRgq_fFwjNTGuUoCV/view?usp=drive_link)
 
 ### SNIA
+
+Andy Mills (Smart Modular Technologies)
+
+2023/09/21 [SDC 2023 - CXL Memory Disaggregation and Tiering Lessons Learned from Storage](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Mills-CXL-Memory-Disaggregation-and-Tiering-Lessons-%20from-Storage.pdf)
 
 Andy Rudoff (Intel)
 
