@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 163 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 164 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -715,6 +715,10 @@ Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMware)
 
 2024/05/21 [Bringing Unique Customer Value with CXL Accelerator-Based Memory Solutions](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-McIntyre-Jagannath-Balasubramanian-Bringing-Unique-Customer-Value-with-CXL-Accelerator-Based-Memory-Solutions.pdf)
+
+Jason Molgaard (Solidigm)
+
+2024/04/24 [Regional SDC Austin 24 CXL® and NVMe® Collaborating for Computation](https://www.snia.org/sites/default/files/SDC/Austin/SNIA-RSDC24-Molgaard-CXL-NVMe-Collaborating-for-Computation.pdf)
 
 Jim Handy (Objective Analysis)
 
