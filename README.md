@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 191 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 192 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -52,6 +52,7 @@ All titles are in English, regardless of the language in which they were written
     - [Open Compute Project](#open-compute-project-1)
     - [PCI-SIG](#pci-sig-2)
     - [SNIA](#snia-4)
+    - [USENIX](#usenix)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
 
 ## 2017
@@ -869,6 +870,12 @@ Shyam Iyer (Dell)
 Steven Yuan (StorageX.ai)
 
 2024/05/21 [Overcome Real World Challenges Between Data and AI](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Yuan-Overcome%20Real-World-Challenges-between-Data-and-AI%20%281%29.pdf)
+
+### USENIX
+
+Wentao Hou (University of Wisconsin-Madison) Jie Zhang, Zeke Wang (Zhejiang University), Ming Liu (University of Wisconsin-Madison)
+
+2024/04/16 [NSDI '24 - Understanding Routable PCIe Performance for Composable Infrastructures](https://www.usenix.org/conference/nsdi24/presentation/hou)
 
 ### VA Linux Systems Japan
 
