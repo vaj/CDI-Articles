@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 156 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 158 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -704,6 +704,10 @@ Ahmed Medhioub (Astera Labs)
 
 2024/05/21 [Breaking Through the Memory Wall with CXL](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Medhioub-Breaking-Through-The-Memory-Wall-with-CXL.pdf)
 
+Bill Martin (Samsung) and Jason Molgaard (Solidigm)
+
+2024/05/22 [SNIA Computational Storage Standards](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Martin-Molgaard-Computational-Storage-Standards.pdf)
+
 David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMware)
 
 2024/05/21 [Bringing Unique Customer Value with CXL Accelerator-Based Memory Solutions](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-McIntyre-Jagannath-Balasubramanian-Bringing-Unique-Customer-Value-with-CXL-Accelerator-Based-Memory-Solutions.pdf)
@@ -731,6 +735,10 @@ Paul McLeod (Supermicro)
 Sudhir Balasubramanian and Arvind Jagannath (VMware)
 
 2024/05/22 [VMware Memory Vision for Real World Applications](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Jagannath-Balasubramanian-VMware-Memory-Vision-for-Real-World-Applications.pdf)
+
+Shyam Iyer (Dell)
+
+2024/05/22 [Smart Data Accelerator Interface Use Cases, Futures, and Proof Points](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Iyer-Smart-Data-Accelerator-Interface-Use-Cases-Futures-and-Proof-Points.pdf)
 
 ### VA Linux Systems Japan
 
