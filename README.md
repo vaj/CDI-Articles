@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 174 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 176 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -643,6 +643,10 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
 ### Memory Fabric Forum
 
+Anil Godbole (Intel)
+
+2024/02/14 [Intel CXL Enablement](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-intel-enabling-compute-express-link-cxl/266312298)
+
 Arvind Jagannath (VMware)
 
 2024/02/14 [VMware Memory Vision](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-vmware-memory-vision/266311250)
@@ -662,6 +666,10 @@ JP Jiang (Xconn Technologies)
 Michael Abraham (Micron)
 
 2024/02/14 [Micron CXL Compatible Memory Modules](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-micron-cxlcompatible-memory-modules/266312344)
+
+Ron Swartzentruber (Lightelligence)
+
+2024/02/14 [Lightelligence Advantages of Optical CXL for Disaggregated Compute Architectures](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-advantages-of-optical-cxl-for-disaggregated-compute-architectures/266312309)
 
 Siamak Tavallaei (CXL Consortium)
 
