@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 159 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 160 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -743,6 +743,10 @@ Sudhir Balasubramanian and Arvind Jagannath (VMware)
 Shyam Iyer (Dell)
 
 2024/05/22 [Smart Data Accelerator Interface Use Cases, Futures, and Proof Points](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Iyer-Smart-Data-Accelerator-Interface-Use-Cases-Futures-and-Proof-Points.pdf)
+
+Steven Yuan (StorageX.ai)
+
+2024/05/21 [Overcome Real World Challenges Between Data and AI](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Yuan-Overcome%20Real-World-Challenges-between-Data-and-AI%20%281%29.pdf)
 
 ### VA Linux Systems Japan
 
