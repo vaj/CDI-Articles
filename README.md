@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 211 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 212 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -45,6 +45,7 @@ All titles are in English, regardless of the language in which they were written
     - [Linux Plumbers Conferene](#linux-plumbers-conferene)
     - [Open Compute Project](#open-compute-project)
     - [SNIA](#snia-3)
+    - [The Linux Foundation](#the-linux-foundation)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
@@ -678,6 +679,12 @@ Vince Hache (Rambus)
 Yang Seok Ki (Samsung)
 
 2023/09/19 [Is SSD with CXL Interfaces Brilliantly Stupid or Stupidly Brilliant](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Ki-Is-SSD-with-CXL-Interfaces-Brilliantly-Stupid-or-Stupidly-Brilliant.pdf)
+
+### The Linux Foundation
+
+Hyde Sugiyama (Red Hat), Ryosuke Kurebayashi(NTT), Naoki Oguchi (Fujitsu) and Clara Li (Intel)
+
+2023/12/05 [IOWN Data Centric Infrastructure as a Service PoC discussion](https://static.sched.com/hosted_files/ossjapan2023/87/OSSJP23-IOWN%20%285%29.pdf)
 
 ### The OpenFabrics Alliance
 
