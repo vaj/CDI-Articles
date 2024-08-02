@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 200 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 201 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -315,6 +315,10 @@ Alan Benjamin (GigaIO)
 Debendra Das Sharma (Intel)
 
 2023/08/27 [UCIe Overview & Usage Models](https://hc2023.hotchips.org/assets/program/tutorials/ucie/UCIe%20overview%20and%20usage%20models.pdf)
+
+Jason Howard (Intel)
+
+2023/08/29 [The First Direct Mesh-to-Mesh Photonic Fabric](https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/HC23.Intel.JasonHoward.v3.pdf)
 
 Swadesh Choudhary (Intel) and Marvin Denman (NVIDIA)
 
