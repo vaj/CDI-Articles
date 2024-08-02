@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 215 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 216 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -689,6 +689,10 @@ Yang Seok Ki (Samsung)
 2023/09/19 [Is SSD with CXL Interfaces Brilliantly Stupid or Stupidly Brilliant](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Ki-Is-SSD-with-CXL-Interfaces-Brilliantly-Stupid-or-Stupidly-Brilliant.pdf)
 
 ### The Linux Foundation
+
+Dragan Stancevic
+
+2023/05/26 [VM live migration over CXL memory - Dragan Stancevic](https://nil-migration.org/nil-migration-BoF-LFSMMBPF-2023.pdf)
 
 Hyde Sugiyama (Red Hat), Ryosuke Kurebayashi(NTT), Naoki Oguchi (Fujitsu) and Clara Li (Intel)
 
