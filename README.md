@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 202 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 203 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -319,6 +319,10 @@ Debendra Das Sharma (Intel)
 Jason Howard (Intel)
 
 2023/08/29 [The First Direct Mesh-to-Mesh Photonic Fabric](https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/HC23.Intel.JasonHoward.v3.pdf)
+
+Kevin Deierling (NVIDIA)
+
+2023/08/29 [NVIDIA’s Resource Fungible Network Processing ASIC](<https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/Resource%20Transmutable%20Network%20Processing%20ASIC%20-%20HotChips%202023_v2_SN%20(FINAL).pdf>)
 
 Maurice Steinman (Lightelligence)
 
