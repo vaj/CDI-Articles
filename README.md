@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 208 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 209 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -331,6 +331,10 @@ Greg Favor (Ventana)
 Jason Howard (Intel)
 
 2023/08/29 [The First Direct Mesh-to-Mesh Photonic Fabric](https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/HC23.Intel.JasonHoward.v3.pdf)
+
+Jin Hyun Kim (Samsung)
+
+2023/08/28 [Samsung AI-cluster system with HBM-PIM and CXL-based Processing-near-Memory for Transformer-based LLMs](https://hc2023.hotchips.org/assets/program/conference/day1/PIM/23_HC35_PIM_PNM_Samsung_final.pdf)
 
 Kai Troester and Ravi Bhargava (AMD)
 
