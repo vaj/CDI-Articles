@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 209 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 210 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -355,6 +355,10 @@ Maurice Steinman (Lightelligence)
 Swadesh Choudhary (Intel) and Marvin Denman (NVIDIA)
 
 2023/08/27 [UCIe Protocol](https://hc2023.hotchips.org/assets/program/tutorials/ucie/UCIe%20Protocol.pdf)
+
+Yongkee Kwon (SK Hynix)
+
+2023/08/28 [Memory-centric Computing with SK Hynix’s Domain-Specific Memory](https://hc2023.hotchips.org/assets/program/conference/day1/PIM/HC35_SKhynix_DSM_YongkeeKwon_rev3.pdf)
 
 ### IOWN GLOBAL FORUM
 
