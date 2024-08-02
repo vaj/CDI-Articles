@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 214 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 215 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -48,6 +48,7 @@ All titles are in English, regardless of the language in which they were written
     - [SNIA](#snia-3)
     - [The Linux Foundation](#the-linux-foundation)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
+    - [Universal Chiplet Interconnect Express](#universal-chiplet-interconnect-express)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
     - [CXL Consortium](#cxl-consortium-3)
@@ -702,6 +703,12 @@ Yasunori Goto (Fujitsu)
 Michael Aguilar, et al.
 
 2023/02/14 [2023 Stanford Conference - Sandia - The OpenFabrics Management Framework for HPC Composability](https://www.hpcadvisorycouncil.com/events/2023/stanford-conference/pdf/Day%201_Sandia.pdf)
+
+### Universal Chiplet Interconnect Express
+
+Debendra Das Sharma (Intel)
+
+2023/02/21 [Introduction to UCIe™](https://www.uciexpress.org/_files/ugd/0c1418_064d8c3247284b8da8a09674714a2c78.pdf)
 
 ### VA Linux Systems Japan
 
