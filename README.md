@@ -725,7 +725,7 @@ Michael Aguilar, et al.
 
 ### Ultra Ethernet Consortium
 
-2023/10/23 [Overview of and Motivation for the Forthcoming Ultra Ethernet Consortium Specification](https://ultraethernet.org/wp-content/uploads/sites/20/2023/10/23.07.12-UEC-1.0-Overview-FINAL-WITH-LOGO.pdf)
+2023/07/12 [Overview of and Motivation for the Forthcoming Ultra Ethernet Consortium Specification](https://ultraethernet.org/wp-content/uploads/sites/20/2023/10/23.07.12-UEC-1.0-Overview-FINAL-WITH-LOGO.pdf)
 
 ### Universal Chiplet Interconnect Express
 
