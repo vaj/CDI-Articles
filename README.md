@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 217 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 218 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -22,6 +22,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium-1)
     - [PCI-SIG](#pci-sig)
     - [SNIA](#snia-1)
+    - [the 28th ACM International Conference on Multimedia](#the-28th-acm-international-conference-on-multimedia)
   - [2021](#2021)
     - [CXL Consortium, Gen-Z Consortium, SNIA](#cxl-consortium-gen-z-consortium-snia)
     - [Linux Plumbers Conference](#linux-plumbers-conference-1)
@@ -128,6 +129,12 @@ Debendra Das Sharma
 Robert Blankenship (Intel)
 
 2020/09/22 [SDC2020 CXL 1.1 Protocol Extensions Review of the cache and memory protocols in CXL](https://snia.org/sites/default/files/SDC/2020/130-Blankenship-CXL-1.1-Protocol-Extensions.pdf)
+
+### the 28th ACM International Conference on Multimedia
+
+Li, Huaicheng, et al.
+
+2020/10/12 [Pond CXL-Based Memory Pooling Systems for Cloud Platforms](https://pages.cs.wisc.edu/~markhill/papers/asplos2023_pond.pdf)
 
 ## 2021
 
