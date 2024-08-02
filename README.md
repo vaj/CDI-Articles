@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 216 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 217 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -27,6 +27,7 @@ All titles are in English, regardless of the language in which they were written
     - [Linux Plumbers Conference](#linux-plumbers-conference-1)
     - [Fujitsu](#fujitsu)
     - [Intel](#intel)
+    - [Texas Instruments](#texas-instruments)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2022](#2022)
     - [CXL Consrtium](#cxl-consrtium)
@@ -169,6 +170,12 @@ Yasunori Goto (Fujitsu) and Ruan Shiyang (Nanjing Fujitsu Nanda Software Technol
 Debendra Das Sharma
 
 2021/08/20 [Keynote1 Compute Express Link changing the game for Cloud Computing](https://ieeexplore.ieee.org/document/9547033)
+
+### Texas Instruments
+
+Nicholaus Malone
+
+2021/05/19 [What is PCIe?](https://www.ti.com/content/dam/videos/external-videos/en-us/8/3816841626001/6254837397001.mp4/subassets/interface-pcle-what-is-pcle-presentation-quiz.pdf)
 
 ### VA Linux Systems Japan
 
