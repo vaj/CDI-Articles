@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 204 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 205 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -315,6 +315,10 @@ Alan Benjamin (GigaIO)
 Anitha Kona (ARM)
 
 2023/08/28 [CSS-Genesis Arm’s Neoverse N2 platform, delivered to partners as a fully verified, customizable compute sub-system](https://hc2023.hotchips.org/assets/program/conference/day1/Platforms/HC2023.ARM.AnithaKona.v02.pdf)
+
+Chris Gianos (Intel)
+
+2023/08/23 [Architecting for Flexibility and Value with future Intel® Xeon® processors](https://hc2023.hotchips.org/assets/program/conference/day1/Platforms/HC2023.Intel.Gianos.v7.pdf)
 
 Debendra Das Sharma (Intel)
 
