@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 199 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 200 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -311,6 +311,10 @@ Alan Benjamin (GigaIO)
 2023/11/21 [GigaIO: The March of Composability – Onward to Memory with CXL](https://www.slideshare.net/slideshow/gigaio-the-march-of-composability-onward-to-memory-with-cxl/263685610)
 
 ### Hot Chips
+
+Debendra Das Sharma (Intel)
+
+2023/08/27 [UCIe Overview & Usage Models](https://hc2023.hotchips.org/assets/program/tutorials/ucie/UCIe%20overview%20and%20usage%20models.pdf)
 
 Swadesh Choudhary (Intel) and Marvin Denman (NVIDIA)
 
