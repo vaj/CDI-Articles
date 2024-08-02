@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 207 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 208 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -339,6 +339,10 @@ Kai Troester and Ravi Bhargava (AMD)
 Kevin Deierling (NVIDIA)
 
 2023/08/29 [NVIDIA’s Resource Fungible Network Processing ASIC](<https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/Resource%20Transmutable%20Network%20Processing%20ASIC%20-%20HotChips%202023_v2_SN%20(FINAL).pdf>)
+
+Magnus Bruce(ARM)
+
+2023/08/28 [ARM’s Neoverse V2 platform leadership performance and power efficiency for next-generation cloud computing, ML and HPC workloads](https://hc2023.hotchips.org/assets/program/conference/day1/CPU1/HC2023.Arm.MagnusBruce.v04.FINAL.pdf)
 
 Maurice Steinman (Lightelligence)
 
