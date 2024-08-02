@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 210 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 211 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -642,6 +642,10 @@ David Emberson (HPE)
 Debendra Das Sharma (Intel)
 
 [SDC 2023 - PCIe® 7.0 Specification 128 GTs Bandwidth for Future Data-Intensive Markets](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-DasSharma-PCIe-7.0-Specification-Bandwidth.pdf)
+
+Igor Chorazewicz (Intel)
+
+2023/09/20 [Persistent Memory and CXL mem Programming Workshop Instruction Video](https://www.snia.org/sites/default/files/SSSI/2023-0804-PM-Hackathon-Workshop-Access-Instructions.pdf)
 
 Jason Molgaard (Solidigm) and Shyamkumar Iyer (Dell)
 
