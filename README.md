@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 205 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 206 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -323,6 +323,10 @@ Chris Gianos (Intel)
 Debendra Das Sharma (Intel)
 
 2023/08/27 [UCIe Overview & Usage Models](https://hc2023.hotchips.org/assets/program/tutorials/ucie/UCIe%20overview%20and%20usage%20models.pdf)
+
+Greg Favor (Ventana)
+
+2023/08/28 [Ventana’s Veyron V1 Data Center-Class RISC-V Processor](https://hc2023.hotchips.org/assets/program/conference/day1/CPU1/Ventana%20HotChips23%20-%20Final.pdf)
 
 Jason Howard (Intel)
 
