@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 206 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 207 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -331,6 +331,10 @@ Greg Favor (Ventana)
 Jason Howard (Intel)
 
 2023/08/29 [The First Direct Mesh-to-Mesh Photonic Fabric](https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/HC23.Intel.JasonHoward.v3.pdf)
+
+Kai Troester and Ravi Bhargava (AMD)
+
+2023/08/28 [AMD Next Generation “Zen 4” Core and 4th Gen AMD EPYCTM 9004 Server CPU](https://hc2023.hotchips.org/assets/program/conference/day1/CPU1/HC_Zen4_Epyc_Final_20230825%20-%20Embargoed%20until%20Aug%2029%202023.pdf)
 
 Kevin Deierling (NVIDIA)
 
