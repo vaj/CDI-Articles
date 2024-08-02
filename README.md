@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 212 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 213 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -685,6 +685,10 @@ Yang Seok Ki (Samsung)
 Hyde Sugiyama (Red Hat), Ryosuke Kurebayashi(NTT), Naoki Oguchi (Fujitsu) and Clara Li (Intel)
 
 2023/12/05 [IOWN Data Centric Infrastructure as a Service PoC discussion](https://static.sched.com/hosted_files/ossjapan2023/87/OSSJP23-IOWN%20%285%29.pdf)
+
+Yasunori Goto (Fujitsu)
+
+2023/12/05 [Compute Express Link(CXL), the next generation interconnect overview and the status of Linux](https://static.sched.com/hosted_files/ossjapan2023/8f/OSSJ2023_CXL_overview_and_the_status_of_Linux_.pdf)
 
 ### The OpenFabrics Alliance
 
