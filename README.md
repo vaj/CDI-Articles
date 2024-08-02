@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 213 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 214 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -35,6 +35,7 @@ All titles are in English, regardless of the language in which they were written
     - [Linux Plumbers Conference](#linux-plumbers-conference-2)
     - [PCI-SIG](#pci-sig-1)
     - [SNIA](#snia-2)
+    - [OpenFabricsw Alliance](#openfabricsw-alliance)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
     - [CXL Consortium](#cxl-consortium-2)
@@ -279,6 +280,12 @@ Charles Fan (MemVerge)
 Cheolmin Park (Samsung)
 
 2022/05/24 [SNIA PM+CS'22 CXL and UCIe](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Park-CXL-and-UCIe.pdf)
+
+### OpenFabricsw Alliance
+
+Russ Herrell (HPE)
+
+2022/04/27 [OpenFabrics Management Framework (OFMF) Demonstration](https://www.openfabrics.org/wp-content/uploads/2022-workshop/2022-workshop-presentations/209_RHerrellJHull.pdf)
 
 ## 2023
 
