@@ -886,43 +886,63 @@ WaiKiong Poon (Molex) and Seunghyun Eddy Hwang (NVIDIA)
 
 Yishen Huang, Qing Wang and Janet Chen (Meta)
 
+<a id="128"></a>
+
 2023/10/17 [Methods for integration and evaluation of LPO](https://drive.google.com/file/d/1FQo6FsgLglEzdxzpRgq_fFwjNTGuUoCV/view?usp=drive_link)
 
 ### SNIA
 
 Andy Banta (Magnition IO) and Kin-Yip Liu (AMD)
 
+<a id="71"></a>
+
 2023/09/21 [SDC 2023 - CXL and the Art of Hierarchical Memories Their Management and Use](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Banta-Liu-CXL-and-the-Art_1.pdf)
 
 Andy Mills (Smart Modular Technologies)
+
+<a id="70"></a>
 
 2023/09/21 [SDC 2023 - CXL Memory Disaggregation and Tiering Lessons Learned from Storage](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Mills-CXL-Memory-Disaggregation-and-Tiering-Lessons-%20from-Storage.pdf)
 
 Andy Rudoff (Intel)
 
+<a id="12"></a>
+
 2023/04/11 [SNIA CMSS23 - CXL™ 3.0 Expanded Capabilities for Increasing Scale &Optimizing Resource Utilization](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Rudoff-CXL-Expanded-Capabilities.pdf)
 
 Clarete Crasta
+
+<a id="19"></a>
 
 2023/04/11 [SNIA CMSS23 - Fabric Attached Memory – Hardware and Software Architecture](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Crasta-%20Fabric-Attached-Memory.pdf)
 
 David Emberson (HPE)
 
+<a id="75"></a>
+
 2023/09/21 [SDC 2023 - Fabric Attached Memory – Hardware and Software Architecture](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Emberson-Singhal-Crasta-Fabric-Attached-Memory.pdf)
 
 Debendra Das Sharma (Intel)
 
-[SDC 2023 - PCIe® 7.0 Specification 128 GTs Bandwidth for Future Data-Intensive Markets](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-DasSharma-PCIe-7.0-Specification-Bandwidth.pdf)
+<a id="69"></a>
+
+2023/09/20 [SDC 2023 - PCIe® 7.0 Specification 128 GTs Bandwidth for Future Data-Intensive Markets](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-DasSharma-PCIe-7.0-Specification-Bandwidth.pdf)
 
 Igor Chorazewicz (Intel)
+
+<a id="43"></a>
 
 2023/09/20 [Persistent Memory and CXL mem Programming Workshop Instruction Video](https://www.snia.org/sites/default/files/SSSI/2023-0804-PM-Hackathon-Workshop-Access-Instructions.pdf)
 
 Jason Molgaard (Solidigm) and Shyamkumar Iyer (Dell)
 
+<a id="74"></a>
+
 2023/09/19 [SDC 2023 - Envisioning a Computational Storage Architecture with an SDXI Data Mover Early Efforts](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Molgaard-Envisioning-a-CS-Arcitecture-with-SDXI.pdf)
 
 Jim Handy (Objective Analysis)
+
+<a id="73"></a>
 
 2023/09/20 [SDC 2023 - Riding the Long Tail of Optane’s Comet - Emerging Memories, CXL, UCIe, and More](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Handy-Coughlin-Riding-Tail-of-Optanes-Comet.pdf)
 
