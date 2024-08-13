@@ -403,15 +403,21 @@ Maruf, Hasan Al, et al.
 
 Kurtis Bowman (CXL MWG Co-Chair), Tracy Spitler (IntelliProp), Vijay Nain (Micron) and Bill Gervasi (Wolley)
 
+<a id="175"></a>
+
 2023/11/12 [Increasing Memory Utilization and Reducing Total Memory Cost Using CXL](https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof201.html)
 
 ### Flash Memory Summit
 
 Charles Fan (MemVerge)
 
+<a id="41"></a>
+
 2023/08/06 [MemVerge Project Gismo Global IO-free Shared Memory Objects](https://memverge.com/wp-content/uploads/MemVerge-Gismo-FMS2023.pdf)
 
 Debendra Das Sharma (Intel), Mahesh Wagh (AMD), Maheash Natu (Intel) and Vincent Hache (Rambus)
+
+<a id="28"></a>
 
 2023/08/07 [Compute Express LinkTM (CXL™): An Open
 Industry Standard for Composable Computing](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_FMS-2023-Tutorial_FINAL.pdf)
@@ -420,35 +426,51 @@ Industry Standard for Composable Computing](https://computeexpresslink.org/wp-co
 
 Alan Benjamin (GigaIO)
 
+<a id="33"></a>
+
 2023/11/21 [GigaIO: The March of Composability – Onward to Memory with CXL](https://www.slideshare.net/slideshow/gigaio-the-march-of-composability-onward-to-memory-with-cxl/263685610)
 
 ### Hot Chips
 
 Anitha Kona (ARM)
 
+<a id="168"></a>
+
 2023/08/28 [CSS-Genesis Arm’s Neoverse N2 platform, delivered to partners as a fully verified, customizable compute sub-system](https://hc2023.hotchips.org/assets/program/conference/day1/Platforms/HC2023.ARM.AnithaKona.v02.pdf)
 
 Chris Gianos (Intel)
+
+<a id="167"></a>
 
 2023/08/23 [Architecting for Flexibility and Value with future Intel® Xeon® processors](https://hc2023.hotchips.org/assets/program/conference/day1/Platforms/HC2023.Intel.Gianos.v7.pdf)
 
 Debendra Das Sharma (Intel)
 
+<a id="172"></a>
+
 2023/08/27 [UCIe Overview & Usage Models](https://hc2023.hotchips.org/assets/program/tutorials/ucie/UCIe%20overview%20and%20usage%20models.pdf)
 
 Greg Favor (Ventana)
+
+<a id="166"></a>
 
 2023/08/28 [Ventana’s Veyron V1 Data Center-Class RISC-V Processor](https://hc2023.hotchips.org/assets/program/conference/day1/CPU1/Ventana%20HotChips23%20-%20Final.pdf)
 
 Jason Howard (Intel)
 
+<a id="171"></a>
+
 2023/08/29 [The First Direct Mesh-to-Mesh Photonic Fabric](https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/HC23.Intel.JasonHoward.v3.pdf)
 
 Jin Hyun Kim (Samsung)
 
+<a id="163"></a>
+
 2023/08/28 [Samsung AI-cluster system with HBM-PIM and CXL-based Processing-near-Memory for Transformer-based LLMs](https://hc2023.hotchips.org/assets/program/conference/day1/PIM/23_HC35_PIM_PNM_Samsung_final.pdf)
 
 Kai Troester and Ravi Bhargava (AMD)
+
+<a id="165"></a>
 
 2023/08/28 [AMD Next Generation “Zen 4” Core and 4th Gen AMD EPYCTM 9004 Server CPU](https://hc2023.hotchips.org/assets/program/conference/day1/CPU1/HC_Zen4_Epyc_Final_20230825%20-%20Embargoed%20until%20Aug%2029%202023.pdf)
 
