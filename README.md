@@ -79,9 +79,13 @@ Brand Benton (AMD)
 
 Paul Grun (Cray Inc) and Doug Voigt (HPE)
 
+<a id="24"></a>
+
 2018/04/13 [OFA Think Tank Session Remote Persistent Memory](https://www.openfabrics.org/images/2018workshop/presentations/406_PGrunDVoigt_OFATT_RPM.pdf)
 
 Tom Talpey (Microsoft)
+
+<a id="176"></a>
 
 2018/04/10 [Persistent Memory Programming – the Remote Access Perspective](https://www.openfabrics.org/images/2018workshop/presentations/109_TTalpey_RemotePersistentMemory.pdf)
 
@@ -91,17 +95,23 @@ Tom Talpey (Microsoft)
 
 Glenn Ward (Microsoft), Debendra Das Sharma (Intel) and Kurtis Bowman (AMD)
 
+<a id="208"></a>
+
 2019/03/01 [Introduction to Compute Express Link™ (CXL™)](https://docs.wixstatic.com/ugd/0c1418_d9878707bbb7427786b70c3c91d5fbd1.pdf)
 
 ### Linux Plumbers Conference
 
 Jim Hull, Betty Dall and Keith Packard (HPE)
 
+<a id="207"></a>
+
 2019/09/11 [LPC2019 - Linux Gen-Z Sub-system](https://lpc.events/event/4/contributions/301/attachments/214/385/GenZ_Subsystem_Plumbers19.pdf)
 
 ### SNIA
 
 Alan Bumgarner (Intel) and Tom Talpey (Microsoft)
+
+<a id="177"></a>
 
 2019/09/24 [SNIA Nonvolatile Memory Programming TWG - Remote Persistent Memory (SDC 2019)](https://www.snia.org/sites/default/files/SDC/2019/presentations/PM/Talpey_Tom_Bumgarner_Nonvolatile_Memory_Programming_TWG_Remote_Persistent_Memory.pdf)
 
@@ -111,13 +121,19 @@ Alan Bumgarner (Intel) and Tom Talpey (Microsoft)
 
 Chris Peterson (Meta) and Prakash Chauhan (Google)
 
+<a id="209"></a>
+
 2020/08/19 [Compute Express Link™ (CXL™) Memory Challenges and CXL Solutions](https://computeexpresslink.org/wp-content/uploads/2023/12/Memory-Challenges-and-CXL-Solutions_FINAL.pdf)
 
 Debendra Das Sharma (Intel) and Ahmad Danesh (Microchip Technology)
 
+<a id="262"></a>
+
 2020/12/16 [Compute Express Link™ (CXL™) Introducing the Compute Express Link™ 2.0 Specification](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_2.0_webinar_FINAL.pdf)
 
 Mahesh Natu (Intel) and Thanu Rangarajan (Arm)
+
+<a id="5"></a>
 
 2020/07/28 [Compute Express Link: UEFI and ACPI Specification Enhancement Recommendations](https://uefi.org/blog/compute-express-link-uefi-and-acpi-specification-enhancement-recommendations)
 
