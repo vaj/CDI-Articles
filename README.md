@@ -315,33 +315,49 @@ Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
 
 Heekwon Park (Samsung)
 
+<a id="51"></a>
+
 2022/09/14 [Design and implementation of Autocaching for CXLSSD - Heekwon Park](https://lpc.events/event/16/contributions/1253/attachments/1118/2148/LPC2022_Autocaching_New_v4_pdf.pdf)
 
 Jérôme Glisse (Google)
+
+<a id="50"></a>
 
 2022/09/14 [CXL and confidential computing - Jérôme Glisse](https://lpc.events/event/16/contributions/1250/attachments/1125/2158/LPC2022%20CXL%20Confidential%20Computing.pdf)
 
 Jonathan Cameron (Huawei)
 
+<a id="26"></a>
+
 2022/09/14 [CXL 2.0+ Emulation With QEMU Status, requirements and roadmap. - Jonathan Cameron](https://lpc.events/event/16/contributions/1248/attachments/1047/2002/CXL%20plumbers%20uconf%20QEMU.pdf)
 
 Jonathan Zhang (Meta)
+
+<a id="55"></a>
 
 2022/09/14 [Meta_s CXL Journey and Learnings in Linux - Jonathan Zhang](https://lpc.events/event/16/contributions/1207/attachments/950/1866/LPC2022_%20Meta's%20CXL%20Journey%20and%20Learnings.pdf)
 
 Navneet Singh (Intel)
 
+<a id="49"></a>
+
 2022/09/14 [CXL Dynamic Capacity MM - Jonathan Cameron, Navneet Singh](<https://lpc.events/event/16/contributions/1252/attachments/1044/1998/cxl%20plumbers%20DCD%20(005).pdf>)
 
 PJ Waskiewicz (Jump Trading)
+
+<a id="45"></a>
 
 2022/09/14 [CXL hotplug\_ spec to reality - PJ Waskiewicz](https://lpc.events/event/16/contributions/1251/attachments/1122/2155/CXL%20spec%20to%20reality%20MC%20talk.pdf)
 
 Robert Richter and Yazen Ghannam (AMD)
 
+<a id="52"></a>
+
 2022/09/14 [Linux plumbing of CXL error reporting - Robert Richter, Yazen Ghannam](https://lpc.events/event/16/contributions/1249/attachments/1081/2066/lpc-2022-cxl-ras-v3.1-20220909.pdf)
 
 Sayanta Pattanayak (ARM)
+
+<a id="48"></a>
 
 2022/09/14 [CXL Type-3 device discovery, configuration in firmware and prepare ACPI tables... Sayanta Pattanayak](https://lpc.events/event/16/contributions/1254/attachments/1113/2136/CXL%20Type-3%20device%20discovery,%20configuration%20in%20firmware%20and%20prepare%20ACPI%20tables%20for%20kernel%20usage.pdf)
 
@@ -349,21 +365,29 @@ Sayanta Pattanayak (ARM)
 
 Debendra Das Sharma
 
+<a id="8"></a>
+
 2022/06/29 [The History of PCI IO Technology 30 Years of PCI-SIG® Innovation](https://pcisig.com/sites/default/files/files/30%20Years%20of%20PCI-SIG%20Innovation%20Webinar_Final%20Slides.pdf)
 
 ### SNIA
 
 Charles Fan (MemVerge)
 
+<a id="76"></a>
+
 2022/09/15 [SDC2022 – Memory Disaggregation and Pooling with CXL](https://www.snia.org/sites/default/files/SDC/2022/SNIA-SDC22-Fan-Memory-Disaggregation-and-Pooling-with-CXL.pdf)
 
 Cheolmin Park (Samsung)
+
+<a id="23"></a>
 
 2022/05/24 [SNIA PM+CS'22 CXL and UCIe](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Park-CXL-and-UCIe.pdf)
 
 ### OpenFabricsw Alliance
 
 Russ Herrell (HPE)
+
+<a id="64"></a>
 
 2022/04/27 [OpenFabrics Management Framework (OFMF) Demonstration](https://www.openfabrics.org/wp-content/uploads/2022-workshop/2022-workshop-presentations/209_RHerrellJHull.pdf)
 
