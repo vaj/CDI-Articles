@@ -141,11 +141,15 @@ Mahesh Natu (Intel) and Thanu Rangarajan (Arm)
 
 Debendra Das Sharma
 
+<a id="9"></a>
+
 2020/06/04 [PCIe® 6.0 Specification The Interconnect for IO Needs of the Future](https://pcisig.com/sites/default/files/files/PCIe%206.0%20Webinar_Final_.pdf)
 
 ### SNIA
 
 Robert Blankenship (Intel)
+
+<a id="227"></a>
 
 2020/09/22 [SDC2020 CXL 1.1 Protocol Extensions Review of the cache and memory protocols in CXL](https://snia.org/sites/default/files/SDC/2020/130-Blankenship-CXL-1.1-Protocol-Extensions.pdf)
 
@@ -161,27 +165,39 @@ Li, Huaicheng, et al.
 
 Ishwar Agarwal (Intel) and Mahesh Natu (Broadcom)
 
+<a id="269"></a>
+
 2021/12/09 [An Overview of the Compute Express Link™ (CXL™) 2.0 ECN](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL-200-ECN-Webinar_Training_FINAL.pdf)
 
 Kurtis Bowman, et al.
+
+<a id="272"></a>
 
 2021/11/17 [CXL™ Consortium, Gen-Z Consortium™, SNIA and End-Users – Is Disaggregation of Systems the Future](https://sc21.supercomputing.org/proceedings/bof/bof_pages/bof167.html)
 
 Mahesh Natu (Intel) and Thomas Won Ha Choi (SK hynix)
 
+<a id="264"></a>
+
 2021/06/15 [Compute Express Link™ (CXL™) Supporting Persistent Memory](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL-2.0-Presentation-Persistent-Memory-20210615_FINAL.pdf)
 
 Mahesh Wagh (Intel) and Rick Sodke(Microchip)
 
+<a id="263"></a>
+
 2021/03/17 [Compute Express Link™ 2.0 Specification Memory Pooling](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL-2.0-Memory-Pooling.pdf)
 
 Raghu Makaram (Intel) and David Harriman (Intel)
+
+<a id="268"></a>
 
 2021/09/15 [Compute Express Link™ (CXL™) Link-level Integrity and Data Encryption (CXL IDE)](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_CXL-IDE-Webinar_FINAL.pdf)
 
 ### Linux Plumbers Conference
 
 Ben Widawsky (Intel)
+
+<a id="58"></a>
 
 2021/09/24 [Compute Express Link + Linux + QEMU = Yes - Ben Widawsky](https://lpc.events/event/11/contributions/906/attachments/743/1399/LPC2021%20-%20CXL.pdf)
 
