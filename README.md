@@ -205,17 +205,23 @@ Ben Widawsky (Intel)
 
 Yasunori Goto (Fujitsu) and Ruan Shiyang (Nanjing Fujitsu Nanda Software Technology)
 
+<a id="17"></a>
+
 2021/09/23 [The forefront of the development for NVDIMM on Linux Kernel](https://www.fujitsu.com/jp/documents/products/software/os/linux/catalog/2021Sep23_The_Forefront_of_the_Development_for_NVDIMMM_on_Linux_kernel_Yasunori_Goto_Ruan_Shiyang.pdf)
 
 ### Intel
 
 Debendra Das Sharma
 
+<a id="3"></a>
+
 2021/08/20 [Keynote1 Compute Express Link changing the game for Cloud Computing](https://ieeexplore.ieee.org/document/9547033)
 
 ### Texas Instruments
 
 Nicholaus Malone
+
+<a id="7"></a>
 
 2021/05/19 [What is PCIe?](https://www.ti.com/content/dam/videos/external-videos/en-us/8/3816841626001/6254837397001.mp4/subassets/interface-pcle-what-is-pcle-presentation-quiz.pdf)
 
@@ -231,17 +237,25 @@ Tomoaki Sato
 
 Danny Volkind (UnifabriX) and Elad Shliselberg (UnifabriX)
 
+<a id="21"></a>
+
 2022/06/15 [CXL 1.1 vs. CXL 2.0 – What’s the difference](https://computeexpresslink.org/wp-content/uploads/2023/12/2022-06-15-CXL-1.1-vs-2.0-Webinar_FINAL.pdf)
 
 Danny Moore (Rambus) and Debendra Das Sharma (Intel)
+
+<a id="271"></a>
 
 2022/06/06 [CXL 3.0\_ Enabling composable systems with expanded fabric capabilities](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL_3.0-Webinar_FINAL.pdf)
 
 Siamak Tavallaei
 
+<a id="275"></a>
+
 2022/08/02 [CXL Consortium Update](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_CXL-Consortium.pdf)
 
 Vincent Haché (Rambus)
+
+<a id="270"></a>
 
 2022/05/22 [Introduction to the Compute Express Link™ (CXL™) Fabric Manager](https://computeexpresslink.org/wp-content/uploads/2023/12/20220322_CXL_FM_Webinar_Final.pdf)
 
@@ -249,17 +263,25 @@ Vincent Haché (Rambus)
 
 Mahesh Wag (AMD)
 
+<a id="277"></a>
+
 2022/08/02 [AMD Runtime Management of Composable Memory](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_AMD.pdf)
 
 Manoj Wadeker (Meta)
+
+<a id="274"></a>
 
 2022/08/02 [Enabling Software Defined Memory Real World Use Cases with CXL](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_OCPMeta.pdf)
 
 Steve Glaser (NVIDIA)
 
+<a id="27"></a>
+
 2022/08/02 [NVIDIA Beyond Just Another Interconnect Protocol](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_NVIDIA.pdf)
 
 Will Nelson (Intel)
+
+<a id="276"></a>
 
 2022/08/02 [Intel CXL Industry Enablement](https://memverge.com/wp-content/uploads/2022/08/CXL-Forum_Intel.pdf)
 
@@ -267,17 +289,25 @@ Will Nelson (Intel)
 
 Ishwar Agarwal (Intel)
 
+<a id="13.1"></a>
+
 2022/08/21 [CXL overview and evolution](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20Overview%20and%20evolution.pdf)
 
 Robert Blankenship (Intel)
+
+<a id="13.2"></a>
 
 2022/08/21 [CXL2/CXL3 coherency deep dive](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20MemoryChallenges.pdf)
 
 Prakash Chauhan (Meta) and Mahesh Wagh (AMD)
 
+<a id="13.3"></a>
+
 2022/08/21 [Memory use cases and challenges](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20MemoryChallenges.pdf)
 
 Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
+
+<a id="13.4"></a>
 
 2022/08/21 [CXL3 Fabric introduction & use cases](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL3%20Fabric%20Intro%20and%20use%20cases.pdf)
 
