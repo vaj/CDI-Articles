@@ -476,25 +476,37 @@ Kai Troester and Ravi Bhargava (AMD)
 
 Kevin Deierling (NVIDIA)
 
+<a id="169"></a>
+
 2023/08/29 [NVIDIA’s Resource Fungible Network Processing ASIC](<https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/Resource%20Transmutable%20Network%20Processing%20ASIC%20-%20HotChips%202023_v2_SN%20(FINAL).pdf>)
 
 Magnus Bruce(ARM)
+
+<a id="164"></a>
 
 2023/08/28 [ARM’s Neoverse V2 platform leadership performance and power efficiency for next-generation cloud computing, ML and HPC workloads](https://hc2023.hotchips.org/assets/program/conference/day1/CPU1/HC2023.Arm.MagnusBruce.v04.FINAL.pdf)
 
 Maurice Steinman (Lightelligence)
 
+<a id="170"></a>
+
 2023/08/29 [Hummingbird Low-Latency Computing Engine](https://hc2023.hotchips.org/assets/program/conference/day2/Interconnects/Hot%20Chips%20Presentation%208.24.23.pdf)
 
 Swadesh Choudhary (Intel) and Marvin Denman (NVIDIA)
+
+<a id="173"></a>
 
 2023/08/27 [UCIe Protocol](https://hc2023.hotchips.org/assets/program/tutorials/ucie/UCIe%20Protocol.pdf)
 
 Yongkee Kwon (SK Hynix)
 
+<a id="161"></a>
+
 2023/08/28 [Memory-centric Computing with SK Hynix’s Domain-Specific Memory](https://hc2023.hotchips.org/assets/program/conference/day1/PIM/HC35_SKhynix_DSM_YongkeeKwon_rev3.pdf)
 
 ### IOWN GLOBAL FORUM
+
+<a id="25"></a>
 
 2023/03/16 [DCI Functional Architecture](https://iowngf.org/wp-content/uploads/2023/04/IOWN-GF-RD-DCI_Functional_Architecture-2.0.pdf)
 
@@ -502,35 +514,51 @@ Yongkee Kwon (SK Hynix)
 
 Gregory Price and Svetly Todorov (MemVerge)
 
-[A move_pages() equivalent for physical memory](https://lpc.events/event/17/contributions/1456/attachments/1227/2497/move_phys_pages.pptx)
+<a id="137"></a>
+
+2023/11/13 [A move_pages() equivalent for physical memory](https://lpc.events/event/17/contributions/1456/attachments/1227/2497/move_phys_pages.pptx)
 
 Ira Weiny (Intel)
+
+<a id="133"></a>
 
 2023/11/14 [CXL Type-2 core support](https://lpc.events/event/17/contributions/1453/attachments/1170/2540/LPC2023_type2-large-font.pdf)
 
 John Groves (Micron Technology)
 
+<a id="135"></a>
+
 2023/11/14 [CXL 3 Shared Memory What Will Be Required](https://lpc.events/event/17/contributions/1455/attachments/1179/2546/cxl-shared-fam-what-is-needed-v4.pdf)
 
 Jonathan Cameron (Huawei) and Fan Ni (Samsung)
+
+<a id="132"></a>
 
 2023/11/14 [CXL Emulation in OEMUProgress, Status and most importantly. What's next](https://lpc.events/event/17/contributions/1454/attachments/1156/2558/CXL%20Emulation%20in%20QEMU_%20Progress,%20Status%20and%20most%20importantly…%20What’s%20next-Lastest-full-slides.pdf)
 
 Navneet Singh, Ira Weiny (Intel) and Jonathan Cameron (Huawei)
 
+<a id="134"></a>
+
 2023/11/14 [Plumbing challenges in Dynamic Capacity Devices](https://lpc.events/event/17/contributions/1457/attachments/1213/2479/LPC2023_dcd.pptx)
 
 Ravi Kiran Gummaluri and John Groves (Micron Technology)
 
+<a id="136"></a>
+
 2023/11/14 [CXL Memory Tiering for heterogenous computing](https://lpc.events/event/17/contributions/1458/attachments/1245/2550/LPC2023_CXLMemoryTiering_%20RaviGummaluri.pdf)
 
 Robert Richter and Terry Bowman (AMD)
+
+<a id="146"></a>
 
 2023/11/14 [Adding RAS Support for CXL Port Devices](https://lpc.events/event/17/contributions/1452/attachments/1157/2430/Adding-RAS-Support-For-CXL-Port-Devices-CXL-LPC-MC-111323-2.pdf)
 
 ### Open Compute Project
 
 Ahmad Danesh (Astera labs)
+
+<a id="78"></a>
 
 2023/10/17 [CXL The Superhighway for AI Workloads](https://drive.google.com/file/d/1Bc77pT1ys6_ND1LijpYDvirYDN51OGyh/view?usp=share_link)
 
