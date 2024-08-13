@@ -564,134 +564,203 @@ Ahmad Danesh (Astera labs)
 
 Allan Cantle (Nallasway)
 
+<a id="142"></a>
+
 2023/10/17 [HPC- The Next Generation - A Sustainable - Energy Centric Architecture first - Innovation](https://drive.google.com/file/d/1mrrb9YjtnxKmOVAUO7-71eAlUkb3QbUN/view?usp=drive_link)
 
 Anant Thakar (Cisco) and Kiran Vemuri (Meta)
+
+<a id="92"></a>
 
 2023/10/17 [CMS Hardware Form Factors](https://drive.google.com/file/d/1Ga22X77gWsmXUn0zFWtsrnJcyw098m4k/view?usp=drive_link)
 
 Andy Bechtolsheim (Arista)
 
+<a id="131"></a>
+
 2023/10/17 [The AI Datacenter](https://drive.google.com/file/d/1KKWXip0DuiLtmuxPmt6gjsVCK3H8aQAr/view?usp=share_link)
+
+<a id="122"></a>
 
 2023/10/17 [Large Scale AI Clusters: Network Architectures and Optics](https://drive.google.com/file/d/1b4ZB_9beeEoAljE_3TiUIKoEpcyD-qIH/view?usp=drive_link)
 
 Andy Mills (SMART Modular Technologies)
 
+<a id="117"></a>
+
 2023/10/17 [CXL Memory Disaggregation and Tiering: Lessons Learned from Storage](https://drive.google.com/file/d/19325MgjMedFqF5I4q5nC9zpJ1F1fxIyM/view?usp=drive_link)
 
 Anil Agrawal and Gada Badeer (Meta)
+
+<a id="232"></a>
 
 2023/10/17 [A proposed solution to improve reliability by containing the impact of PCIe Uncorrected Errors](https://drive.google.com/file/d/1COPMU_H84GwYnzM9ADAUOdUELi7OQaZ2/view?usp=drive_link)
 
 Anjaneya Chagam (Intel) and Manoj Wadekar (Meta)
 
+<a id="109"></a>
+
 2023/10/17 [OCP CMS Sub-Project  progress update and plans](https://drive.google.com/file/d/1vW4S2RyiT1OPVKaqDkiM_sSQ3USQ3bko/view?usp=drive_link)
 
 Antonio Hasbun (Intel), Drew Walton (Google) and Yogesh Varma (Intel)
+
+<a id="150"></a>
 
 2023/10/17 [RAS API workstream - Overview and status](https://drive.google.com/file/d/183vic7Bq-Hnf9efy21UfJtPUCLOtTR40/view?usp=drive_link)
 
 Bob Wheeler (LightCounting)
 
+<a id="156"></a>
+
 2023/10/17 [The Long Road to Rackscale Disaggregation](https://drive.google.com/file/d/11kjHO6Bg0yE_NrUqv9zRInbv-Urmpv9-/view?usp=drive_link)
 
 Brian Pan (H3 Platform)
+
+<a id="81"></a>
 
 2023/10/17 [256-lane CXL switch and testing results](https://drive.google.com/file/d/16t3piSlPbpepxkhlBMZWj3tkqc3P-O-n/view?usp=drive_link)
 
 Charles Fan (MemVerge)
 
+<a id="77"></a>
+
 2023/10/17 [CXL Shared Memory Smashes Through the IO Wall for AI Clusters ](https://drive.google.com/file/d/1kwEeO-mm2wF138xp_dSvkbl_gmVdvLzs/view?usp=share_link)
 
 Chris Petersen (Meta) and Prakash Chauhan (Meta)
+
+<a id="80"></a>
 
 2023/10/17 [Flexible AI System Design and CXL](https://drive.google.com/file/d/1C9VXlet5sVBFtPk2LoirjHMRhVaTNq--/view?usp=share_link)
 
 Christopher Blackburn and Brian Costello (TE Connectivity)
 
+<a id="91"></a>
+
 2023/10/17 [Disaggregated & Composable Architectures The Importance of Extended PCIe Cabling](https://drive.google.com/file/d/12ZSTkIgkzESbf4fZzj7WQBi3y4oto-gB/view?usp=drive_link)
 
 Christian Pinto (IBM Research Europe - Ireland)
+
+<a id="4"></a>
 
 2023/04/20 [Disentangling your data center with the OpenFabrics Management Framework](https://drive.google.com/file/d/1NyD762XWFTy_151d7akhIdudWEeRYRrx/view?usp=share_link)
 
 CMS Sub-project
 
+<a id="174"></a>
+
 2023/10/17 [OCP Composable Memory Systems Overview - presented by CMS](https://drive.google.com/file/d/1JHxDpQJhGgTNJzMG4OAWM4Wq5BW99LIt/view?usp=drive_link)
 
 Darron Young (Meta)
+
+<a id="124"></a>
+
 2023/10/17 [Meta Use Cases](https://drive.google.com/file/d/1zC08Uny8cE4P1airjfstyzYGsClgF-sM/view?usp=drive_link)
 
 Debendra Das Sharma
+
+<a id="153"></a>
 
 2023/10/17 [UCIe™ (Universal Chiplet Interconnect Express™) Building an open ecosystem of chiplets for on-package innovations](https://drive.google.com/file/d/1N-dB0aKDdtDDlYJoETbTMzcYE1d4K-6M/view?usp=drive_link)
 
 Don Moon (SK hynix), Daniel Byrne and Sounak Gupta (Intel)
 
+<a id="115"></a>
+
 2023/10/17 [More cache for less cash: CXL Memory Bandwidth and Capacity Expansion in Software Caches](https://drive.google.com/file/d/1AQX56jb9qa-W9adlAjNkt4dhUMOcfHGI/view?usp=drive_link)
 
 Gregory D Sellman (AMD), Dirk Blevins (Intel) and Damien Chong (Meta)
+
+<a id="141"></a>
 
 2023/10/17 [DC-MHS Modular Shared Infrastructure (M-SIF) - Comprehending Multi-Node/Host](https://drive.google.com/file/d/1CeP6nnnA9dRHFEsd22UZQGBAgqYT7NIu/view?usp=drive_link)
 
 Hasan Ali (Molex) and Joe Jacques (Cisco)
 
+<a id="130"></a>
+
 2023/10/17 [Thermal Characterization of High-Power Pluggable Optical Modules](https://drive.google.com/file/d/1CSS0x9ODPc5UNAYttmFyZAsfeDFkB7DD/view?usp=drive_link)
 
 Hemal Shah (Braodcom) and Jeff Autor (HPE)
+
+<a id="110"></a>
 
 2023/10/17 [Hardware Management Project Update: New sub-projects and Workstreams](https://drive.google.com/file/d/1UAh7XNCH25dvddKsADUKx6QXqgqKRlI2/view?usp=drive_link)
 
 Hemal Shah (Broadcom), Yuval Itkin (nVidia) and Patrick Caporale (Lenovo)
 
+<a id="151"></a>
+
 2023/10/17 [A preview of next generation MCTP for OCP platform management communication infrastructure](https://drive.google.com/file/d/1Ap1ZhOSqumGzAxSd1mjBqUMl_vUVis_T/view?usp=drive_link)
 
 Hoshik Kim (SK hynix)
+
+<a id="139"></a>
 
 2023/10/17 [CXL: A Prelude to Memory-centric Computing - presented by SK hynix](https://drive.google.com/file/d/1pKSD6d7kwTXwOW-vKfZp3Y5e-6JopXF0/view?usp=drive_link)
 
 Jeff Twombly (Credo Semiconductor)
 
+<a id="149"></a>
+
 2023/10/17 [The Rise of Chiplets in Advanced AI / ML / HPC SoC's - presented by Credo Semiconductor](https://drive.google.com/file/d/1SAYWAWfppkIc-e4quDMNuMEOreKR-p3z/view?usp=share_link)
 
 John Leung (Intel)
+
+<a id="155"></a>
 
 2023/10/17 [OCP Profiles for Interoperable Management](https://drive.google.com/file/d/1TijK7SbiXksg-_4n5lcIpNxZ6PpbvMtw/view?usp=drive_link)
 
 Jonathan Zhang (Astera Labs)
 
+<a id="121"></a>
+
 2023/10/17 [Engineering CXL Memory Expander Device for Production](https://drive.google.com/file/d/13ovr19UbsKIrJmHESuP76X-vQ6P0GOmj/view?usp=drive_link)
 
 Larrie Carr (Rambus)
+
+<a id="120"></a>
 
 2023/10/17 [Mitigating Silent Errors and Corruption within the Data Center](https://drive.google.com/file/d/1g7fPOKjnSAfNbt_FZCqRQotqdh_rrKmV/view?usp=drive_link)
 
 LK Bhupathi (Ayar Labs)
 
+<a id="129"></a>
+
 2023/10/17 [THE NEXT WAVE OF COMPUTING WITH OPTICAL I/O](https://drive.google.com/file/d/1am_pLTwnL9YZ-_5VhbSChygjUEEPzB-H/view?usp=drive_link)
 
 Kevin Yasumura (Google)
+
+<a id="105"></a>
 
 2023/10/17 [Lightwave Fabrics: At-Scale Optical Circuit Switching for Datacenter and Machine Learning Systems](https://drive.google.com/file/d/1iiRGUyvDrvdDM1kCfvFO5iVdsPMLTF7g/view?usp=drive_link)
 
 Kiran Vemuri and Chenyu Xu (Meta)
 
+<a id="143"></a>
+
 2023/10/17 [Yosemite v4, Meta's next gen modular server platform](https://drive.google.com/file/d/14z7lVf-yZK_dXmLwz0eqDC0oanOIc3iu/view?usp=drive_link)
 
 Matt Bowman and Jeremy Baumgartner (Meta)
+
+<a id="231"></a>
 
 2023/10/17 [Grand Teton Systems Overview](https://drive.google.com/file/d/1r7ZBVIvk3jYBz10ehBlvTeYJeR_b48KQ/view?usp=drive_link)
 
 Michael Klempa (AlphaWave IP)
 
+<a id="127"></a>
+
 2023/10/17 [Enabling Multi-Vendor Interoperability at 224G to Drive 1.6T Data Center Optics](https://drive.google.com/file/d/1Y65QBNsZrxKcSnCYXTq-WZwMY2YNcoTU/view?usp=drive_link)
 
 Manoj Wadekar (Meta) and Samir Rajadnya (Microsoft)
 
+<a id="111"></a>
+
 2023/10/17 [Composable Memory - Hyperscale use cases and Benchmarks](https://drive.google.com/file/d/1qhjEccdoHT-FuL3CE41JULgCnyUMISwt/view?usp=drive_link)
 
 Mohamad El-Batal (Seagate)
+
+<a id="95"></a>
 
 2023/10/17 [OCP PCIe Extended Connectivity Requirements](https://drive.google.com/file/d/1_DDvarls2mPcDUpriH7HK03m8H_dyWtZ/view?usp=drive_link)
 
