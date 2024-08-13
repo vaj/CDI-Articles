@@ -766,81 +766,121 @@ Mohamad El-Batal (Seagate)
 
 Nathan Tracy (OIF)
 
+<a id="106"></a>
+
 2023/10/17 [The Path for Next Generation Optics](https://drive.google.com/file/d/1emqE1hHhUu5EFbF4C6KvhOzXWGrBP0jR/view?usp=drive_link)
 
 Priya Vartak (Astera Labs)
+
+<a id="93"></a>
 
 2023/10/17 [Unleash the Full Potential of CXL](https://drive.google.com/file/d/1xSVb0D_RkmXZrETT1gqoyWpyE21nWEmE/view?usp=drive_link)
 
 Ram Huggahalli (Microsoft)
 
+<a id="125"></a>
+
 2023/10/17 [Microsoft Use Cases](https://drive.google.com/file/d/1GGT26Q93EqkThzJqwEhkGXjCMNsCTrYB/view?usp=drive_link)
 
 Ron Swartzentruber (Lightelligence)
+
+<a id="157"></a>
 
 2023/10/17 [Optical CXL Interconnect for Large Scale Memory Pooling](https://drive.google.com/file/d/1gqVYJqLUHF4JcZxT-b9SHmtU08W4ZNYY/view?usp=drive_link)
 
 Sam Bhattarai (KIOXIA)
 
+<a id="147"></a>
+
 2023/10/17 [Flash centric storage architecture enabled by E1.S Form Factor - presented by KIOXIA](https://drive.google.com/file/d/1PycGMBuezDJbzoiVE9W0QQ8PU_s_upoX/view?usp=share_link)
 
 Sam Kocsis (Amphenol) and Chris Cole (II-VI)
+
+<a id="94"></a>
 
 2023/10/17 [Extending PCIe Connectivity with Optics](https://drive.google.com/file/d/1viUimL0CaVcpxee4swtIz6Dq0OOSRI9U/view?usp=drive_link)
 
 Sameh Boujelbene (Dell'Oro Group)
 
+<a id="123"></a>
+
 2023/10/17 [AI Networking Market Overview](https://drive.google.com/file/d/1EgAAq3u0NvKtiK6FNQz-eNHTf5-swfMf/view?usp=drive_link)
 
 Samer El-Haj-Mahmoud (Arm), James Bodner (Nvidia) and Tim Lewis (Insyde Software)
+
+<a id="144"></a>
 
 2023/10/17 [Designing standards compliant servers with Arm SystemReady and the NVIDIA Grace open ecosystem](https://drive.google.com/file/d/15ThhPfP5AfCZaAiAqlryEOILPwrqO9vq/view?usp=drive_link)
 
 Samir Rajadnya (Microsoft), Durgesh Srivastava (Nvidia) and Larrie Carr (Rambus)
 
+<a id="119"></a>
+
 2023/10/17 [Hotness Tracking in Composable Memory Systems](https://drive.google.com/file/d/1CJ3Td79NtfNhmxLRE6aIpudZqjOftI8u/view?usp=drive_link)
 
 Scott Stetzer (KIOXIA)
+
+<a id="148"></a>
 
 2023/10/17 [Next Evolution of Flash is Software-Defined - presented by KIOXIA](https://drive.google.com/file/d/1jtaOkBrUEMmYDk9OzEz6IDYs4hOnSf83/view?usp=share_link)
 
 Siamak Tavallaei
 
+<a id="158"></a>
+
 2023/10/17 [Scale-up and Scale-out challenges for disaggregated infrastructure](https://drive.google.com/file/d/1Pp4e4X-x-ZxfUa2qn8HWL_AR9RAxP4az/view?usp=drive_link)
 
 Steve Scargall (Memverge)
+
+<a id="116"></a>
 
 2023/10/17 [CXL Device Telemetry: A Software Interface Proposal](https://drive.google.com/file/d/13UDYypZw5y2n6IyPmj6yyTUU908Hprhh/view?usp=drive_link)
 
 Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 
+<a id="114"></a>
+
 2023/10/17 [Capacity & TCO benefits to Applications using VMware Memory tiering](https://drive.google.com/file/d/1TNUveAT6IrhVEkwySzcwnMBT2UaXpYGd/view?usp=drive_link)
 
 Tim Lambert (Dell), Mike Witkowski (HPE), Todd Rosedahl (IBM) and Javier Lasa (Intel)
+
+<a id="145"></a>
 
 2023/10/17 [DC-MHS: Peripheral Out-of-Band Management Evolution](https://drive.google.com/file/d/15HI6QgYAcsrrYav1oWO0Z67OL2s5pEJh/view?usp=drive_link)
 
 Tom Hackenberg (Yole Group), Jayaprakash Balachandran (d-Matrix), Majid Foodeei (Kandou), Andy Heinig (Fraunhofer) and Subu Iyer (UCLA)
 
+<a id="154"></a>
+
 2023/10/17 [Panel: What is Next in Building The Open Chiplet Economy](https://drive.google.com/file/d/1lIG1zvWP8fMU5bcVm3Y6a7KuhHdciaJ0/view?usp=drive_link)
 
 Vlad Kozlov (Light Counting), Manish Mehta (Broadcom), Loi Nguyen (Marvell) and Andy Bechtolsheim (Arista)
+
+<a id="126"></a>
 
 2023/10/17 [Panel Challenges and opportunities for optics in AI](https://drive.google.com/file/d/1exCoTN8hltVcAw4skEOI7sc_PWt0bL_s/view?usp=drive_link)
 
 Vikram Kasivajhula (Google), Manoj Wadekar (Meta) and Alex Wetmore (Microsoft)
 
+<a id="138"></a>
+
 2023/10/17 [AI Use Cases](https://drive.google.com/file/d/1hy2rE9b5uJc_Qf236sYoEjRHIiXT87ex/view?usp=share_link)
 
 Vikrant Soman (Uber)
+
+<a id="112"></a>
 
 2023/10/17 [Methodology for performance benchmarking of containerized microservices using CMS memory pooling](https://drive.google.com/file/d/1NFB92xKvQSVjkebGL63M7ljnQzNw05WN/view?usp=drive_link)
 
 Vikrant Soman (Uber) and Anjaneya Chagam (Intel)
 
+<a id="113"></a>
+
 2023/10/17 [OCP Composable Memory Systems (CMS) Logical and Physical Architecture overview and use case mapping](https://drive.google.com/file/d/1PBZKfoZXhWtS1xjm-umFmJNDynr8-Xiw/view?usp=drive_link)
 
 WaiKiong Poon (Molex) and Seunghyun Eddy Hwang (NVIDIA)
+
+<a id="102"></a>
 
 2023/10/17 [Partnership to enable copper for the next generation artificial Intelligence Computing](https://drive.google.com/file/d/1SBA_m4_vm_yUu1Sat-6rWZ7ThAvX10RI/view?usp=drive_link)
 
