@@ -1357,33 +1357,49 @@ Jonmichael Hands (SNIA SSD Special Interest Group)
 
 Kevin Marks (Dell)
 
+<a id="255"></a>
+
 2024/04/24 [Regional SDC Austin 24 CXL® for Storage](https://www.snia.org/sites/default/files/SDC/Austin/SNIA-RSDC24-Marks-CXL-for-Storage.pdf)
 
 Kurtis Bowman (CXL Consortium), Sandeep Dattaprasad (Astera Labs) and Steve Scargall (MemVerge)
+
+<a id="243"></a>
 
 2024/05/21 [Increasing AI and HPC Application Performance with CXL Fabrics - A Panel](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Bowman-Increasing-AI-and-HPC-Application-Performance-with-CXL-Fabrics.pdf)
 
 Larrie Carr (Rambus)
 
+<a id="241"></a>
+
 2024/05/22 [Proprietary Interconnects and CXL](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Carr-Proprietary-Interconnects-and-CXL.pdf)
 
 Manoj Wadekar (Meta)
+
+<a id="251"></a>
 
 2024/05/22 [AI Pushing Infra boundaries - Memory is a key factor](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Wadekar-Pushing-Infra-Boundaries.pdf)
 
 Paul McLeod (Supermicro)
 
+<a id="237"></a>
+
 2024/05/21 [Storage Architecture Optimized for AI Workloads](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-McLeod-Storage-Architectures-Optimized-for-AI-Workloads.pdf)
 
 Sudhir Balasubramanian and Arvind Jagannath (VMware)
+
+<a id="236"></a>
 
 2024/05/22 [VMware Memory Vision for Real World Applications](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Jagannath-Balasubramanian-VMware-Memory-Vision-for-Real-World-Applications.pdf)
 
 Shyam Iyer (Dell)
 
+<a id="249"></a>
+
 2024/05/22 [Smart Data Accelerator Interface Use Cases, Futures, and Proof Points](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Iyer-Smart-Data-Accelerator-Interface-Use-Cases-Futures-and-Proof-Points.pdf)
 
 Steven Yuan (StorageX.ai)
+
+<a id="252"></a>
 
 2024/05/21 [Overcome Real World Challenges Between Data and AI](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Yuan-Overcome%20Real-World-Challenges-between-Data-and-AI%20%281%29.pdf)
 
@@ -1391,13 +1407,19 @@ Steven Yuan (StorageX.ai)
 
 Jian Zhang (Rutgers University), Marie Nguyen (Samsung) and Changwoo Min (Igalia)
 
+<a id="203"></a>
+
 2024/02/27 [FAST '24 - OmniCache Collaborative Caching for Near-storage Accelerators](https://www.usenix.org/system/files/fast24_slides-zhang-jian.pdf)
 
 Wentao Hou (University of Wisconsin-Madison) Jie Zhang, Zeke Wang (Zhejiang University), Ming Liu (University of Wisconsin-Madison)
 
+<a id="240"></a>
+
 2024/04/16 [NSDI '24 - Understanding Routable PCIe Performance for Composable Infrastructures](https://www.usenix.org/conference/nsdi24/presentation/hou)
 
 Zhe Yang (Tsinghua University)
+
+<a id="204"></a>
 
 2024/02/27 [FAST '24 - TeRM Extending RDMA-Attached Memory with SSD](https://www.usenix.org/system/files/fast24_slides-yang_zhe.pdf)
 
