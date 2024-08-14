@@ -948,25 +948,37 @@ Jim Handy (Objective Analysis)
 
 Mats Öberg (Marvell)
 
+<a id="10"></a>
+
 2023/04/11 [SNIA CMSS - Thinking Memory](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Oberg-Thinking-Memory.pdf)
 
 Phil Cayton, et al.
+
+<a id="2"></a>
 
 2023/05/17 [Casting the Net\_ Scaling Management of Storage and Fabrics](https://www.snia.org/sites/default/files/Alliances/Casting-the-Net-Scaling-Mangement-of-Storage-and-Fabrics.pdf)
 
 Richelle Ahlvers (Broadcom), Sandeep Dattaprasad (Astera Labs), Gerry Fan (Xconn Technologies) and Steve Scargall (Intel)
 
+<a id="68"></a>
+
 2023/09/21 [SDC 2023 - CXL Advancing Coherent Connectivity](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Alvers-Dattaprasad-CXL-Advancing-Coherent-Connectivity.pdf)
 
 Shyamkumar Iyer (Dell)
+
+<a id="72"></a>
 
 [SDC 2023 - SNIA SDXI Specification v1.0 and Beyond](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Iyer-SNIA-SDXI-Specification-%20v1.0-and-beyond.pdf)
 
 Vince Hache (Rambus)
 
+<a id="15"></a>
+
 2023/04/11 [SNIA CMSS23 - Introduction to Fabrics in CXL 3.0](https://www.snia.org/sites/default/files/cmss/2023/SNIA-CMSS23-Hache-Introduction-to-CXL-Fabrics.pdf)
 
 Yang Seok Ki (Samsung)
+
+<a id="67"></a>
 
 2023/09/19 [Is SSD with CXL Interfaces Brilliantly Stupid or Stupidly Brilliant](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Ki-Is-SSD-with-CXL-Interfaces-Brilliantly-Stupid-or-Stupidly-Brilliant.pdf)
 
@@ -974,19 +986,27 @@ Yang Seok Ki (Samsung)
 
 Dragan Stancevic
 
+<a id="46"></a>
+
 2023/05/26 [VM live migration over CXL memory - Dragan Stancevic](https://nil-migration.org/nil-migration-BoF-LFSMMBPF-2023.pdf)
 
 Hyde Sugiyama (Red Hat), Ryosuke Kurebayashi(NTT), Naoki Oguchi (Fujitsu) and Clara Li (Intel)
 
+<a id="162"></a>
+
 2023/12/05 [IOWN Data Centric Infrastructure as a Service PoC discussion](https://static.sched.com/hosted_files/ossjapan2023/87/OSSJP23-IOWN%20%285%29.pdf)
 
 Yasunori Goto (Fujitsu)
+
+<a id="160"></a>
 
 2023/12/05 [Compute Express Link(CXL), the next generation interconnect overview and the status of Linux](https://static.sched.com/hosted_files/ossjapan2023/8f/OSSJ2023_CXL_overview_and_the_status_of_Linux_.pdf)
 
 ### The OpenFabrics Alliance
 
 Michael Aguilar, et al.
+
+<a id="1"></a>
 
 2023/02/14 [2023 Stanford Conference - Sandia - The OpenFabrics Management Framework for HPC Composability](https://www.hpcadvisorycouncil.com/events/2023/stanford-conference/pdf/Day%201_Sandia.pdf)
 
@@ -997,6 +1017,8 @@ Michael Aguilar, et al.
 ### Universal Chiplet Interconnect Express
 
 Debendra Das Sharma (Intel)
+
+<a id="53"></a>
 
 2023/02/21 [Introduction to UCIe™](https://www.uciexpress.org/_files/ugd/0c1418_064d8c3247284b8da8a09674714a2c78.pdf)
 
@@ -1016,9 +1038,13 @@ Tomoaki Sato
 
 Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX)
 
+<a id="259"></a>
+
 2024/06/27 [Exploring CXL® Use Cases and Implementations](https://computeexpresslink.org/wp-content/uploads/2024/07/CXL-Q224-Webinar-Slides.pdf)
 
 Robert Blankenship (Intel) and Mahesh Wagh (AMD)
+
+<a id="178"></a>
 
 2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
 
@@ -1026,33 +1052,49 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
 Anil Godbole (Intel)
 
+<a id="189"></a>
+
 2024/02/14 [Intel CXL Enablement](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-intel-enabling-compute-express-link-cxl/266312298)
 
 Arvind Jagannath (VMware)
+
+<a id="184"></a>
 
 2024/02/14 [VMware Memory Vision](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-vmware-memory-vision/266311250)
 
 Brian Pan (H3 Platform)
 
+<a id="179"></a>
+
 2024/03/05 [Q1 Memory Fabric Forum: H3 CXL Solution](https://www.slideshare.net/slideshow/h3-platform-cxl-solutionmemory-fabric-forumpptx/266344775)
 
 Charles Fan (MemVerge)
+
+<a id="180"></a>
 
 2024/02/11 [MemVerge Big Memory Computing for AI](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-big-memory-computing-for-ai/266312376)
 
 Eddie McMorrow (GigaIO)
 
+<a id="191"></a>
+
 2024/02/14 [GigaIO Memory Fabric in a Composable System](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-memory-fabric-in-a-composable-system/266312387)
 
 Gary Ruggles (Synopsys)
+
+<a id="199"></a>
 
 2024/02/14 [Synopsys Building Fast and Secure Chips with CXL IP](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-building-fast-and-secure-chips-with-cxl-ip/266325662)
 
 JP Jiang (Xconn Technologies)
 
+<a id="187"></a>
+
 2024/02/14 [XConn CXL Switches for AI](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-xconn-cxl-switches-for-ai/266311269)
 
 Michael Abraham (Micron)
+
+<a id="185"></a>
 
 2024/02/14 [Micron CXL Compatible Memory Modules](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-micron-cxlcompatible-memory-modules/266312344)
 
