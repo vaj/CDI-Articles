@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 219 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 218 disaggregated computing articles published on the website between March 2017 and July 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -1100,115 +1100,174 @@ Michael Abraham (Micron)
 
 Michael Ocampo (Astera Labs)
 
+<a id="195"></a>
+
 2024/02/12 [Astera Labs  Breaking Through the Memory Wall with CXL](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-breaking-through-the-memory-wall/266312460)
 
 Nick Kriczsky and Gorden Getty (Teledyne LeCroy)
+
+<a id="201"></a>
 
 2024/02/13 [Teledyne LeCroy Austin Labs](https://www.slideshare.net/slideshow/q1-memory-fabric-forum-teledyne-lecroy-austin-labs/266312725)
 
 Nilesh Shah (Montage)
 
+<a id="196"></a>
+
 2024/02/11 [Montage Memory Controllers](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxl-controller-by-montage-technology/266312746)
 
 Nilesh Shah (ZeroPoint)
+
+<a id="198"></a>
 
 2024/02/13 [ZeroPoint. Remove the waste. Release the power](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-zeropoint-remove-the-waste-release-the-power/266325688)
 
 Ravi Budruk (MindShare)
 
+<a id="200"></a>
+
 2024/02/13 [About MindShare Training](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-about-mindshare-training/266312769)
 
 Ravi Gummaluri (Micron)
+
+<a id="193"></a>
 
 2024/02/11 [Micron Memory Expansion with CLX Ready Systems and Devices](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-memory-expansion-with-cxlready-systems-and-devices/266312807)
 
 Ron Swartzentruber (Lightelligence)
 
+<a id="188"></a>
+
 2024/02/14 [Lightelligence Advantages of Optical CXL for Disaggregated Compute Architectures](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-advantages-of-optical-cxl-for-disaggregated-compute-architectures/266312309)
 
 Siamak Tavallaei (CXL Consortium)
 
+<a id="192"></a>
+
 2024/02/11 [CXL Related Activities Within OCP](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxlrelated-activities-within-ocp/266312757)
+
+<a id="182"></a>
 
 2024/02/16 [CXL 3.1 Update](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-compute-express-link-cxl-31-update/266312320)
 
 Steve Scargall (MemVerge)
 
+<a id="197"></a>
+
 2024/02/16 [MemVerge Memory Fabric Webinar   Using CXL with AI Applications](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-using-cxl-with-ai-applications-steve-scargallpptx/266325554)
 
 Thibault Grossi (Yole)
+
+<a id="181"></a>
 
 2024/02/11 [Yole Memory Processor Interface 2023 - Focus on CXL](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-memory-processor-interface-2023-focus-on-cxl/266312361)
 
 Torry Steed (SMART Modular)
 
+<a id="186"></a>
+
 2024/02/11 [SMART Modular CXL Product Line](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-smart-cxl-product-lineup/266312429)
 
+<a id="194"></a>
+
 2024/02/13 [SMART Modular CXL Product Lineup (DAY2)](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-smart-cxl-product-lineup/266312429)
+
+<a id="183"></a>
 
 2024/02/14 [SMART Modular CXL Form Factor Primer](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxl-form-factor-primer/266312399)
 
 Yong Tian (MemVerge)
 
-2024/02/12 [MemVerge  Memory Expansion Without Breaking the Budget](https://www.slideshare.net/slideshows/memverge-memory-expansion-without-breaking-the-budget/266311116)
+<a id="190"></a>
+<a id="202"></a>
 
-2024/02/14 [MemVerge Memory Expansion Without Breaking the Budget](https://www.slideshare.net/slideshows/memverge-memory-expansion-without-breaking-the-budget/266311116)
+2024/02/12 [MemVerge  Memory Expansion Without Breaking the Budget](https://www.slideshare.net/slideshows/memverge-memory-expansion-without-breaking-the-budget/266311116)
 
 ### Open Compute Project
 
 Andrew Alduino (Meta)
 
+<a id="247"></a>
+
 2024/04/24 [Optics in AI Clusters - Meta Perspective](https://drive.google.com/file/d/1Gok_Rxs6Pl6d6ffBupyKN_yrxfrRXFIC/view?usp=drive_link)
 
 Anil Agrawal and Carlos Fernandez (Meta)
+
+<a id="221"></a>
 
 2024/04/24 [PCIe Express corrected errors handling (RAS) solution implementation considerations](https://drive.google.com/file/d/1PW2cxy5y6JWR6b_jM08434d3jgHlOt94/view?usp=drive_link)
 
 Apparao Puli (Intel)
 
+<a id="229"></a>
+
 2024/04/24 [PCIe Add-In-Cards (CXL, NIC) Out-Of-Band manageability in Data Centers](https://drive.google.com/file/d/1LVpJI9x2e_bb1XchEz1iZSqjFAry91lp/view?usp=drive_link)
 
 Glenn Ge (TetraMem)
+
+<a id="223"></a>
 
 2024/04/24 [Analog In-memory computing with multilevel memristive devices for high performance computing](https://drive.google.com/file/d/1EFbCGfI_XonVemcHCtKYiaaPWivTXxKv/view?usp=drive_link)
 
 Nilesh Shah (zeropoint technologies)
 
+<a id="222"></a>
+
 2024/04/24 [Chiplet-Based Compressed LLC Cache & Memory Expansion](https://drive.google.com/file/d/1xijn5e5rXw3AITxUoQxKWg_287pWYB8I/view?usp=drive_link)
+
+<a id="217"></a>
 
 2024/04/24 [Streamlining CXL Adoption for Hyperscale Efficiency](https://drive.google.com/file/d/1GLQs-N0bnzShzYIVhKwNFmMkM6dqIl69/view?usp=drive_link)
 
 Rob Nance (Jabil) and Paul Artman (AMD)
 
+<a id="218"></a>
+
 2024/04/24 [DC-MHS Modular Shared Infrastructure (M-SIF)](https://drive.google.com/file/d/1XGHiMXNIRNICuMjdkactn6ov8UJC0MlX/view?usp=drive_link)
+
+<a id="230"></a>
 
 2024/04/24 [Data Center Modular Hardware System Specification (DC-MHS) the overview](https://drive.google.com/file/d/1Zyli_17qrjioO_mkYAHCxc3iBJcUCcWV/view?usp=drive_link)
 
 Roy Rubenstein (LightCounting), William Koss (Drut Technologies), Ron Swartzentruber (Lightelligence), Vlad Kozlov (Light Counting) and Andrew Alduino (Meta)
 
+<a id="226"></a>
+
 2024/04/24 [PANEL The evolving role of optics in AI Clusters](https://drive.google.com/file/d/1Gok_Rxs6Pl6d6ffBupyKN_yrxfrRXFIC/view?usp=drive_link)
 
 Ron Swartzentruber (Lightelligence)
+
+<a id="219"></a>
 
 2024/04/24 [Optical CXL for disaggregated compute architectures](https://drive.google.com/file/d/1ydt8Edbyjf_-UmSIoQCq1C3caPuYT3G7/view?usp=drive_link)
 
 Sam Kocsis (Amphenol)
 
+<a id="225"></a>
+
 2024/04/24 [Participating in an Open Hardware Ecosystem](https://drive.google.com/file/d/1aBEt-hRyQ2ya4Mz0RagryMTmLkT98-NJ/view?usp=drive_link)
 
 Siamak Tavallaei (Independent), Anjaneya Chagam (Intel)
+
+<a id="220"></a>
 
 2024/04/24 [OCP Composable Memory Systems (CMS) Sub-Project progress update and plans](https://drive.google.com/file/d/16dmD1zs_g_8Rq3DHE7IP8xNiXACH_lV5/view?usp=drive_link)
 
 Suresh Subramaniam (Apex Semiconductors)
 
+<a id="216"></a>
+
 2024/04/24 [Chiplet based Reconfigurable OCP Accelerator Module (OAM) architecture and platform](https://drive.google.com/file/d/1WalGdks2zXR-dypDzwBNzuTMfmwAD6E2/view?usp=drive_link)
 
 Todd Rosedahl (Jabil)
 
+<a id="215"></a>
+
 2024/04/24 [Large Memory Server Design Overview](https://drive.google.com/file/d/1DXrynarhCKYKhHXqXIN-0ECOzUuHUN3Z/view?usp=drive_link)
 
 Vlad Kozlov (Light Counting)
+
+<a id="239"></a>
 
 2024/04/24 [Market Overview](https://drive.google.com/file/d/1DzFEn7-aHpn54qDRhBxOlVH6LPOsQ_4U/view?usp=drive_link)
 
@@ -1216,13 +1275,19 @@ Vlad Kozlov (Light Counting)
 
 Catherine Appleby and Michael Aguilar (Sandia National Laboratories)
 
+<a id="212"></a>
+
 2024/04/23 [OFA Virtual Workshop 2024 Day 2 Session 8](https://www.openfabrics.org/wp-content/uploads/2024-workshop/2024-workshop-presentations/session-8.pdf)
 
 Christian Pinto (IBM Research Europe), Michael Aguilar (Sandia National Laboratories), Phil Cayton (Intel), Russ Herrell (HPE) and Brian Pan (H3 Platform)
 
+<a id="210"></a>
+
 2024/04/23 [OFA Virtual Workshop 2024 Day 2 Session 7](https://www.openfabrics.org/wp-content/uploads/2024-workshop/2024-workshop-presentations/session-7.pdf)
 
 Kurtis Bowman (CXL Consortium) and Mitch Wright (Liqid)
+
+<a id="211"></a>
 
 2024/04/23 [OFA Virtual Workshop 2024 Day 2 Session 10](https://www.openfabrics.org/wp-content/uploads/2024-workshop/2024-workshop-presentations/session-10.pdf)
 
@@ -1230,43 +1295,63 @@ Kurtis Bowman (CXL Consortium) and Mitch Wright (Liqid)
 
 Samuel Kocsis (Amphenole) and Mohiuddin Mazumder (Intel)
 
+<a id="267"></a>
+
 2024/07/11 [The Journey to CopprLink™ and Beyond An Exploration of PCIe® Cabling Solutions](https://pcisig.com/sites/default/files/files/PCI-SIG%20Cabling%20Webinar_FINAL.pdf)
 
 ### SNIA
 
 Adam Manzanares (Samsung)
 
+<a id="254"></a>
+
 2024/04/24 [Regional SDC Austin 24 Emulating CXL® with QEMU](https://www.snia.org/sites/default/files/SDC/Austin/SNIA-RSDC24-Manzanares-CXL-Device-Emulation-Leveraging-QEMU.pdf)
 
 Ahmed Medhioub (Astera Labs)
+
+<a id="244"></a>
 
 2024/05/21 [Breaking Through the Memory Wall with CXL](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Medhioub-Breaking-Through-The-Memory-Wall-with-CXL.pdf)
 
 Andy Banta (Magnition IO)
 
+<a id="258"></a>
+
 2024/04/24 [Regional SDC Austin 24 Optimizing Content Delivery Networks through Simulations](https://www.snia.org/sites/default/files/SDC/Austin/SNIA-RSDC-Banta-Optimizing-Memory-Hierarchies.pdf)
 
 Bill Martin (Samsung) and Jason Molgaard (Solidigm)
+
+<a id="248"></a>
 
 2024/05/22 [SNIA Computational Storage Standards](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Martin-Molgaard-Computational-Storage-Standards.pdf)
 
 David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMware)
 
+<a id="242"></a>
+
 2024/05/21 [Bringing Unique Customer Value with CXL Accelerator-Based Memory Solutions](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-McIntyre-Jagannath-Balasubramanian-Bringing-Unique-Customer-Value-with-CXL-Accelerator-Based-Memory-Solutions.pdf)
 
 Jason Molgaard (Solidigm)
+
+<a id="256"></a>
 
 2024/04/24 [Regional SDC Austin 24 CXL® and NVMe® Collaborating for Computation](https://www.snia.org/sites/default/files/SDC/Austin/SNIA-RSDC24-Molgaard-CXL-NVMe-Collaborating-for-Computation.pdf)
 
 Jim Handy (Objective Analysis)
 
+<a id="245"></a>
+
 2024/05/21 [Memories are Driving Big Architectural Changes – Hold Onto Your Hats!](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Handy-Coughlin-Memories-Are-Driving-Big-Architectural-Changes.pdf)
 
 John Cardente (Dell)
 
+<a id="253"></a>
+
 2024/05/21 [Storage Requirements for AI](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Cardente-Storage-Requirements-for-AI.pdf)
 
 Jonmichael Hands (SNIA SSD Special Interest Group)
+
+<a id="246"></a>
 
 2024/05/22 [The Latest on Form Factors](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Hands-The-Latest-on-Form-Factors.pdf)
 
