@@ -62,6 +62,8 @@ All titles are in English, regardless of the language in which they were written
     - [SNIA](#snia-4)
     - [USENIX](#usenix)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
+  - [APPENDIX](#appendix)
+    - [Acronyms](#acronyms)
 
 ## 2017
 
@@ -1857,3 +1859,9 @@ Tomoaki Sato
 2024/06/27 [What is "Disaggregated Computing"? (5)](https://valinux.hatenablog.com/entry/202406271)
 
 2024/07/18 [Enhance your own external memory with local LLMs and RAGs!](https://valinux.hatenablog.com/entry/20240718)
+
+## APPENDIX
+
+<a id="acronyms"></a>
+
+### [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md)
