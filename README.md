@@ -994,6 +994,14 @@ Ram Huggahalli (Microsoft)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/125)
 
+Rick Kutcipal (Broadcom)
+
+<a id="82"></a>
+
+2023/10/17 [Broadcom Accelerates PCIe/CXL Roadmap to Enable the Open AI Ecosystem](https://www.slideshare.net/slideshow/broadcom-pcie-cxl-switches-ocp-finalpptx/262688181)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/82)
+
 Ron Swartzentruber (Lightelligence)
 
 <a id="157"></a>
