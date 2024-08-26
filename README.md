@@ -357,7 +357,7 @@ Robert Blankenship (Intel)
 
 <a id="13.2"></a>
 
-2022/08/21 [CXL2/CXL3 coherency deep dive](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20MemoryChallenges.pdf)
+2022/08/21 [CXL2/CXL3 coherency deep dive](https://hc34.hotchips.org/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL3%20Coherence%20Deep%20Dive.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/13)
 
