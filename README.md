@@ -12,12 +12,15 @@ All titles are in English, regardless of the language in which they were written
   - [Table of Contents](#table-of-contents)
   - [2017](#2017)
     - [OpenFabrics Alliance](#openfabrics-alliance)
+    - [Gen-Z Consortium](#gen-z-consortium)
   - [2018](#2018)
     - [OpenFabrics Alliance](#openfabrics-alliance-1)
+    - [Gen-Z Consortium](#gen-z-consortium-1)
   - [2019](#2019)
     - [CXL Consortium](#cxl-consortium)
     - [Linux Plumbers Conference](#linux-plumbers-conference)
     - [SNIA](#snia)
+    - [Gen-Z Consortium](#gen-z-consortium-2)
   - [2020](#2020)
     - [CXL Consortium](#cxl-consortium-1)
     - [PCI-SIG](#pci-sig)
@@ -32,6 +35,7 @@ All titles are in English, regardless of the language in which they were written
     - [Intel](#intel)
     - [Texas Instruments](#texas-instruments)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
+    - [Gen-Z Consortium](#gen-z-consortium-3)
   - [2022](#2022)
     - [Ayar Labs](#ayar-labs)
     - [CXL Consrtium](#cxl-consrtium)
@@ -65,7 +69,9 @@ All titles are in English, regardless of the language in which they were written
     - [Universal Chiplet Interconnect Express](#universal-chiplet-interconnect-express)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
+    - [Astera Labs](#astera-labs-1)
     - [CXL Consortium](#cxl-consortium-4)
+    - [Intel](#intel-1)
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [MemVerge](#memverge-2)
     - [Open Compute Project](#open-compute-project-1)
@@ -90,6 +96,20 @@ Brand Benton (AMD)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/22)
 
+### Gen-Z Consortium
+
+<a id="233"></a>
+
+2017/09/22 Gen-Z: A New Approach
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/233)
+
+<a id="234"></a>
+
+2017/11/16 Gen-Z Tenets
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/234)
+
 ## 2018
 
 ### OpenFabrics Alliance
@@ -109,6 +129,14 @@ Tom Talpey (Microsoft)
 2018/04/10 [Persistent Memory Programming – the Remote Access Perspective](https://www.openfabrics.org/images/2018workshop/presentations/109_TTalpey_RemotePersistentMemory.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/176)
+
+### Gen-Z Consortium
+
+<a id="235"></a>
+
+2018/04/30 Gen-Z Use Cases
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/235)
 
 ## 2019
 
@@ -141,6 +169,16 @@ Alan Bumgarner (Intel) and Tom Talpey (Microsoft)
 2019/09/24 [SNIA Nonvolatile Memory Programming TWG - Remote Persistent Memory (SDC 2019)](https://www.snia.org/sites/default/files/SDC/2019/presentations/PM/Talpey_Tom_Bumgarner_Nonvolatile_Memory_Programming_TWG_Remote_Persistent_Memory.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/177)
+
+### Gen-Z Consortium
+
+Valerie Padilla (Dell)
+
+<a id="260"></a>
+
+2019/07/02 Understanding Gen-Z Technology: The Fabric of the New Data Center
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/260)
 
 ## 2020
 
@@ -305,6 +343,16 @@ Nicholaus Malone
 Tomoaki Sato
 
 2021/07/08 [What is "Disaggregated Computing"? (1) GigaIO FabreX Products](https://valinux.hatenablog.com/entry/20210708)
+
+### Gen-Z Consortium
+
+Matt Burns (Samtec), Tim Symons (Microchip)
+
+<a id="261"></a>
+
+2021/03/24 Laying the Foundation: Gen-Z Components for Heterogeneous Computer Networking
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/261)
 
 ## 2022
 
@@ -532,17 +580,22 @@ Hasan Al Maruf (University of Michigan)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/36)
 
+Kazuhiro Hiwada (KIOXIA), Seiji Maeda (KIOXIA)
+
 <a id="18"></a>
 
-Kazuhiro Hiwada (KIOXIA)
-
 2022/08/02 KIOXIA's High Capacity CXL ™ Memory
-
-Seiji Maeda (KIOXIA)
-
 2022/08/02 High Bandwidth CXLT™ Memory using Flash Memory "BiCS FLASHT™"
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/18)
+
+Parag Beeraka (ARM)
+
+<a id="273"></a>
+
+2022/08/03 Enabling CXL Memory Pooling Devices
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/273)
 
 ### PCI-SIG
 
@@ -1775,6 +1828,16 @@ Tomoaki Sato
 
 ## 2024
 
+### Astera Labs
+
+Richard Ward (Astera Labs)
+
+<a id="250"></a>
+
+2024/06/11 First Demo of PCIe over Optics for GPU Clusters Across the Data Center
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/250)
+
 ### CXL Consortium
 
 Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX)
@@ -1793,6 +1856,16 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/178)
 
+### Intel
+
+Ling Liao (Intel)
+
+<a id="257"></a>
+
+2024/06/26 Intel Demonstrates First Fully Integrated Optical I/O Chiplet for More Scalable AI
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/257)
+
 ### Memory Fabric Forum
 
 Anil Godbole (Intel)
@@ -1810,6 +1883,26 @@ Arvind Jagannath (VMware)
 2024/02/14 [VMware Memory Vision](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-vmware-memory-vision/266311250)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/184)
+
+<a id="281"></a>
+
+2024/08/30 VMware Memory Tiering - Customer-ready Today
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/281)
+
+Bill Gervasi (Wolley)
+
+<a id="282"></a>
+
+2024/08/30 CXL Native Memory™ Do We Really Need DDR?
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/282)
+
+<a id="283"></a>
+
+2024/08/30 FleX: Bringing CXL to the Motherboard
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/283)
 
 Brian Pan (H3 Platform)
 
@@ -1907,6 +2000,14 @@ Ravi Gummaluri (Micron)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/193)
 
+Reggie Reynolds (NVIDIA)
+
+<a id="279"></a>
+
+2024/08/30 NVIDIA Networking for HPC, Al, and Accelerated IO
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/279)
+
 Ron Swartzentruber (Lightelligence)
 
 <a id="188"></a>
@@ -1915,6 +2016,14 @@ Ron Swartzentruber (Lightelligence)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/188)
 
+Seth Friedman (Liquid Markets Solutions)
+
+<a id="280"></a>
+
+2024/08/31 Liquid-Markets-Solutions Introduction to ÜberNIC
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/280)
+
 Siamak Tavallaei (CXL Consortium)
 
 <a id="192"></a>
@@ -1922,6 +2031,12 @@ Siamak Tavallaei (CXL Consortium)
 2024/02/11 [CXL Related Activities Within OCP](https://www.slideshare.net/slideshows/q1-memory-fabric-forum-cxlrelated-activities-within-ocp/266312757)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/192)
+
+<a id="278"></a>
+
+2024/08/29 At-scale Systems Interconnecting Massively Parallel XPUs
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/278)
 
 <a id="182"></a>
 
@@ -2111,6 +2226,14 @@ Vlad Kozlov (Light Counting)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/239)
 
+William Koss (Drut Technologies)
+
+<a id="238"></a>
+
+2024/06/08 Re-configurable Photonic Interconnects for AI/ML Infrastructure
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/238)
+
 ### OpenFabrics Alliance
 
 Catherine Appleby and Michael Aguilar (Sandia National Laboratories)
@@ -2295,6 +2418,14 @@ Steven Yuan (StorageX.ai)
 
 ### The Linux Foundation
 
+Adam Manzanares (Samsung)
+
+<a id="265"></a>
+
+2024/07/09 CXL Development Discussion Points
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/265)
+
 Vandana Salve (Micron)
 
 <a id="228"></a>
@@ -2302,6 +2433,14 @@ Vandana Salve (Micron)
 2024/04/26 Expanding memory limits with CXL SW Stack
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/228)
+
+Yiannis Nikolakopoulos (ZeroPoint Technologies)
+
+<a id="266"></a>
+
+2024/07/09 CXL Memory Compression
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/266)
 
 ### USENIX
 
