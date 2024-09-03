@@ -1936,6 +1936,14 @@ Gary Ruggles (Synopsys)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/199)
 
+Grant Mackey (Jackrabbit Labs)
+
+<a id="284"></a>
+
+2024/08/30 You Don't Know 'Jack': CXL Fabric Orchestration and Management
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/284)
+
 JP Jiang (Xconn Technologies)
 
 <a id="187"></a>
