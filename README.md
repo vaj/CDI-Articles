@@ -23,7 +23,9 @@ All titles are in English, regardless of the language in which they were written
     - [PCI-SIG](#pci-sig)
     - [SNIA](#snia-1)
     - [the 28th ACM International Conference on Multimedia](#the-28th-acm-international-conference-on-multimedia)
+    - [UEFI 2020 Virtual Plugfest](#uefi-2020-virtual-plugfest)
   - [2021](#2021)
+    - [CXL Consortium](#cxl-consortium-2)
     - [CXL Consortium, Gen-Z Consortium, SNIA](#cxl-consortium-gen-z-consortium-snia)
     - [Linux Plumbers Conference](#linux-plumbers-conference-1)
     - [Fujitsu](#fujitsu)
@@ -33,20 +35,26 @@ All titles are in English, regardless of the language in which they were written
   - [2022](#2022)
     - [CXL Consrtium](#cxl-consrtium)
     - [Flash Memory Summit](#flash-memory-summit)
+    - [H3 Platform](#h3-platform)
     - [Hot Chips 34](#hot-chips-34)
     - [Linux Plumbers Conference](#linux-plumbers-conference-2)
+    - [MemVerge](#memverge)
     - [PCI-SIG](#pci-sig-1)
     - [SNIA](#snia-2)
     - [OpenFabricsw Alliance](#openfabricsw-alliance)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
-    - [CXL Consortium](#cxl-consortium-2)
+    - [CXL Consortium](#cxl-consortium-3)
+    - [ExaComm 2023](#exacomm-2023)
     - [Flash Memory Summit](#flash-memory-summit-1)
     - [GigaIO](#gigaio)
     - [Hot Chips](#hot-chips)
+    - [HOTI 2023](#hoti-2023)
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Linux Plumbers Conferene](#linux-plumbers-conferene)
+    - [MemVerge](#memverge-1)
     - [Open Compute Project](#open-compute-project)
+    - [Panmnesia](#panmnesia)
     - [SNIA](#snia-3)
     - [The Linux Foundation](#the-linux-foundation)
     - [The OpenFabrics Alliance](#the-openfabrics-alliance)
@@ -54,7 +62,7 @@ All titles are in English, regardless of the language in which they were written
     - [Universal Chiplet Interconnect Express](#universal-chiplet-interconnect-express)
     - [VA Linux Systems Japan](#va-linux-systems-japan-1)
   - [2024](#2024)
-    - [CXL Consortium](#cxl-consortium-3)
+    - [CXL Consortium](#cxl-consortium-4)
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [Open Compute Project](#open-compute-project-1)
     - [OpenFabrics Alliance](#openfabrics-alliance-2)
@@ -183,7 +191,27 @@ Li, Huaicheng, et al.
 
 2020/10/12 [Pond CXL-Based Memory Pooling Systems for Cloud Platforms](https://pages.cs.wisc.edu/~markhill/papers/asplos2023_pond.pdf)
 
+### UEFI 2020 Virtual Plugfest
+
+Mahesh Natu (Intel), Thanu Rangarajan (ARM)
+
+<a id="5"></a>
+
+2020/05/19 Compute Express Link Proposed Enhancements to UEFI and ACPI Specifications
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/5)
+
 ## 2021
+
+### CXL Consortium
+
+<a id="62"></a>
+
+Erich Hanke(IntelliProp)
+
+2021/11/12 CXL Fabric Adapter Bridge Demo
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/62)
 
 ### CXL Consortium, Gen-Z Consortium, SNIA
 
@@ -277,6 +305,12 @@ Tomoaki Sato
 
 ### CXL Consrtium
 
+<a id="20"></a>
+
+2022/05/23 Exploring Compute Express Link™ (CXL™) Cache Coherency
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/20)
+
 Danny Volkind (UnifabriX) and Elad Shliselberg (UnifabriX)
 
 <a id="21"></a>
@@ -343,6 +377,14 @@ Will Nelson (Intel)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/276)
 
+### H3 Platform
+
+<a id="66"></a>
+
+2022/10/27 H3's CXL Memory Pooling Solution
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/66)
+
 ### Hot Chips 34
 
 Ishwar Agarwal (Intel)
@@ -378,6 +420,14 @@ Tony Brewer (Micron) and Nathan Kalyanasundharam (AMD)
 [Text](https://github.com/vaj/CDI-Info/blob/main/13)
 
 ### Linux Plumbers Conference
+
+Adam Manzanares (Samsung)
+
+<a id="47"></a>
+
+2022/11/07 CXL MC Welcome and Kickoff
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/47)
 
 Heekwon Park (Samsung)
 
@@ -443,6 +493,44 @@ Sayanta Pattanayak (ARM)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/48)
 
+### MemVerge
+
+Casey Morrison (Astera Labs)
+
+<a id="65"></a>
+
+2022/08/02 CXL Memory Expansion and Pooling for the Cloud
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/65)
+
+Gerry Fan (Xconn Technologies)
+
+<a id="29"></a>
+
+2022/08/04 XCONN CXL SWITCH SILICON ENABLING COMPOSABLE DATA CENTER INFRASTRUCTURE
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/29)
+
+Hasan Al Maruf (University of Michigan)
+
+<a id="36"></a>
+
+2022/08/02 Transparent Page Placement for CXL-Memory
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/36)
+
+<a id="18"></a>
+
+Kazuhiro Hiwada (KIOXIA)
+
+2022/08/02 KIOXIA's High Capacity CXL ™ Memory
+
+Seiji Maeda (KIOXIA)
+
+2022/08/02 High Bandwidth CXLT™ Memory using Flash Memory "BiCS FLASHT™"
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/18)
+
 ### PCI-SIG
 
 Debendra Das Sharma
@@ -498,6 +586,16 @@ Kurtis Bowman (CXL MWG Co-Chair), Tracy Spitler (IntelliProp), Vijay Nain (Micro
 2023/11/12 [Increasing Memory Utilization and Reducing Total Memory Cost Using CXL](https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof201.html)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/175)
+
+### ExaComm 2023
+
+Debendra Das Sharma (Intel)
+
+<a id="16"></a>
+
+2023/05/25 Compute Express Link (CXL): Open Load-Store Interconnect for building Composable Systems
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/16)
 
 ### Flash Memory Summit
 
@@ -626,6 +724,14 @@ Yongkee Kwon (SK Hynix)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/161)
 
+### HOTI 2023
+
+<a id="11"></a>
+
+2023/08/23 Keynote by Bill Dally (NVIDIA): Accelerator Clusters
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/11)
+
 ### IOWN GLOBAL FORUM
 
 <a id="25"></a>
@@ -691,6 +797,110 @@ Robert Richter and Terry Bowman (AMD)
 2023/11/14 [Adding RAS Support for CXL Port Devices](https://lpc.events/event/17/contributions/1452/attachments/1157/2430/Adding-RAS-Support-For-CXL-Port-Devices-CXL-LPC-MC-111323-2.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/146)
+
+### MemVerge
+
+Antonio Pena (Barcelona Supercomputing Center)
+
+<a id="40"></a>
+
+2023/06/07 Two use cases for large CXL memories at BSC: eCoHMEM and HomE
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/40)
+
+Brian Pan (H3 Platform)
+
+<a id="31"></a>
+
+2023/06/07 Memory Pooling Solution
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/31)
+
+Charles Fan (MemVerge)
+
+<a id="37"></a>
+
+2023/06/07 The Road to Endless Memory
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/37)
+
+Gregory Price (MemVerge)
+
+<a id="42"></a>
+
+2023/06/07 Endless Memory
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/42)
+
+Jon Jiang (MemVerge)
+
+<a id="59"></a>
+
+2023/07/23 Introducing MemVerge and Memory Machine Cloud
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/59)
+
+<a id="61"></a>
+
+2023/07/14 Dynamic Cloud VM Rightsizing for Bioinformatics Workloads through MMCLoud WaveRider
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/61)
+
+JP Jiangg (Xconn Technologies)
+
+<a id="30"></a>
+
+2023/06/07 CXL Switch: Enabler of Advanced HPC, AIML and Cloud Computing
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/30)
+
+Mark Nossokoff (Hyperion)
+
+<a id="39"></a>
+
+2023/06/07 Perspectives on Composability and HPC Architectures
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/39)
+
+Olivier Déprez (SiPearl)
+
+<a id="35"></a>
+
+2023/06/07 Building the European energy-efficient HPC microprocessor for exascale supercomputers
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/35)
+
+Sateesh Peri (MemVerge)
+
+<a id="60"></a>
+
+2023/07/25 This Free Software is Essential for Bioinformatics in the Cloud
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/60)
+
+Shrijeet Mukherjee (Enfabrica)
+
+<a id="38"></a>
+
+2023/06/07 UNLEASH THE REVOLUTION IN NEXT-GEN COMPUTING
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/38)
+
+Ting Wang (Timeplus)
+
+<a id="34"></a>
+
+2023/06/08 Empowering high-performance streaming analytics with shared big memory
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/34)
+
+Tony Brewer (Micron)
+
+<a id="32"></a>
+
+2023/06/08 CXL 3.0 shared memory for a new class of applications
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/32)
 
 ### Open Compute Project
 
@@ -764,6 +974,14 @@ Antonio Hasbun (Intel), Drew Walton (Google) and Yogesh Varma (Intel)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/150)
 
+Bhushan Chitlur (Intel)
+
+<a id="96"></a>
+
+2023/11/02 CXL Enabled Heterogeneous Active Memory Tiering
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/96)
+
 Bob Wheeler (LightCounting)
 
 <a id="156"></a>
@@ -787,6 +1005,12 @@ Charles Fan (MemVerge)
 2023/10/17 [CXL Shared Memory Smashes Through the IO Wall for AI Clusters ](https://drive.google.com/file/d/1kwEeO-mm2wF138xp_dSvkbl_gmVdvLzs/view?usp=share_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/77)
+
+<a id="99"></a>
+
+2023/11/02 Past, Present, & Future of CXL™ and Big Memory Computing
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/99)
 
 Chris Petersen (Meta) and Prakash Chauhan (Meta)
 
@@ -828,6 +1052,14 @@ Darron Young (Meta)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/124)
 
+David McIntyre (Samsung)
+
+<a id="79"></a>
+
+2023/11/01 CXL Memory Tiering and Persistence
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/79)
+
 Debendra Das Sharma
 
 <a id="153"></a>
@@ -843,6 +1075,22 @@ Don Moon (SK hynix), Daniel Byrne and Sounak Gupta (Intel)
 2023/10/17 [More cache for less cash: CXL Memory Bandwidth and Capacity Expansion in Software Caches](https://drive.google.com/file/d/1AQX56jb9qa-W9adlAjNkt4dhUMOcfHGI/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/115)
+
+Geof Findley (Montage Technology)
+
+<a id="89"></a>
+
+2023/11/02 CXL Controller by Montage Technology
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/89)
+
+Gerry Fan (XConnn Technologies)
+
+<a id="87"></a>
+
+2023/11/02 CXL 2.0/3.x Switch Enabling Composable Memory Architecture in AI/HPC Computing
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/87)
 
 Gregory D Sellman (AMD), Dirk Blevins (Intel) and Damien Chong (Meta)
 
@@ -892,6 +1140,14 @@ Jeff Twombly (Credo Semiconductor)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/149)
 
+Jeffrey Hilland (HPE)
+
+<a id="85"></a>
+
+2023/11/02 CXL Fabric Management Standards
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/85)
+
 John Leung (Intel)
 
 <a id="155"></a>
@@ -907,6 +1163,14 @@ Jonathan Zhang (Astera Labs)
 2023/10/17 [Engineering CXL Memory Expander Device for Production](https://drive.google.com/file/d/13ovr19UbsKIrJmHESuP76X-vQ6P0GOmj/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/121)
+
+Jungmin Choi (SK hynix)
+
+<a id="90"></a>
+
+2023/11/02 SK hynix CXL Disaggregated Memory Solution
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/90)
 
 Larrie Carr (Rambus)
 
@@ -939,6 +1203,14 @@ Kiran Vemuri and Chenyu Xu (Meta)
 2023/10/17 [Yosemite v4, Meta's next gen modular server platform](https://drive.google.com/file/d/14z7lVf-yZK_dXmLwz0eqDC0oanOIc3iu/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/143)
+
+Mahesh Wagh (AMD)
+
+<a id="84"></a>
+
+2023/11/02 Compute Express Link™ (CXL™): Advancing Coherent Connectivity
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/84)
 
 Matt Bowman and Jeremy Baumgartner (Meta)
 
@@ -980,6 +1252,14 @@ Nathan Tracy (OIF)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/106)
 
+Parag Beeraka (ARM)
+
+<a id="98"></a>
+
+2023/11/02 Enabling CXL devices within the Data Center with Arm Solutions
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/98)
+
 Priya Vartak (Astera Labs)
 
 <a id="93"></a>
@@ -1004,6 +1284,14 @@ Rick Kutcipal (Broadcom)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/82)
 
+Rochan Sankar (Enfabrica)
+
+<a id="100"></a>
+
+2023/11/02 Bridging the Network and Memory Worlds With the Accelerated Compute Fabric Switch
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/100)
+
 Ron Swartzentruber (Lightelligence)
 
 <a id="157"></a>
@@ -1011,6 +1299,12 @@ Ron Swartzentruber (Lightelligence)
 2023/10/17 [Optical CXL Interconnect for Large Scale Memory Pooling](https://drive.google.com/file/d/1gqVYJqLUHF4JcZxT-b9SHmtU08W4ZNYY/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/157)
+
+<a id="88"></a>
+
+2023/11/02 Optical CXL Interconnect for Large Scale Memory Pooling
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/88)
 
 Sam Bhattarai (KIOXIA)
 
@@ -1076,6 +1370,12 @@ Steve Scargall (Memverge)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/116)
 
+<a id="86"></a>
+
+2023/11/02 The Software Stack for CXL Environments
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/86)
+
 Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 
 <a id="114"></a>
@@ -1083,6 +1383,14 @@ Sudhir Balasubramanian (VMWare) and Arvind Jagannath (VMWare)
 2023/10/17 [Capacity & TCO benefits to Applications using VMware Memory tiering](https://drive.google.com/file/d/1TNUveAT6IrhVEkwySzcwnMBT2UaXpYGd/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/114)
+
+Tam Do (Microchip), Sanketh Srinivas (Microchip)
+
+<a id="97"></a>
+
+2023/11/02 CXL Memory Expansion, Pooling, Sharing, FAM Enablement, and Switching
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/97)
 
 Tim Lambert (Dell), Mike Witkowski (HPE), Todd Rosedahl (IBM) and Javier Lasa (Intel)
 
@@ -1132,6 +1440,14 @@ Vikrant Soman (Uber) and Anjaneya Chagam (Intel)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/113)
 
+Vincent Haché (Rambus)
+
+<a id="83"></a>
+
+2023/11/02 Introduction to CXL Fabrics
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/83)
+
 WaiKiong Poon (Molex) and Seunghyun Eddy Hwang (NVIDIA)
 
 <a id="102"></a>
@@ -1147,6 +1463,16 @@ Yishen Huang, Qing Wang and Janet Chen (Meta)
 2023/10/17 [Methods for integration and evaluation of LPO](https://drive.google.com/file/d/1FQo6FsgLglEzdxzpRgq_fFwjNTGuUoCV/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/128)
+
+### Panmnesia
+
+Miryeong Kwon (Panmnesic)
+
+<a id="63"></a>
+
+2023/04/22 CXL 2.0-based End-to-end System for High-Performance Memory Disaggregation
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/63)
 
 ### SNIA
 
@@ -1270,6 +1596,14 @@ Yang Seok Ki (Samsung)
 
 ### The Linux Foundation
 
+Dan Williams (Intel)
+
+<a id="54"></a>
+
+2023/05/26 New mmap flag + New zone
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/54)
+
 Dragan Stancevic
 
 <a id="46"></a>
@@ -1285,6 +1619,22 @@ Hyde Sugiyama (Red Hat), Ryosuke Kurebayashi(NTT), Naoki Oguchi (Fujitsu) and Cl
 2023/12/05 [IOWN Data Centric Infrastructure as a Service PoC discussion](https://static.sched.com/hosted_files/ossjapan2023/87/OSSJP23-IOWN%20%285%29.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/162)
+
+Kyungsan Kim (Samsung)
+
+<a id="57"></a>
+
+2023/05/26 [LSF/MM/BPF TOPIC] SMDK inspired MM changes for CXL
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/57)
+
+Viacheslav A Dubeyko (ByteDance)
+
+<a id="56"></a>
+
+2023/05/26 CXL Fabric manager
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/56)
 
 Yasunori Goto (Fujitsu)
 
