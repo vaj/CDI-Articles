@@ -33,6 +33,7 @@ All titles are in English, regardless of the language in which they were written
     - [Texas Instruments](#texas-instruments)
     - [VA Linux Systems Japan](#va-linux-systems-japan)
   - [2022](#2022)
+    - [Ayar Labs](#ayar-labs)
     - [CXL Consrtium](#cxl-consrtium)
     - [Flash Memory Summit](#flash-memory-summit)
     - [H3 Platform](#h3-platform)
@@ -44,6 +45,7 @@ All titles are in English, regardless of the language in which they were written
     - [OpenFabricsw Alliance](#openfabricsw-alliance)
   - [2023](#2023)
     - [ASPLOS 2023](#asplos-2023)
+    - [Astera Labs](#astera-labs)
     - [CXL Consortium](#cxl-consortium-3)
     - [ExaComm 2023](#exacomm-2023)
     - [Flash Memory Summit](#flash-memory-summit-1)
@@ -52,6 +54,7 @@ All titles are in English, regardless of the language in which they were written
     - [HOTI 2023](#hoti-2023)
     - [IOWN GLOBAL FORUM](#iown-global-forum)
     - [Linux Plumbers Conferene](#linux-plumbers-conferene)
+    - [Lund Linux Conference](#lund-linux-conference)
     - [MemVerge](#memverge-1)
     - [Open Compute Project](#open-compute-project)
     - [Panmnesia](#panmnesia)
@@ -64,10 +67,12 @@ All titles are in English, regardless of the language in which they were written
   - [2024](#2024)
     - [CXL Consortium](#cxl-consortium-4)
     - [Memory Fabric Forum](#memory-fabric-forum)
+    - [MemVerge](#memverge-2)
     - [Open Compute Project](#open-compute-project-1)
     - [OpenFabrics Alliance](#openfabrics-alliance-2)
     - [PCI-SIG](#pci-sig-2)
     - [SNIA](#snia-4)
+    - [The Linux Foundation](#the-linux-foundation-1)
     - [USENIX](#usenix)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
   - [APPENDIX](#appendix)
@@ -302,6 +307,14 @@ Tomoaki Sato
 2021/07/08 [What is "Disaggregated Computing"? (1) GigaIO FabreX Products](https://valinux.hatenablog.com/entry/20210708)
 
 ## 2022
+
+### Ayar Labs
+
+<a id="205"></a>
+
+Addison Snell (Intersect 360 Research), Mohamed EI-Batal (Seagate Technology), Willam Magro (Google), Ivy Peng (Lawrence Livermore National Laboratory), Vladimir Stojanovic (Ayar Labs), Marten Terpstra (HPE)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/205)
 
 ### CXL Consrtium
 
@@ -577,6 +590,16 @@ Maruf, Hasan Al, et al.
 
 2023/03/25 [TPP: Transparent Page Placement for CXL-Enabled Tiered-Memory](https://dl.acm.org/doi/abs/10.1145/3582016.3582063)
 
+### Astera Labs
+
+Thad Omura (Astera Labs)
+
+<a id="206"></a>
+
+2023/11/07 Unprecedented Scale for Cloud and AI Infrastructure
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/206)
+
 ### CXL Consortium
 
 Kurtis Bowman (CXL MWG Co-Chair), Tracy Spitler (IntelliProp), Vijay Nain (Micron) and Bill Gervasi (Wolley)
@@ -798,6 +821,16 @@ Robert Richter and Terry Bowman (AMD)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/146)
 
+### Lund Linux Conference
+
+Jørgen Hansen(Western Digital)
+
+<a id="159"></a>
+
+2023/11/20 Experiences using CXL on Linux with QEMU
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/159)
+
 ### MemVerge
 
 Antonio Pena (Barcelona Supercomputing Center)
@@ -966,6 +999,14 @@ Anjaneya Chagam (Intel) and Manoj Wadekar (Meta)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/109)
 
+Anjaneya Chagam (Intel), Manoj Wadekar (Meta), Siamak Tavallaei (Independent), Sandeep Dattaprasad (Astera Labs), Larrie Carr (Rambus), Samir Rajadnya (Microsoft)
+
+<a id="118"></a>
+
+2023/11/02 Panel: Composable Memory Systems using CXL
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/118)
+
 Antonio Hasbun (Intel), Drew Walton (Google) and Yogesh Varma (Intel)
 
 <a id="150"></a>
@@ -973,6 +1014,14 @@ Antonio Hasbun (Intel), Drew Walton (Google) and Yogesh Varma (Intel)
 2023/10/17 [RAS API workstream - Overview and status](https://drive.google.com/file/d/183vic7Bq-Hnf9efy21UfJtPUCLOtTR40/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/150)
+
+Arthur Sainio (SMART Modular)
+
+<a id="104"></a>
+
+2023/11/02 Memory Solutions with CXL
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/104)
 
 Bhushan Chitlur (Intel)
 
@@ -1035,6 +1084,14 @@ Christian Pinto (IBM Research Europe - Ireland)
 2023/04/20 [Disentangling your data center with the OpenFabrics Management Framework](https://drive.google.com/file/d/1NyD762XWFTy_151d7akhIdudWEeRYRrx/view?usp=share_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/4)
+
+Christopher Blackburn (TE Connectivity)
+
+<a id="101"></a>
+
+2023/11/02 Card Edge Interconnects - Understanding Device & Riser Card Connectivity Tradeoffs
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/101)
 
 CMS Sub-project
 
@@ -1236,6 +1293,14 @@ Manoj Wadekar (Meta) and Samir Rajadnya (Microsoft)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/111)
 
+Michael Ocampo (Astera Labs)
+
+<a id="152"></a>
+
+2023/11/02 Breaking Through the Memory Wall with CXLT™
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/152)
+
 Mohamad El-Batal (Seagate)
 
 <a id="95"></a>
@@ -1243,6 +1308,14 @@ Mohamad El-Batal (Seagate)
 2023/10/17 [OCP PCIe Extended Connectivity Requirements](https://drive.google.com/file/d/1_DDvarls2mPcDUpriH7HK03m8H_dyWtZ/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/95)
+
+Mohan J. Kumar (Intel)
+
+<a id="140"></a>
+
+2023/11/01 Intel Technology Innovations & OCP
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/140)
 
 Nathan Tracy (OIF)
 
@@ -1252,6 +1325,14 @@ Nathan Tracy (OIF)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/106)
 
+Navneeth Kankani (Uber), Bo Ling (Uber), Baojun Liu (Uber)
+
+<a id="108"></a>
+
+2023/11/02 GenAl at UBER: Scaling Infrastructure
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/108)
+
 Parag Beeraka (ARM)
 
 <a id="98"></a>
@@ -1259,6 +1340,14 @@ Parag Beeraka (ARM)
 2023/11/02 Enabling CXL devices within the Data Center with Arm Solutions
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/98)
+
+Poorna Kale (Micron Technology)
+
+<a id="103"></a>
+
+2023/11/02 Memory Expansion with CXL Modules: Benefits, Use Cases and Enriching the CXL Ecosystem
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/103)
 
 Priya Vartak (Astera Labs)
 
@@ -1361,6 +1450,12 @@ Siamak Tavallaei
 2023/10/17 [Scale-up and Scale-out challenges for disaggregated infrastructure](https://drive.google.com/file/d/1Pp4e4X-x-ZxfUa2qn8HWL_AR9RAxP4az/view?usp=drive_link)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/158)
+
+<a id="107"></a>
+
+2023/11/02 The State of CXL-related Activities within OCP
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/107)
 
 Steve Scargall (Memverge)
 
@@ -1880,6 +1975,16 @@ Yong Tian (MemVerge)
 [Text1](https://github.com/vaj/CDI-Info/blob/main/190),
 [Text2](https://github.com/vaj/CDI-Info/blob/main/202)
 
+### MemVerge
+
+Steve Scargall (MemVerge)
+
+<a id="214"></a>
+
+2024/04/15 Memory Machine X V1.4.0 Product Demonstration
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/214)
+
 ### Open Compute Project
 
 Andrew Alduino (Meta)
@@ -1966,6 +2071,14 @@ Sam Kocsis (Amphenol)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/225)
 
+Saurabh Kulkarni (Intel)
+
+<a id="224"></a>
+
+2024/05/02 Scaling Systems for Gen Al
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/224)
+
 Siamak Tavallaei (Independent), Anjaneya Chagam (Intel)
 
 <a id="220"></a>
@@ -2023,6 +2136,14 @@ Kurtis Bowman (CXL Consortium) and Mitch Wright (Liqid)
 2024/04/23 [OFA Virtual Workshop 2024 Day 2 Session 10](https://www.openfabrics.org/wp-content/uploads/2024-workshop/2024-workshop-presentations/session-10.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/211)
+
+Pavan Balaji (Meta)
+
+<a id="213"></a>
+
+2024/04/24 Building the Infrastructure to Power Llama 3
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/213)
 
 ### PCI-SIG
 
@@ -2171,6 +2292,16 @@ Steven Yuan (StorageX.ai)
 2024/05/21 [Overcome Real World Challenges Between Data and AI](https://www.snia.org/sites/default/files/SSSI/CMSS24/CMSS24-Yuan-Overcome%20Real-World-Challenges-between-Data-and-AI%20%281%29.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/252)
+
+### The Linux Foundation
+
+Vandana Salve (Micron)
+
+<a id="228"></a>
+
+2024/04/26 Expanding memory limits with CXL SW Stack
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/228)
 
 ### USENIX
 
