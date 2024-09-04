@@ -2060,6 +2060,12 @@ Steve Scargall (MemVerge)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/197)
 
+<a id="285"></a>
+
+2024/08/31 Memory Machine ™ for CXL
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/285)
+
 Thibault Grossi (Yole)
 
 <a id="181"></a>
