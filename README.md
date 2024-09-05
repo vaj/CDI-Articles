@@ -1966,6 +1966,12 @@ Michael Abraham (Micron)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/185)
 
+<a id="288"></a>
+
+2024/08/31 CXL-Compatible Memory Modules
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/288)
+
 Michael Ocampo (Astera Labs)
 
 <a id="195"></a>
