@@ -1876,6 +1876,12 @@ Anil Godbole (Intel)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/189)
 
+<a id="289"></a>
+
+2024/08/31 Intel Compute Express Link™ Enablement
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/289)
+
 Arvind Jagannath (VMware)
 
 <a id="184"></a>
