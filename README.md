@@ -2100,6 +2100,12 @@ Torry Steed (SMART Modular)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/183)
 
+<a id="287"></a>
+
+2024/08/31 CXL Memory Expansion Advantages
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/287)
+
 Yong Tian (MemVerge)
 
 <a id="190"></a>
