@@ -1952,6 +1952,12 @@ JP Jiang (Xconn Technologies)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/187)
 
+<a id="286"></a>
+
+2024/08/31 CXL Switch for Scalable & Composable Memory Pooling/Sharing
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/286)
+
 Michael Abraham (Micron)
 
 <a id="185"></a>
