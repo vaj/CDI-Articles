@@ -2010,6 +2010,14 @@ Nilesh Shah (ZeroPoint)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/198)
 
+Philip Maher (MSI)
+
+<a id="290"></a>
+
+2024/08/31 MSI\_ S2301 CXL Memory Expansion Server
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/290)
+
 Ravi Budruk (MindShare)
 
 <a id="200"></a>
