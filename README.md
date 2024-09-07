@@ -74,6 +74,7 @@ All titles are in English, regardless of the language in which they were written
     - [Intel](#intel-1)
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [MemVerge](#memverge-2)
+    - [NAND Research](#nand-research)
     - [Open Compute Project](#open-compute-project-1)
     - [OpenFabrics Alliance](#openfabrics-alliance-2)
     - [PCI-SIG](#pci-sig-2)
@@ -2145,6 +2146,12 @@ Steve Scargall (MemVerge)
 2024/04/15 Memory Machine X V1.4.0 Product Demonstration
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/214)
+
+### NAND Research
+
+Steve McDowell
+
+2024/05/30 [UALINK ALLIANCE FOR ACCELERATOR INTERCONNECTS](https://nand-research.com/wp-content/uploads/2024/05/2024-05-30-RN-UALink-1.pdf)
 
 ### Open Compute Project
 
