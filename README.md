@@ -1803,6 +1803,10 @@ Michael Aguilar, et al.
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/1)
 
+Press OpenFabrics
+
+2023/10/11 [The OpenFabrics Alliance Launches Sunfish™ to Provide an Open-Source Approach for Composable Disaggregated Infrastructure Management](https://www.openfabrics.org/the-openfabrics-alliance-launches-sunfish-to-provide-an-open-source-approach-for-composable-disaggregated-infrastructure-management/)
+
 ### Ultra Ethernet Consortium
 
 2023/07/12 [Overview of and Motivation for the Forthcoming Ultra Ethernet Consortium Specification](https://ultraethernet.org/wp-content/uploads/sites/20/2023/10/23.07.12-UEC-1.0-Overview-FINAL-WITH-LOGO.pdf)
