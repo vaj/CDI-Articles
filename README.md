@@ -1991,6 +1991,12 @@ Michael Ocampo (Astera Labs)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/195)
 
+<a id="291"></a>
+
+2024/08/28 Acelerating Al & ML with CXL-Attached Memory
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/291)
+
 Nick Kriczsky and Gorden Getty (Teledyne LeCroy)
 
 <a id="201"></a>
