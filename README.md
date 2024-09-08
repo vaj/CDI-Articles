@@ -1939,6 +1939,14 @@ Eddie McMorrow (GigaIO)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/191)
 
+Geof Findley (Montage)
+
+<a id="292"></a>
+
+2024/08/31 CXL 2.0 Use Case Using Both DDR4 & DDR5 on the Same Server to Allow Memory & Bandwidth Scaling
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/292)
+
 Gary Ruggles (Synopsys)
 
 <a id="199"></a>
