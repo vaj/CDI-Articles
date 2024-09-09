@@ -1955,6 +1955,12 @@ Gary Ruggles (Synopsys)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/199)
 
+<a id="293"></a>
+
+2024/08/31 Enabling New Memory Applications Using CXL IP
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/293)
+
 Grant Mackey (Jackrabbit Labs)
 
 <a id="284"></a>
