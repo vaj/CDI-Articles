@@ -1915,6 +1915,12 @@ Bill Gervasi (Wolley)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/283)
 
+<a id="295"></a>
+
+2024/08/30 NVMe Over CXL How CXL Lets Us Do Controller Memory Buffers the Right Way
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/295)
+
 Brian Pan (H3 Platform)
 
 <a id="179"></a>
