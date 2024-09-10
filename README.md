@@ -2035,6 +2035,12 @@ Nilesh Shah (ZeroPoint)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/198)
 
+<a id="294"></a>
+
+2024/08/31 Hyperscale Composable Memory Systems with Dynamically Adjusting Compressed Tier
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/294)
+
 Philip Maher (MSI)
 
 <a id="290"></a>
