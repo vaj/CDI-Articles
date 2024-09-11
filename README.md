@@ -78,6 +78,7 @@ All titles are in English, regardless of the language in which they were written
     - [Open Compute Project](#open-compute-project-1)
     - [OpenFabrics Alliance](#openfabrics-alliance-2)
     - [PCI-SIG](#pci-sig-2)
+    - [Samsung](#samsung)
     - [SNIA](#snia-4)
     - [The Linux Foundation](#the-linux-foundation-1)
     - [USENIX](#usenix)
@@ -2366,6 +2367,10 @@ Samuel Kocsis (Amphenole) and Mohiuddin Mazumder (Intel)
 2024/07/11 [The Journey to CopprLink™ and Beyond An Exploration of PCIe® Cabling Solutions](https://pcisig.com/sites/default/files/files/PCI-SIG%20Cabling%20Webinar_FINAL.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/267)
+
+### Samsung
+
+2024/03/26 [CXL Memory Module - Box (CMM-B)](https://semiconductor.samsung.com/news-events/tech-blog/cxl-memory-module-box-cmm-b/)
 
 ### SNIA
 
