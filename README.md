@@ -71,6 +71,7 @@ All titles are in English, regardless of the language in which they were written
   - [2024](#2024)
     - [Astera Labs](#astera-labs-1)
     - [CXL Consortium](#cxl-consortium-4)
+    - [HOTI](#hoti)
     - [Intel](#intel-1)
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [MemVerge](#memverge-2)
@@ -1861,6 +1862,16 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 2024/02/20 [Introducing the CXL 3.1 Specification](https://computeexpresslink.org/wp-content/uploads/2024/03/CXL_3.1-Webinar-Presentation_Feb_2024.pdf)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/178)
+
+### HOTI
+
+<a id="296"></a>
+
+Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Iserte (Barcelona Supercomputing Center), Geoffroy Vallee(Oak Ridge National Lab.), Jeffrey Young (Georgia Institute of Technology)
+
+2024/09/08 Tutorial:Leveraging SmartNICs for HPC and Data Center Applications
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/296)
 
 ### Intel
 
