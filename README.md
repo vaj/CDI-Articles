@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 220 disaggregated computing articles published on the website between March 2017 and August 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 221 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -1872,6 +1872,14 @@ Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Isert
 2024/09/08 Tutorial:Leveraging SmartNICs for HPC and Data Center Applications
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/296)
+
+<a id="297"></a>
+
+Dhabaleswar K. (DK) Panda and Hari Subramoni (The Ohio State University)
+
+2024/09/08 [High-Performance and Smart Networking Technologies for HPC and Al](https://go.osu.edu/hoti24-hpn)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/297)
 
 ### Intel
 
