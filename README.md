@@ -1865,13 +1865,13 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
 ### HOTI
 
-<a id="296"></a>
+<a id="298"></a>
 
-Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Iserte (Barcelona Supercomputing Center), Geoffroy Vallee(Oak Ridge National Lab.), Jeffrey Young (Georgia Institute of Technology)
+Alan Benjamin (GigaIO)
 
-2024/09/08 Tutorial:Leveraging SmartNICs for HPC and Data Center Applications
+2024/09/08 EDGE TO CORE, AWARD WINNING AI INFRASTRUCTURE
 
-[Text](https://github.com/vaj/CDI-Info/blob/main/296)
+[Text](https://github.com/vaj/CDI-Info/blob/main/298)
 
 <a id="297"></a>
 
@@ -1890,6 +1890,14 @@ Ling Liao (Intel)
 2024/06/26 Intel Demonstrates First Fully Integrated Optical I/O Chiplet for More Scalable AI
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/257)
+
+<a id="296"></a>
+
+Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Iserte (Barcelona Supercomputing Center), Geoffroy Vallee(Oak Ridge National Lab.), Jeffrey Young (Georgia Institute of Technology)
+
+2024/09/08 Tutorial:Leveraging SmartNICs for HPC and Data Center Applications
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/296)
 
 ### Memory Fabric Forum
 
