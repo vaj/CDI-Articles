@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 238 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 239 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2904,6 +2904,18 @@ Grant Mackey (Jackrabbit Labs)
 [Text](https://github.com/vaj/CDI-Info/blob/main/284)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AMD API CNI CRI CSE CSI CTO CXL DIMM DRAM FM FMAPI GA GitHub I2C I3C IP OCP OS OpenShift OpenStack PCIe QEMU RESTful TCP VCS
+
+Jack Gidding (STAC)
+
+<a id="299"></a>
+
+2024/08/28 [STAC® Overview](https://memverge.sharepoint.com/:b:/s/CXLForum/Ea1XL5h7lYpNjphxobY-vxIBSecyr97JC3SGJTe6LxWUEw?e=vwp90N)
+
+[YouTube](https://youtu.be/2EEXLeajOXI?si=ewcD8fQdKdKPKSz8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/299)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD AWS CEO CXL IO ML NDA NVIDIA STAC URL
 
 JP Jiang (Xconn Technologies)
 
