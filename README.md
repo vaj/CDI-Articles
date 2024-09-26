@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 221 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 238 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2761,7 +2761,7 @@ Anil Godbole (Intel)
 
 <a id="289"></a>
 
-2024/08/31 Intel Compute Express Link™ Enablement
+2024/08/31 [Intel Compute Express Link™ Enablement](https://memverge.sharepoint.com/:p:/s/CXLForum/EV_WLyKoFktGjuzI9cppmpcBzGow6n3T_CaoJsOYkw95mg?e=ADuPMb)
 
 [YouTube](https://www.youtube.com/watch?v=ksNts1CD6aY)
 
@@ -2783,7 +2783,7 @@ Arvind Jagannath (VMware)
 
 <a id="281"></a>
 
-2024/08/30 VMware Memory Tiering - Customer-ready Today
+2024/08/30 [VMware Memory Tiering - Customer-ready Today](https://memverge.sharepoint.com/:b:/s/CXLForum/EZKIVF1ix2tOnl-w3u1yvqABR-hFbdl_dFiKvnUNtDM-6w?e=aipLgA)
 
 [YouTube](https://www.youtube.com/watch?v=hxxP5xG807g)
 
@@ -2795,7 +2795,7 @@ Bill Gervasi (Wolley)
 
 <a id="282"></a>
 
-2024/08/30 CXL Native Memory™ Do We Really Need DDR?
+2024/08/30 [CXL Native Memory™ Do We Really Need DDR?](https://memverge.sharepoint.com/:p:/s/CXLForum/EfRd_8Sv6XpAvdHZAVQZh5IBoFNu7QSjFyVAmMMopR2kzQ?e=HnWovU)
 
 [YouTube](https://www.youtube.com/watch?v=-47OqaCtlxM)
 
@@ -2805,7 +2805,7 @@ Bill Gervasi (Wolley)
 
 <a id="283"></a>
 
-2024/08/30 FleX: Bringing CXL to the Motherboard
+2024/08/30 [FleX: Bringing CXL to the Motherboard](https://memverge.sharepoint.com/:p:/s/CXLForum/EYbmPlbdtD5EnIR_Gyu3l0cBgT4sPJxnbQAfedayF_Rr5g?e=WtwXPx)
 
 [YouTube](https://www.youtube.com/watch?v=2ymXFhM-58A)
 
@@ -2815,7 +2815,7 @@ Bill Gervasi (Wolley)
 
 <a id="295"></a>
 
-2024/08/30 NVMe Over CXL How CXL Lets Us Do Controller Memory Buffers the Right Way
+2024/08/30 [NVMe Over CXL How CXL Lets Us Do Controller Memory Buffers the Right Way](https://memverge.sharepoint.com/:p:/s/CXLForum/EfTQmPnqmPVJsIhSjdm7s0gBDbGYxk1zfyvl6ClZUTyTMA?e=kGkjxS)
 
 [YouTube](https://www.youtube.com/watch?v=e9-iK3WtqWU)
 
@@ -2863,7 +2863,7 @@ Geof Findley (Montage)
 
 <a id="292"></a>
 
-2024/08/31 CXL 2.0 Use Case Using Both DDR4 & DDR5 on the Same Server to Allow Memory & Bandwidth Scaling
+2024/08/31 [CXL 2.0 Use Case Using Both DDR4 & DDR5 on the Same Server to Allow Memory & Bandwidth Scaling](https://memverge.sharepoint.com/:p:/s/CXLForum/EdGWkQb6inZLtKQHWVCoFB4BcbtCMrqweiPTo0__eE1AIA?e=xbM1eX)
 
 [YouTube](https://www.youtube.com/watch?v=HGcU51nJRi4)
 
@@ -2885,7 +2885,7 @@ Gary Ruggles (Synopsys)
 
 <a id="293"></a>
 
-2024/08/31 Enabling New Memory Applications Using CXL IP
+2024/08/31 [Enabling New Memory Applications Using CXL IP](https://memverge.sharepoint.com/:p:/s/CXLForum/ERh0e1CyMitBlhBWedc4IqMBngoWqNlGEoCf0dRiGxgENA?e=gbHfyf)
 
 [YouTube](https://www.youtube.com/watch?v=AZkNAxFJ9XM)
 
@@ -2897,7 +2897,7 @@ Grant Mackey (Jackrabbit Labs)
 
 <a id="284"></a>
 
-2024/08/30 You Don't Know 'Jack': CXL Fabric Orchestration and Management
+2024/08/30 [You Don't Know 'Jack': CXL Fabric Orchestration and Management](https://memverge.sharepoint.com/:p:/s/CXLForum/EfF3E0qSpIFNk-g5snoZGGEBHQk8FBLgXKWR8hBAmTtOrA?e=scCN3K)
 
 [YouTube](https://www.youtube.com/watch?v=u5OCpXKx9xo)
 
@@ -2919,7 +2919,7 @@ JP Jiang (Xconn Technologies)
 
 <a id="286"></a>
 
-2024/08/31 CXL Switch for Scalable & Composable Memory Pooling/Sharing
+2024/08/31 [CXL Switch for Scalable & Composable Memory Pooling/Sharing](https://memverge.sharepoint.com/:p:/s/CXLForum/Ebx5gcE4oLRAjLbwfVIa8kAB1aUwTCQW9Ifrc4wuoKlkHA?e=UJoY3P)
 
 [YouTube](https://www.youtube.com/watch?v=oC2pF9W4-pY)
 
@@ -2941,7 +2941,7 @@ Michael Abraham (Micron)
 
 <a id="288"></a>
 
-2024/08/31 CXL-Compatible Memory Modules
+2024/08/31 [CXL-Compatible Memory Modules](https://memverge.sharepoint.com/:b:/s/CXLForum/Eb6lysvXOntKiDgqO7XfOgMBTbe_mk40-ffzhdX1OnVzpQ?e=eiOhce)
 
 [YouTube](https://www.youtube.com/watch?v=zq0htf7Hu_8)
 
@@ -2963,7 +2963,7 @@ Michael Ocampo (Astera Labs)
 
 <a id="291"></a>
 
-2024/08/28 Acelerating Al & ML with CXL-Attached Memory
+2024/08/28 [Acelerating Al & ML with CXL-Attached Memory](https://memverge.sharepoint.com/:b:/s/CXLForum/Ed6tc5ypy_ZMqjhWs9UxoqsBbYKZYJBrAn7rQH6RFtXdCw?e=OWM65m)
 
 [YouTube](https://www.youtube.com/watch?v=2sEG1NahufE)
 
@@ -3009,7 +3009,7 @@ Nilesh Shah (ZeroPoint)
 
 <a id="294"></a>
 
-2024/08/31 Hyperscale Composable Memory Systems with Dynamically Adjusting Compressed Tier
+2024/08/31 [Hyperscale Composable Memory Systems with Dynamically Adjusting Compressed Tier](https://memverge.sharepoint.com/:p:/s/CXLForum/EaSjOrnWipRCqcrHboAiaAcB5oZLQYdEZkEe9EFIVTMFUw?e=MeR2LY)
 
 [YouTube](https://www.youtube.com/watch?v=6-pSIGzncbs)
 
@@ -3021,7 +3021,7 @@ Philip Maher (MSI)
 
 <a id="290"></a>
 
-2024/08/31 MSI\_ S2301 CXL Memory Expansion Server
+2024/08/31 [MSI\_ S2301 CXL Memory Expansion Server](https://memverge.sharepoint.com/:b:/s/CXLForum/EbXRQkgXsnRKsQ4IU0oTTygBatzpzsaam-ZjgUB2-PeK7Q?e=dWRd8f)
 
 [YouTube](https://www.youtube.com/watch?v=EulQfroVS1g)
 
@@ -3057,7 +3057,7 @@ Reggie Reynolds (NVIDIA)
 
 <a id="279"></a>
 
-2024/08/30 NVIDIA Networking for HPC, Al, and Accelerated IO
+2024/08/30 [NVIDIA Networking for HPC, Al, and Accelerated IO](https://memverge.sharepoint.com/:b:/s/CXLForum/EWJPZGA2o_JGv5mVRi1CMHYBKBYUwkk73EW87AjHZjaOBA?e=I6tvIm)
 
 [YouTube](https://www.youtube.com/watch?v=zp2xJpuvCt8)
 
@@ -3103,7 +3103,7 @@ Siamak Tavallaei (CXL Consortium)
 
 <a id="278"></a>
 
-2024/08/29 At-scale Systems Interconnecting Massively Parallel XPUs
+2024/08/29 [At-scale Systems Interconnecting Massively Parallel XPUs](https://memverge.sharepoint.com/:b:/s/CXLForum/ET5PahUTJj1KhE4M1kECtvoBHkTBidkP6kdSN_f-UXuvUA?e=h0ukM1)
 
 [YouTube](https://www.youtube.com/watch?v=iCUoSK3TwKs)
 
@@ -3135,7 +3135,7 @@ Steve Scargall (MemVerge)
 
 <a id="285"></a>
 
-2024/08/31 Memory Machine ™ for CXL
+2024/08/31 [Memory Machine ™ for CXL](https://memverge.sharepoint.com/:p:/s/CXLForum/EQVOm6Ig_YNLtLPwKkb9wPcBUhanQpzrAb5SZ9qZW5ntAw?e=ok0nUc)
 
 [YouTube](https://www.youtube.com/watch?v=KC548VU4Hd0)
 
@@ -3189,7 +3189,7 @@ Torry Steed (SMART Modular)
 
 <a id="287"></a>
 
-2024/08/31 CXL Memory Expansion Advantages
+2024/08/31 [CXL Memory Expansion Advantages](https://memverge.sharepoint.com/:b:/s/CXLForum/EeykL74qs-lCgSruUUxVn9YB9FtxHSOrAhnYzwXcq9583Q?e=r935en)
 
 [YouTube](https://www.youtube.com/watch?v=LK8ITlL3Veg)
 
