@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 239 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 240 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2938,6 +2938,18 @@ JP Jiang (Xconn Technologies)
 [Text](https://github.com/vaj/CDI-Info/blob/main/286)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ARM BMC CMM CPU CXL DDR4 DIMM ER HANA HBM HPC IC MemCon MemVerge PCIe RDMA SAP TCO
+
+Mark Nossokoff (HYPERION RESEARCH)
+
+<a id="300"></a>
+
+2024/08/28 [HPC/AI Market Update and Industry Composability Snapshot](https://memverge.sharepoint.com/:b:/s/CXLForum/ESW7YA7lx7FItfLXzNIdrssBIYDTjGGuoL6CRnifeDfT1A?e=MvCMnl)
+
+[YouTube](https://youtu.be/cGQHZ-8205o?si=PpKVIFDNEoj-wWuH)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/300)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL GPU HPC UALink
 
 Michael Abraham (Micron)
 
