@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 240 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 241 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2768,6 +2768,18 @@ Anil Godbole (Intel)
 [Text](https://github.com/vaj/CDI-Info/blob/main/289)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BIOS CPU CXL DDR4 DDR5 DIMM DRAM HANA HPC ML MemVerge OS PCI SAP TCO
+
+Anil Godbole (Intel) and Kurtis Bowman (AMD)
+
+<a id="301"></a>
+
+2024/08/28 [CXL®: Advancing coherent connectivity](https://memverge.sharepoint.com/:b:/s/CXLForum/EcPISDE8dhREkWI6JYf_RzMB0mNZItN9raM2qrPovTCUDA?e=JqSKuW)
+
+[YouTube](https://youtu.be/CRCfRsX6IyU?si=XvBO3gYH9XQfd32e)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/301)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL GPU HBM LinkedIn MemVerge PCI PCIe SIG YOLE
 
 Arvind Jagannath (VMware)
 
