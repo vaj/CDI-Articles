@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 241 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 242 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2928,6 +2928,16 @@ Jack Gidding (STAC)
 [Text](https://github.com/vaj/CDI-Info/blob/main/299)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD AWS CEO CXL IO ML NDA NVIDIA STAC URL
+
+Jim Handy (Objective Analysys)
+
+<a id="302"></a>
+
+[YouTube](https://youtu.be/0-zHObQrNVY?si=6AG2racMp9Zyu-ZM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/302)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CCIX CMM CPU CXL DDR DDR4 DDR5 DDR6 DRAM FRAM GDDR GPU HBM HPC IBM IEEE IP LPDDR MRAM NAND NVMe OpenCAPI PC PCI PCIe PCM PDF RAM SNIA SSD
 
 JP Jiang (Xconn Technologies)
 
