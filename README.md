@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 242 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 243 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -76,6 +76,7 @@ All titles are in English, regardless of the language in which they were written
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [MemVerge](#memverge-2)
     - [NAND Research](#nand-research)
+    - [NVM Express](#nvm-express)
     - [Open Compute Project](#open-compute-project-1)
     - [OpenFabrics Alliance](#openfabrics-alliance-2)
     - [PCI-SIG](#pci-sig-2)
@@ -3281,6 +3282,16 @@ Steve Scargall (MemVerge)
 Steve McDowell
 
 2024/05/30 [UALINK ALLIANCE FOR ACCELERATOR INTERCONNECTS](https://nand-research.com/wp-content/uploads/2024/05/2024-05-30-RN-UALink-1.pdf)
+
+### NVM Express
+
+2024/09/06 [NVM Express® Support for CXL®](https://nvmexpress.org/wp-content/uploads/02_Martin-and-Molgaard_NVMe-Support-for-CXL_Final.pdf)
+
+[YouTube](https://youtu.be/HUQQ_m8wbWI?si=NfHqTtAWeh8aAaRx)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/303)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BAR CMB CXL CXL.mem FMS HDM IO MMIO NVM NVMe OS PCI PCIe PMR SDC SLM SNIA SSD UIO YouTube
 
 ### Open Compute Project
 
