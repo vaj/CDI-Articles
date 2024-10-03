@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 243 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 244 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -902,6 +902,18 @@ Thad Omura (Astera Labs)
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CXL DDR5 DSP OCP PCI PCIe TCO
 
 ### CXL Consortium
+
+Kurt Lender(Intel), Kurtis Bowman(AMD), Sandeep Dattaprasad(Astera Labs), Kapil Sethi(Samsung), George Apostol(Elastic Cloud), Danny Volkind(UnifabriX), Rita Gupta(AMD), Tracy Spitler(IntelliProp), Steve Scargall(MemVerge) and Gorden Getty(Teledyne LeCroy)
+
+<a id="304"></a>
+
+2023/01/27 [A look into the CXL device ecosystem and the evolution of CXL use cases](https://computeexpresslink.org/wp-content/uploads/2023/12/0c1418_037d4ba31f4b44cf9fcb37f5b36ae4d6.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=yN3rvn1BH-8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/304)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPS CPU CV CXL DC DDR4 DDR5 DMTF DRAM FMS FYI GPU GitHub HPC IBM IP IntelliProp IoT LeCroy MIT ML MPI MemVerge NDA OMI OS OpenCAPI PCI PCIe RAS SC SIG SMDK SNIA SSD SuperCompute TPU UnifabriX XPU
 
 Kurtis Bowman (CXL MWG Co-Chair), Tracy Spitler (IntelliProp), Vijay Nain (Micron) and Bill Gervasi (Wolley)
 
