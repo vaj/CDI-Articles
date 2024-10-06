@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 244 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 245 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -251,6 +251,18 @@ Debendra Das Sharma (Intel) and Ahmad Danesh (Microchip Technology)
 [Text](https://github.com/vaj/CDI-Info/blob/main/262)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AI API CPU CXL CXL.cache CXL.io CXL.mem DMA DMTF DRAM FM HMAT IO IP IoT LD LD0 LD15 LinkedIn MEM MLD MMIO NIC NVMe OEM PCI PCIe PHY PPB SMB SMP SPDM SRAT SSD TCO TLB UEFI USB VCS VCS0 VPPB YouTube
+
+Kurt Lender(Intel), Siamak Tavallaei(Microsoft) and Rob Blankenship(Intel)
+
+<a id="305"></a>
+
+2020/03/12 [Compute Express Link™ (CXL):Exploring Coherent Memory and Innovative Use Cases](https://computeexpresslink.org/wp-content/uploads/2023/12/CXL-Coherency-Webinar-Master-Deck_v12.pptx)
+
+[YouTube](https://www.youtube.com/watch?v=It1_mHsor9g)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/305)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ASIC CPU CXL CXL.cache CXL.io CXL.mem DDR DMA FLIT HPC IP LRU LinkedIn MESI MSI PCI PCIe PGAS PHY RAS RDMA RdOwn YouTube
 
 Mahesh Natu (Intel) and Thanu Rangarajan (Arm)
 
