@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 245 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 246 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3806,6 +3806,18 @@ Adam Manzanares (Samsung)
 [Text](https://github.com/vaj/CDI-Info/blob/main/265)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AI AMD BIOS CPU CXL EDAC GHES HBM IBM IP NUMA OCP PCI PCIe QEMU RAS
+
+Gregory Price (MemVerge)
+
+<a id="306"></a>
+
+2024/07/10 mm/mempolicy extensions for Heterogeneous Memory Systems
+
+[YouTube](https://youtu.be/ygNW_Z-fChM?si=4DBvSgS2S62b7NFO)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/306)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL DRAM GPU HBM HMAT NUMA PID PMEM RFC VMA
 
 Vandana Salve (Micron)
 
