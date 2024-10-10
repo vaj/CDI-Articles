@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 246 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 247 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3818,6 +3818,18 @@ Gregory Price (MemVerge)
 [Text](https://github.com/vaj/CDI-Info/blob/main/306)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL DRAM GPU HBM HMAT NUMA PID PMEM RFC VMA
+
+Hannes Reinecke (SUSE Linux)
+
+<a id="307"></a>
+
+2024/10/05 How to mess up your NUMA topology with CXL
+
+[YouTube](https://youtu.be/THfAHO2DtQ0?si=U4iaaWLVhUVWlCCa)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/307)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BIOS CPU CXL CXL.cache CXL.io CXL.mem DRAM GPU HMAT HP HPE IO IOPS MSI MSIX NUMA PCI QEMU QPI RAM
 
 Vandana Salve (Micron)
 
