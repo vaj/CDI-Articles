@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 247 disaggregated computing articles published on the website between March 2017 and September 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 248 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2705,6 +2705,18 @@ Ahmed Medhioub (Astera Labs), Matthew Burns (Samtec) and Oren Benisty (UnifabriX
 [Text](https://github.com/vaj/CDI-Info/blob/main/259)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIC AMD ASIC CAPEX CDFP CEM CPO CPU CXL CXL.cache CXL.io CXL.mem DDR DDR4 DDR5 DIMM DNA DSI DevKit E3S EDSSF FPGA FPP GPT GPU GenAI HPC HPCG IBM IO InfiniBand JBOM MCIO MSA MXIO NIC NUMA NVIDIA NVLink NVMe OCP OPEX OS OSFP PAM PAM4 PCB PCI PCI6 PCIe QSFPDD SFP SIG SK US UnifabriX XD YouTube
+
+Brian Morris (Google) and Prakash Chauhan (Meta)
+
+<a id="308"></a>
+
+2024/10/11 [Making Memories at HyperScale with CXL®](https://computeexpresslink.org/wp-content/uploads/2024/10/CXL_Q3-Webinar_Making-Memories-at-HyperScale-with-CXL_FINAL.pdf)
+
+[YouTube](https://youtu.be/DMTkQuFojKo?si=l5yfS99n8aDRYrnZ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/308)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ASIC CPU CXL DDR DDR4 DDR5 DIMM DRAM FMS GPGPU GPU HBM LD ML NAND NVIDIA OCP RAM RAS SKU SNIA SRAM SSD TBD TCO YouTube
 
 Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 
