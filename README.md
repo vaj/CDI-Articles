@@ -3483,6 +3483,18 @@ Siamak Tavallaei (Independent), Anjaneya Chagam (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API BMC CCI CMS CPU CXL DCMHS DDR DMTF FDI GPU GitHub HPC IO JEDEC ML NUMA NVM OCP PCI PCIe POC PST SIG SNIA UCIe YouTube
 
+Siamak Tavallaei (Samsung), Jinin So (Samsung)
+
+<a id="309"></a>
+
+2024/10/17 Empowering the User Journey with Samsung CXL Solutions: in the Al Era
+
+[YouTube](https://youtu.be/1p3OwPnZtT4?si=jnolAnp_-S1vUNWS)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/309)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIC AMD API ASIC CMM CPU CXL DDR DDR4 DDR5 DIMM DRAM FPGA GNR GPU HANA HBM IC KNN KV LLM NAND NVLink OCP OMI OS OpenCAPI OpenShift P2P PCI PCIe PM POC RAG REST RESTful SAP SLA SMDK SaaS TCO TPC UALink XConn
+
 Suresh Subramaniam (Apex Semiconductors)
 
 <a id="216"></a>
