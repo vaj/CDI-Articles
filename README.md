@@ -3379,6 +3379,18 @@ Glenn Ge (TetraMem)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIGC ASIC CPU DRAM GDP GPU HBM HPC ICC IO MHD MNIST MPU MRAM MX PCRAM RRAM SDK SORA SRAM TOPS TetraMem TikTok VM VMM
 
+Kapil Sethi (Samsung), Ravi Gummaluri (Micron) and Seema Mehta (Ampere)
+
+<a id="310"></a>
+
+2024/10/18 Integrating Composable Memory System (CMS) into Storage intensive workloads
+
+[YouTube](https://www.youtube.com/watch?v=4s59fjoCoas)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/310)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CMS CPU CXL DIMM DRAM OCP QR SSD TCO
+
 Nilesh Shah (zeropoint technologies)
 
 <a id="222"></a>
