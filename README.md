@@ -3391,6 +3391,18 @@ Kapil Sethi (Samsung), Ravi Gummaluri (Micron) and Seema Mehta (Ampere)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CMS CPU CXL DIMM DRAM OCP QR SSD TCO
 
+Nigel Alvares (Marvell), Chris Petersen (Astera Labs), TaekSang Song (Samsung) and James Kelly (OCP)
+
+<a id="311"></a>
+
+2024/10/16 Towards an Open, Sustainable Al-Driven Data Center
+
+[YouTube](https://youtu.be/7lCq7xH7CHo?si=alR6zzUeV19jXqwe)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/311)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL DNA DRAM GDDR GPT GPU HBM IT NIC NUMA NVLink OCP OpenAI PC PUE RAG RAS SRAM UALink
+
 Nilesh Shah (zeropoint technologies)
 
 <a id="222"></a>
