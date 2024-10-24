@@ -3391,6 +3391,18 @@ Kapil Sethi (Samsung), Ravi Gummaluri (Micron) and Seema Mehta (Ampere)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CMS CPU CXL DIMM DRAM OCP QR SSD TCO
 
+Kurtis Bowman (Amd) and Fangzhi Wen (Alibaba)
+
+<a id="312"></a>
+
+2024/10/23 UALink: Pioneering the Al Accelerator Revolution
+
+[YouTube](https://www.youtube.com/watch?v=licUcxCc3Yc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/312)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CDU CPU FMS GPU IP OS PHY UALink UEC
+
 Nigel Alvares (Marvell), Chris Petersen (Astera Labs), TaekSang Song (Samsung) and James Kelly (OCP)
 
 <a id="311"></a>
