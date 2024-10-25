@@ -3367,6 +3367,18 @@ Apparao Puli (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BMC CCI CLI CXL DCSCM DM DMTF HPPR I3C IP IPMI MCTP OCP OpenBMC PBR PCI PCIe PLDM PM PMCI PPR PSUs RAS REST SMBus SMbus SPDM SPPR UI
 
+Charles Fan (MemVerge)
+
+<a id="313"></a>
+
+2024/10/24 Memory Fabric Technology Landscape
+
+[YouTube](https://www.youtube.com/watch?v=Ok8hmHK4EfM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/313)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM CEO CPU CXL DDR DGX DRAM DS GPU IO IP InfiniBand KV MemVerge NVIDIA NVLink OCP PCIe PyTorch RAG SRAM TCP TPC UALink YouTube
+
 Glenn Ge (TetraMem)
 
 <a id="223"></a>
