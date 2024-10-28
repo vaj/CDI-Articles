@@ -3453,6 +3453,18 @@ Nilesh Shah (zeropoint technologies)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ASIC AXI CAPEX CPU CXL CXL.mem DRAM IP LZ4 MLPerf NUMA OAM OCP OPEX SPEC TCO ZeroPoint
 
+Rob Davis (NVIDIA)
+
+<a id="314"></a>
+
+2024/10/24 Mature at Scale Memory Fabrics for-all Performance and Price Points
+
+[YouTube](https://youtu.be/8k7R7sIlKFM?si=ZN2rZG_gpnesCgMe)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/314)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ASIC BMW CPU CUDA ChatGPT DMA GPU HBA IP InfiniBand NIC NVIDIA NVLink OCP PR QPI RDMA RoCE
+
 Rob Nance (Jabil) and Paul Artman (AMD)
 
 <a id="218"></a>
