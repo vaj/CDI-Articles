@@ -925,7 +925,7 @@ Kurt Lender(Intel), Kurtis Bowman(AMD), Sandeep Dattaprasad(Astera Labs), Kapil 
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/304)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPS CPU CV CXL DC DDR4 DDR5 DMTF DRAM FMS FYI GPU GitHub HPC IBM IP IntelliProp IoT LeCroy MIT ML MPI MemVerge NDA OMI OS OpenCAPI PCI PCIe RAS SC SIG SMDK SNIA SSD SuperCompute TPU UnifabriX XPU
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPS CPU CV CXL DC DDR4 DDR5 DMTF DRAM FMS FYI GPU GitHub HPC IBM IP IntelliProp IoT LeCroy MIT ML MPI MemVerge NDA OMI OS OpenCAPI PCI PCIe RAS SC SC22 SEV SIG SMDK SNIA SSD SuperCompute TPU UnifabriX VPN XPU
 
 Kurtis Bowman (CXL MWG Co-Chair), Tracy Spitler (IntelliProp), Vijay Nain (Micron) and Bill Gervasi (Wolley)
 
@@ -2816,7 +2816,7 @@ Anil Godbole (Intel) and Kurtis Bowman (AMD)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/301)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL GPU HBM LinkedIn MemVerge PCI PCIe SIG YOLE
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL ES GPU HBM LinkedIn MemVerge PCI PCIe SIG YOLE
 
 Arvind Jagannath (VMware)
 
@@ -2964,7 +2964,7 @@ Jack Gidding (STAC)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/299)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD AWS CEO CXL IO ML NDA NVIDIA STAC URL
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD AWS CEO CXL IO ML NDA NVIDIA STAC SUT URL
 
 Jim Handy (Objective Analysys)
 
@@ -2974,7 +2974,7 @@ Jim Handy (Objective Analysys)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/302)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CCIX CMM CPU CXL DDR DDR4 DDR5 DDR6 DRAM FRAM GDDR GPU HBM HPC IBM IEEE IP LPDDR MRAM NAND NVMe OpenCAPI PC PCI PCIe PCM PDF RAM SNIA SSD
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CCIX CMM CPU CXL DDR DDR4 DDR5 DDR6 DDRIO DRAM FRAM GDDR GPU HBM HPC IBM IEEE IP LPDDR MRAM NAND NVMe OpenCAPI PC PCI PCIe PCM PDF RAM SNIA SSD
 
 JP Jiang (Xconn Technologies)
 
@@ -3008,7 +3008,7 @@ Mark Nossokoff (HYPERION RESEARCH)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/300)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL GPU HPC UALink
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL GPU HPC HPDA UALink
 
 Michael Abraham (Micron)
 
@@ -3321,13 +3321,17 @@ Steve McDowell
 
 ### NVM Express
 
+Bill Martin (Samsung) and Jason Molgaard (Solidigm)
+
+<a id="303"></a>
+
 2024/09/06 [NVM Express® Support for CXL®](https://nvmexpress.org/wp-content/uploads/02_Martin-and-Molgaard_NVMe-Support-for-CXL_Final.pdf)
 
 [YouTube](https://youtu.be/HUQQ_m8wbWI?si=NfHqTtAWeh8aAaRx)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/303)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BAR CMB CXL CXL.mem FMS HDM IO MMIO NVM NVMe OS PCI PCIe PMR SDC SLM SNIA SSD UIO YouTube
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BAR CMB CXL CXL.mem FMS HDM IO MMIO NVM NVMe OS PCI PCIe PMR SDC SGL SLM SNIA SSD UIO YouTube
 
 ### Open Compute Project
 
@@ -3377,7 +3381,7 @@ Charles Fan (MemVerge)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/313)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM CEO CPU CXL DDR DGX DRAM DS GPU IO IP InfiniBand KV MemVerge NVIDIA NVLink OCP PCIe PyTorch RAG SRAM TCP TPC UALink YouTube
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM CEO CPU CXL DDR DGX DRAM DS GISMO GPU IO IP InfiniBand KV MemVerge NVIDIA NVLink OCP PCIe PyTorch RAG SRAM TCP TPC UALink YouTube
 
 Glenn Ge (TetraMem)
 
@@ -3413,7 +3417,7 @@ Kurtis Bowman (Amd) and Fangzhi Wen (Alibaba)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/312)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CDU CPU FMS GPU IP OS PHY UALink UEC
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CDU CPU FMS GPU IP OS PHY UAL UALink UEC
 
 Nigel Alvares (Marvell), Chris Petersen (Astera Labs), TaekSang Song (Samsung) and James Kelly (OCP)
 
@@ -3541,7 +3545,7 @@ Siamak Tavallaei (Samsung), Jinin So (Samsung)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/309)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIC AMD API ASIC CMM CPU CXL DDR DDR4 DDR5 DIMM DRAM FPGA GNR GPU HANA HBM IC KNN KV LLM NAND NVLink OCP OMI OS OpenCAPI OpenShift P2P PCI PCIe PM POC RAG REST RESTful SAP SLA SMDK SaaS TCO TPC UALink XConn
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIC AMD ANN API ASIC CMM CPU CXL DDR DDR4 DDR5 DIMM DRAM FPGA GNR GPU HANA HBM IC KNN KV LLM NAND NVLink OCP OMI OS OpenCAPI OpenShift P2P PCI PCIe PM POC RAG REST RESTful SAP SDRAM SLA SMDK SMRC SaaS TCO TPC UALink XConn
 
 Suresh Subramaniam (Apex Semiconductors)
 
@@ -3889,7 +3893,7 @@ Gregory Price (MemVerge)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/306)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL DRAM GPU HBM HMAT NUMA PID PMEM RFC VMA
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL DRAM FD GPU HBM HMAT MMAT NUMA PID PIDF PMEM RCU RFC VMA
 
 Hannes Reinecke (SUSE Linux)
 
