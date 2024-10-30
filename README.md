@@ -3335,6 +3335,18 @@ Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 
 ### Open Compute Project
 
+Ahmad Danesh (Astera Labs) and Samir Rajadnya (Microsoft)
+
+<a id="316"></a>
+
+2024/10/24 Cloud-Scale Deployment with CXL Memory
+
+[YouTube](https://youtu.be/hQt7dVkXU8E?si=dTFkfOMcRCa2kVsC)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/316)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AMD BMC CPU CXL DDR DDR5 DIMM DRAM LEO MLC NUMA OS RAS RDIMM TCO UPI
+
 Andrew Alduino (Meta)
 
 <a id="247"></a>
