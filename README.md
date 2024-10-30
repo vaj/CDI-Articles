@@ -3395,6 +3395,18 @@ Glenn Ge (TetraMem)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIGC ASIC CPU DRAM GDP GPU HBM HPC ICC IO MHD MNIST MPU MRAM MX PCRAM RRAM SDK SORA SRAM TOPS TetraMem TikTok VM VMM
 
+J Metz (AMD) and Kurtis Bowman (AMD)
+
+<a id="315"></a>
+
+2024/10/24 Future of Al Networks:UALink and Ultra Ethernet
+
+[YouTube](https://youtu.be/_oQjOLj2-W4?si=pLWhNihP7ldDEVkN)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/315)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPU CXL DMA GPU HPC HPE InfiniBand LinkedIn NIC NVIDIA PCI PCIe TPU UALink UCIE UEC
+
 Kapil Sethi (Samsung), Ravi Gummaluri (Micron) and Seema Mehta (Ampere)
 
 <a id="310"></a>
