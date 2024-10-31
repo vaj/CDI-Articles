@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 248 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 249 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3680,6 +3680,18 @@ Pavan Balaji (Meta)
 [Text](https://github.com/vaj/CDI-Info/blob/main/213)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACM AI API CAPEX CPU CUDA DCS DLRM FFT FPA GAI GPT GPU GenAI HPC IB IBverbs IEEE IP InfiniBand KV MPI NCCL NFS NIC NVIDIA NVLink NVShmem OCP OFI RDMA RoCE SHMEM SKU TCP TIA UCX WhatsApp YouTube
+
+五島康文 (FSAS Technologies)
+
+<a id="317"></a>
+
+2024/10/31 [Exploring CXL Memory:Configuration and Emulation](https://speakerdeck.com/yasunorigoto1/exploring-cxl-memory-configuration-and-emulation)
+
+[YouTube](https://youtu.be/AOjnprXKE6g?si=RmpvhDwM8RS-0xgQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/317)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CFMWS CPU CXL DDR DRAM FPGA FSAS GPGPU GitHub HD HDM HPC JSON KVM LSA NUMA OS PCI QEMU RAM SSH SmartNIC VM
 
 ### PCI-SIG
 
