@@ -3681,18 +3681,6 @@ Pavan Balaji (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACM AI API CAPEX CPU CUDA DCS DLRM FFT FPA GAI GPT GPU GenAI HPC IB IBverbs IEEE IP InfiniBand KV MPI NCCL NFS NIC NVIDIA NVLink NVShmem OCP OFI RDMA RoCE SHMEM SKU TCP TIA UCX WhatsApp YouTube
 
-五島康文 (FSAS Technologies)
-
-<a id="317"></a>
-
-2024/10/31 [Exploring CXL Memory:Configuration and Emulation](https://speakerdeck.com/yasunorigoto1/exploring-cxl-memory-configuration-and-emulation)
-
-[YouTube](https://youtu.be/AOjnprXKE6g?si=RmpvhDwM8RS-0xgQ)
-
-[Text](https://github.com/vaj/CDI-Info/blob/main/317)
-
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CFMWS CPU CXL DDR DRAM FPGA FSAS GPGPU GitHub HD HDM HPC JSON KVM LSA NUMA OS PCI QEMU RAM SSH SmartNIC VM
-
 ### PCI-SIG
 
 Samuel Kocsis (Amphenole) and Mohiuddin Mazumder (Intel)
@@ -3930,6 +3918,30 @@ Adam Manzanares (Samsung)
 [Text](https://github.com/vaj/CDI-Info/blob/main/265)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AI AMD BIOS CPU CXL EDAC GHES HBM IBM IP NUMA OCP PCI PCIe QEMU RAS
+
+五島康文 (FSAS Technologies)
+
+<a id="317"></a>
+
+2024/10/31 [Exploring CXL Memory:Configuration and Emulation](https://speakerdeck.com/yasunorigoto1/exploring-cxl-memory-configuration-and-emulation)
+
+[YouTube](https://youtu.be/AOjnprXKE6g?si=RmpvhDwM8RS-0xgQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/317)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CFMWS CPU CXL DDR DRAM FPGA FSAS GPGPU GitHub HD HDM HPC JSON KVM LSA NUMA OS PCI QEMU RAM SSH SmartNIC VM
+
+小口 直樹 (FSAS Technologies)
+
+<a id="320"></a>
+
+2024/10/31 The future and value of Composable Disaggregated Infrastructure
+
+[YouTube](https://youtu.be/ePJogKrTuBY?si=z0LryQRIsJiynC9u)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/320)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CDI CXL FSAS HTTP PCIe
 
 Gregory Price (MemVerge)
 
