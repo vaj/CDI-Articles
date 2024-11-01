@@ -3919,18 +3919,6 @@ Adam Manzanares (Samsung)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AI AMD BIOS CPU CXL EDAC GHES HBM IBM IP NUMA OCP PCI PCIe QEMU RAS
 
-五島康文 (FSAS Technologies)
-
-<a id="317"></a>
-
-2024/10/31 [Exploring CXL Memory:Configuration and Emulation](https://speakerdeck.com/yasunorigoto1/exploring-cxl-memory-configuration-and-emulation)
-
-[YouTube](https://youtu.be/AOjnprXKE6g?si=RmpvhDwM8RS-0xgQ)
-
-[Text](https://github.com/vaj/CDI-Info/blob/main/317)
-
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CFMWS CPU CXL DDR DRAM FPGA FSAS GPGPU GitHub HD HDM HPC JSON KVM LSA NUMA OS PCI QEMU RAM SSH SmartNIC VM
-
 小口 直樹 (FSAS Technologies)
 
 <a id="320"></a>
@@ -3943,6 +3931,18 @@ Adam Manzanares (Samsung)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CDI CXL FSAS HTTP PCIe
 
+五島康文 (FSAS Technologies)
+
+<a id="317"></a>
+
+2024/10/31 [Exploring CXL Memory:Configuration and Emulation](https://speakerdeck.com/yasunorigoto1/exploring-cxl-memory-configuration-and-emulation)
+
+[YouTube](https://youtu.be/AOjnprXKE6g?si=RmpvhDwM8RS-0xgQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/317)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CFMWS CPU CXL DDR DRAM FPGA FSAS GPGPU GitHub HD HDM HPC JSON KVM LSA NUMA OS PCI QEMU RAM SSH SmartNIC VM
+
 Gregory Price (MemVerge)
 
 <a id="306"></a>
@@ -3954,6 +3954,18 @@ Gregory Price (MemVerge)
 [Text](https://github.com/vaj/CDI-Info/blob/main/306)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL DRAM FD GPU HBM HMAT MMAT NUMA PID PIDF PMEM RCU RFC VMA
+
+長谷　仁 (FSAS Technologies) and Lei Zhang (FSAS Technologies)
+
+<a id="319"></a>
+
+2024/10/31 Dynamic Scaling of GPUs for Container Apps with Composable Disaggregated Infrastructure for AI Era
+
+[YouTube](https://youtu.be/oAFJc3pZP98?si=Bs0vTTZR15veuOe2)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/319)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API CDI CPU CXL DRA FSAS GPU IBM NUMA NVIDIA PCI PCIe SIG
 
 Hannes Reinecke (SUSE Linux)
 
