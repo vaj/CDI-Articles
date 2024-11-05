@@ -3419,6 +3419,18 @@ J Metz (AMD) and Kurtis Bowman (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPU CXL DMA GPU HPC HPE InfiniBand LinkedIn NIC NVIDIA PCI PCIe TPU UALink UCIE UEC
 
+Jungmin Choi (SK hynix)
+
+<a id="321"></a>
+
+2024/10/24 Exploring CXL Memory Disaggregation:Use Cases and System Benefits
+
+[YouTube](https://www.youtube.com/watch?v=rs50P4Fp8YY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/321)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CMS CPU CXL DCD DDR4 DLRM FPGA GPU HMSDK LLM ML MemVerge NVMe OCP PBS SK
+
 Kapil Sethi (Samsung), Ravi Gummaluri (Micron) and Seema Mehta (Ampere)
 
 <a id="310"></a>
