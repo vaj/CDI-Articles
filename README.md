@@ -3443,6 +3443,18 @@ Kapil Sethi (Samsung), Ravi Gummaluri (Micron) and Seema Mehta (Ampere)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CMS CPU CXL DIMM DRAM OCP QR SSD TCO
 
+Khurram Malik (Marvell)
+
+<a id="322"></a>
+
+2024/10/24 Marvell Structera: Overcoming Computing's Memory Challenges with Optimized CXL Devices
+
+[YouTube](https://www.youtube.com/watch?v=BUX8AqxQoOg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/322)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL DDR DDR4 DDR5 DIMM DRAM FMS GPU IOV LZ4 PC PCI PCIe SR TCO XPU smartNIC
+
 Kurtis Bowman (Amd) and Fangzhi Wen (Alibaba)
 
 <a id="312"></a>
