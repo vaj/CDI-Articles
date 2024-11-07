@@ -3407,6 +3407,18 @@ Glenn Ge (TetraMem)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIGC ASIC CPU DRAM GDP GPU HBM HPC ICC IO MHD MNIST MPU MRAM MX PCRAM RRAM SDK SORA SRAM TOPS TetraMem TikTok VM VMM
 
+Honggyu Kim (SK hynix)
+
+<a id="323"></a>
+
+2024/10/24 Expanding CXL Software Ecosystem through HMSDK on Linux
+
+[YouTube](https://www.youtube.com/watch?v=8JOdonT-q-A)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/323)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CMM CPU CXL DAMON DDR5 DIMM DRAM GitHub HMSDK HTML MemVerge NUMA OS SK YCSB
+
 J Metz (AMD) and Kurtis Bowman (AMD)
 
 <a id="315"></a>
