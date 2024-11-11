@@ -3643,6 +3643,18 @@ Todd Rosedahl (Jabil)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM BMC CPU CXL DC DCM DCMHS DDR E3S HANA HBM IBM ISA Jabil MHS ML OCP ODM OMI OpenCAPI PCB PCI PCIe SAP SAS SCM SSD
 
+Vishnu Balraj (Micron)
+
+<a id="324"></a>
+
+2024/10/24 Enhance Al & Database Performance: Experience Micron's CZ122 at OCP
+
+[YouTube](https://www.youtube.com/watch?v=7ibIJrF6spw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/324)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CMM CPU CXL CZ120 DAX DRAM GPU HBM HPPR LLM MLC MemVerge NUMA OS PCIe PPR RAG RAS RocksDB SAS SMC SSD SuperCompute TCO TEP TPC VM1 VM2
+
 Vlad Kozlov (Light Counting)
 
 <a id="239"></a>
