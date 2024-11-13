@@ -3407,6 +3407,18 @@ Glenn Ge (TetraMem)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIGC ASIC CPU DRAM GDP GPU HBM HPC ICC IO MHD MNIST MPU MRAM MX PCRAM RRAM SDK SORA SRAM TOPS TetraMem TikTok VM VMM
 
+Geof Findley (Montage)
+
+<a id="325"></a>
+
+2024/10/24 CXL 2.0 Use Case Using Both DDR4 & DDR5 on the Same Server to Allow Memory & Bandwidth Scaling
+
+[YouTube](https://www.youtube.com/watch?v=s0IRvn0wwhs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/325)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ARM CXL DDR DDR4 DDR5 DDR6 DIMM DRAM HBM IDE LP MR MXC PCI RAS SK SOC TCO
+
 Honggyu Kim (SK hynix)
 
 <a id="323"></a>
