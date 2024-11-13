@@ -3655,6 +3655,18 @@ Todd Rosedahl (Jabil)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM BMC CPU CXL DC DCM DCMHS DDR E3S HANA HBM IBM ISA Jabil MHS ML OCP ODM OMI OpenCAPI PCB PCI PCIe SAP SAS SCM SSD
 
+Tong Zhang (ScaleFlux)
+
+<a id="326"></a>
+
+2024/10/24 Enhancing CXL Memory RAS through a Forgotten Coding Theory
+
+[YouTube](https://www.youtube.com/watch?v=f5Fq1KGA5SI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/326)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL DDR5 DIMM DRAM ECC MIT VLSI
+
 Vishnu Balraj (Micron)
 
 <a id="324"></a>
