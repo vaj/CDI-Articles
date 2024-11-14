@@ -3383,6 +3383,18 @@ Apparao Puli (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BMC CCI CLI CXL DCSCM DM DMTF HPPR I3C IP IPMI MCTP OCP OpenBMC PBR PCI PCIe PLDM PM PMCI PPR PSUs RAS REST SMBus SMbus SPDM SPPR UI
 
+Arvind Jagannath (VMware) and Sudhir Balasubramanian (VMware)
+
+<a id="327"></a>
+
+2024/10/24 VMware Memory Vision for Real World Applications
+
+[YouTube](https://www.youtube.com/watch?v=OzKy7K8bZX4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/327)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL CXL.mem DDR DRAM ESX GA NVMe PCIe ROI SQL TCO VDI VM VMmark VMware VSI
+
 Charles Fan (MemVerge)
 
 <a id="313"></a>
