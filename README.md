@@ -3443,6 +3443,18 @@ Honggyu Kim (SK hynix)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CMM CPU CXL DAMON DDR5 DIMM DRAM GitHub HMSDK HTML MemVerge NUMA OS SK YCSB
 
+Igor Chorazewicz(Intel)
+
+<a id="328"></a>
+
+2024/10/24 Unified Memory Framework
+
+[YouTube](https://www.youtube.com/watch?v=uWFL8yHKFLU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/328)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CXL DRAM GPU GitHub HBM IPC MPI NUMA SQL
+
 J Metz (AMD) and Kurtis Bowman (AMD)
 
 <a id="315"></a>
