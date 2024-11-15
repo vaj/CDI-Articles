@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 249 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 250 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3370,6 +3370,18 @@ Anil Agrawal and Carlos Fernandez (Meta)
 [Text](https://github.com/vaj/CDI-Info/blob/main/221)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AER BMC CPU ECR ECRC GitHub MSI OCP OS PCI PCIe RAS SIG SMI SMM
+
+Anjaneya "Reddy" Chagam (Intel) and Manoj Wadekar (Meta)
+
+<a id="329"></a>
+
+2024/10/23 [Composable Memory Systems Overview and Progress](https://drive.google.com/file/d/1_xxBEY8iifIPK6a7JN_ouLcwxHRtbpYf/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=qP-Nev1WTIk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/329)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BMC CMS CPU CXL CacheLib DDR DMTF ECN GPU GitHub HPC JEDEC LPDDR OCP PCIe SNIA UAL UEC
 
 Apparao Puli (Intel)
 
