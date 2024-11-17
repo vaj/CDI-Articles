@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 250 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 251 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3702,6 +3702,18 @@ Tong Zhang (ScaleFlux)
 [Text](https://github.com/vaj/CDI-Info/blob/main/326)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL DDR5 DIMM DRAM ECC MIT VLSI
+
+Vikrant Soman (Uber) and Bhanu Shankar (MemVerge)
+
+<a id="330"></a>
+
+2024/10/23 [Need for common performance & design definitions for CMS solutions](https://drive.google.com/file/d/1PhDyK6rI0XWZr3RpbCMXXKzjIw4uzdOR/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=0amNufxSVtM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/330)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CMS CPU CXL DRAM GitHub MLC MemVerge PCM ROI TCO TPC
 
 Vishnu Balraj (Micron)
 
