@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 251 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 266 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3339,7 +3339,7 @@ Ahmad Danesh (Astera Labs) and Samir Rajadnya (Microsoft)
 
 <a id="316"></a>
 
-2024/10/24 Cloud-Scale Deployment with CXL Memory
+2024/10/24 [Cloud-Scale Deployment with CXL Memory](https://drive.google.com/file/d/18QEBXkBOjaNDUvuCCr_ILC7SEiU81JmM/view?usp=drive_link)
 
 [YouTube](https://youtu.be/hQt7dVkXU8E?si=dTFkfOMcRCa2kVsC)
 
@@ -3399,7 +3399,7 @@ Arvind Jagannath (VMware) and Sudhir Balasubramanian (VMware)
 
 <a id="327"></a>
 
-2024/10/24 VMware Memory Vision for Real World Applications
+2024/10/24 [VMware Memory Vision for Real World Applications](https://drive.google.com/file/d/1lqdte1G1qZMIqTSV2r_gMbmuvb8smCFz/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=OzKy7K8bZX4)
 
@@ -3411,7 +3411,7 @@ Charles Fan (MemVerge)
 
 <a id="313"></a>
 
-2024/10/24 Memory Fabric Technology Landscape
+2024/10/24 [Memory Fabric Technology Landscape](https://drive.google.com/file/d/1NQT9AW0EisFKcREliNvQuB3tvkJaRh8S/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=Ok8hmHK4EfM)
 
@@ -3435,7 +3435,7 @@ Geof Findley (Montage)
 
 <a id="325"></a>
 
-2024/10/24 CXL 2.0 Use Case Using Both DDR4 & DDR5 on the Same Server to Allow Memory & Bandwidth Scaling
+2024/10/24 [CXL 2.0 Use Case Using Both DDR4 & DDR5 on the Same Server to Allow Memory & Bandwidth Scaling](https://drive.google.com/file/d/1vYTDnaL2TPZQ2n7KVUW-nldioaq9m_F-/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=s0IRvn0wwhs)
 
@@ -3447,7 +3447,7 @@ Honggyu Kim (SK hynix)
 
 <a id="323"></a>
 
-2024/10/24 Expanding CXL Software Ecosystem through HMSDK on Linux
+2024/10/24 [Expanding CXL Software Ecosystem through HMSDK on Linux](https://drive.google.com/file/d/1LwNniBiDvYK7b5fiE5BMqxEmuF_0p0qZ/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=8JOdonT-q-A)
 
@@ -3459,7 +3459,7 @@ Igor Chorazewicz(Intel)
 
 <a id="328"></a>
 
-2024/10/24 Unified Memory Framework
+2024/10/24 [Unified Memory Framework](https://drive.google.com/file/d/1PEH5ZcZYAIDWQO6t_t3d1bS-1BtQCbFh/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=uWFL8yHKFLU)
 
@@ -3471,7 +3471,7 @@ J Metz (AMD) and Kurtis Bowman (AMD)
 
 <a id="315"></a>
 
-2024/10/24 Future of Al Networks:UALink and Ultra Ethernet
+2024/10/24 [Future of Al Networks:UALink and Ultra Ethernet](https://drive.google.com/file/d/1BoRGNK-wfdXFYZVd3jQ7Nl9A_wBTk-J8/view?usp=drive_link)
 
 [YouTube](https://youtu.be/_oQjOLj2-W4?si=pLWhNihP7ldDEVkN)
 
@@ -3483,7 +3483,7 @@ Jungmin Choi (SK hynix)
 
 <a id="321"></a>
 
-2024/10/24 Exploring CXL Memory Disaggregation:Use Cases and System Benefits
+2024/10/24 [Exploring CXL Memory Disaggregation:Use Cases and System Benefits](https://drive.google.com/file/d/1ZgoCn4NyrIkux0TDnRB_hZOOBewAqUIO/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=rs50P4Fp8YY)
 
@@ -3495,7 +3495,7 @@ Kapil Sethi (Samsung), Ravi Gummaluri (Micron) and Seema Mehta (Ampere)
 
 <a id="310"></a>
 
-2024/10/18 Integrating Composable Memory System (CMS) into Storage intensive workloads
+2024/10/18 [Integrating Composable Memory System (CMS) into Storage intensive workloads](https://drive.google.com/file/d/1jUWlWookqNly-66EKiPEZWT5CkbZF2ZH/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=4s59fjoCoas)
 
@@ -3507,7 +3507,7 @@ Khurram Malik (Marvell)
 
 <a id="322"></a>
 
-2024/10/24 Marvell Structera: Overcoming Computing's Memory Challenges with Optimized CXL Devices
+2024/10/24 [Marvell Structera: Overcoming Computing's Memory Challenges with Optimized CXL Devices](https://drive.google.com/file/d/1FPgZXrTOOtu-Gssoav1CNxIE35-7tCdy/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=BUX8AqxQoOg)
 
@@ -3519,13 +3519,25 @@ Kurtis Bowman (Amd) and Fangzhi Wen (Alibaba)
 
 <a id="312"></a>
 
-2024/10/23 UALink: Pioneering the Al Accelerator Revolution
+2024/10/23 [UALink: Pioneering the Al Accelerator Revolution](https://drive.google.com/file/d/19NcibcLZ38PjIVKKyVsJS8tCXS9-4PF_/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=licUcxCc3Yc)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/312)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CDU CPU FMS GPU IP OS PHY UAL UALink UEC
+
+Myoungseo Kim (Sk Hynix), Grant Mackey (Jackrabbit Labs), Anjaneya "Reddy" Chagam (Intel) and Vikrant Soman (Uber)
+
+<a id="331"></a>
+
+2024/10/23 [Deep Dive into CMS Composable Memory Architecture with Kubernetes® Fabric-Attached Memory Orchestration](https://drive.google.com/file/d/1ZRapsFHM7d8Fd_cadisiiKA6Vw35Ymrv/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=biv7R8W5Zhs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/331)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CCI CMS CPU CXL DCD DDR4 DDR5 DRAM EMR FPGA HTML NUMA OCP SK
 
 Nigel Alvares (Marvell), Chris Petersen (Astera Labs), TaekSang Song (Samsung) and James Kelly (OCP)
 
@@ -3565,7 +3577,7 @@ Rob Davis (NVIDIA)
 
 <a id="314"></a>
 
-2024/10/24 Mature at Scale Memory Fabrics for-all Performance and Price Points
+2024/10/24 [Mature at Scale Memory Fabrics for-all Performance and Price Points](https://drive.google.com/file/d/16h3h4CpKtZbsnml2_nY_OP9QusNgaNbo/view?usp=drive_link)
 
 [YouTube](https://youtu.be/8k7R7sIlKFM?si=ZN2rZG_gpnesCgMe)
 
@@ -3695,7 +3707,7 @@ Tong Zhang (ScaleFlux)
 
 <a id="326"></a>
 
-2024/10/24 Enhancing CXL Memory RAS through a Forgotten Coding Theory
+2024/10/24 [Enhancing CXL Memory RAS through a Forgotten Coding Theory](https://drive.google.com/file/d/1Iz7dW8ibwvf4bi8w1Xpbdxln0GG-fUiA/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=f5Fq1KGA5SI)
 
@@ -3719,7 +3731,7 @@ Vishnu Balraj (Micron)
 
 <a id="324"></a>
 
-2024/10/24 Enhance Al & Database Performance: Experience Micron's CZ122 at OCP
+2024/10/24 [Enhance Al & Database Performance: Experience Micron's CZ122 at OCP](https://drive.google.com/file/d/1hdt59chNQCRMwyk725Plgk1NMTRt6O0V/view?usp=drive_link)
 
 [YouTube](https://www.youtube.com/watch?v=7ibIJrF6spw)
 
