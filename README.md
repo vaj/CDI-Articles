@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 266 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 267 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3526,6 +3526,18 @@ Kurtis Bowman (Amd) and Fangzhi Wen (Alibaba)
 [Text](https://github.com/vaj/CDI-Info/blob/main/312)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CDU CPU FMS GPU IP OS PHY UAL UALink UEC
+
+Manoj Wadekar (Meta) and Samir Rajadnya (Microsoft)
+
+<a id="312"></a>
+
+2024/10/23 [Al Needs for Memory Expansion for Hyperscalers](https://drive.google.com/file/d/1QcrbBie1-QnNs06tKy7fiGDcyttd-iDu/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=wY_NU0-cmkw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/332)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CMS CPU CXL ChatGPT DDR GPU GenAI HBM HBM4 IO KV LLM LPDDR NV NVIDIA NVLink NVMe OCP PCIe RAS SKU SSD TCO UALink
 
 Myoungseo Kim (Sk Hynix), Grant Mackey (Jackrabbit Labs), Anjaneya "Reddy" Chagam (Intel) and Vikrant Soman (Uber)
 
