@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 267 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 268 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3478,6 +3478,18 @@ J Metz (AMD) and Kurtis Bowman (AMD)
 [Text](https://github.com/vaj/CDI-Info/blob/main/315)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UltraEthernet AI AMD CPU CXL DMA GPU HPC HPE InfiniBand LinkedIn NIC NVIDIA PCI PCIe TPU UALink UCIE UEC
+
+Jianping Jiang (Xconn) and Brian Pan (H3 Platform)
+
+<a id="333"></a>
+
+2024/10/23 [Enabling Composable Scalable Memory for Applications with CXL Switch](https://drive.google.com/file/d/1HER56fOyyiTdJ-fvcDd1ipcDS_EGs8JU/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=eAuYpbYnJmg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/333)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CMS CPU CXL DCD DDR DRAM EMR HBM HPC MLC MLD MemVerge NDA OCP OS OpenFOAM
 
 Jungmin Choi (SK hynix)
 
