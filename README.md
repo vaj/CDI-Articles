@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 268 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 267 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3490,6 +3490,18 @@ Jianping Jiang (Xconn) and Brian Pan (H3 Platform)
 [Text](https://github.com/vaj/CDI-Info/blob/main/333)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CMS CPU CXL DCD DDR DRAM EMR HBM HPC MLC MLD MemVerge NDA OCP OS OpenFOAM
+
+Jon Hermes (Arm)
+
+<a id="334"></a>
+
+2024/10/23 [DIMSUM: Diving Into Multihost Shared and Unified Memory](https://drive.google.com/file/d/1Q7TnxCdiq01pT2usJlxjxRM0d3kNmfwQ/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=h7qTcefV9Lg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/334)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ALU ARM CMS CXL DDR DIMM ISA ML NUMA PCI QoS RDMA TensorFlow
 
 Jungmin Choi (SK hynix)
 
