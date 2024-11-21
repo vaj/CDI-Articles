@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 267 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 268 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -73,6 +73,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium-4)
     - [HOTI](#hoti)
     - [Intel](#intel-1)
+    - [Linux Plumbers Conference](#linux-plumbers-conference-3)
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [MemVerge](#memverge-2)
     - [NAND Research](#nand-research)
@@ -2782,6 +2783,20 @@ Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Isert
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACCEL AI AMD API ARM BSC CPU CUDA DMA DOCA DPA DPDK DPU DRAM ECC ETH FPGA GCC GNU GPU GVMI HPC HPCX IOPS IP IPDPS IPU ISC InfiniBand LAN LLVM MPI MPMD NCCL NIC NPU NVIDIA NVMe NVMeOF ODOS OS OSU OpenSHMEM P3DFFT P4 PCI PGAS PML PPN PRI RDMA RISC RMA SDK SHMEM SIAM SIMD SPDK SPEC SmartNIC TCP TLS UCC UCX UROM XPU smartNIC
 
+### Linux Plumbers Conference
+
+John Groves (Micron Technology)
+
+<a id="335"></a>
+
+2024/10/08 [Famfs and CXL Shared Memory: Progress, Challenges and Usability](https://lpc.events/event/18/contributions/1827/attachments/1583/3349/famfs-lpc-2024-v3.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=4MsTupxge70)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/335)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CSV CXL DAX DCD DPA DRAM DevOps FAMFS FMS FSDAX GPU GitHub HP LSFMM LSM NUMA RAM RAMFS RAS RFC RocksDB UUID VM XFS
+
 ### Memory Fabric Forum
 
 Anil Godbole (Intel)
@@ -3573,7 +3588,7 @@ Myoungseo Kim (Sk Hynix), Grant Mackey (Jackrabbit Labs), Anjaneya "Reddy" Chaga
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/331)
 
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CCI CMS CPU CXL DCD DDR4 DDR5 DRAM EMR FPGA HTML NUMA OCP SK
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CCI CMS CPU CXL DCD DCMFM DDR4 DDR5 DRAM EMR FPGA HTML NUMA OCP SK YAML
 
 Nigel Alvares (Marvell), Chris Petersen (Astera Labs), TaekSang Song (Samsung) and James Kelly (OCP)
 
