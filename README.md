@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 268 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 269 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4051,6 +4051,18 @@ Paul McLeod (Supermicro)
 [Text](https://github.com/vaj/CDI-Info/blob/main/237)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CXL DPU DevOps E1L E1S E3S EDSFF GPU HPC IOPS NVIDIA NVMe PCI PCIe RDMA SNIA US WEKA
+
+Steve Scargall (MemVerge)
+
+<a id="336"></a>
+
+2024/11/18 [CXL for AI/ML](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Scargall-CXL-for-AL-ML.pdf)
+
+[YouTube](https://youtu.be/q-5usfRw1YY?si=hfoqiUayfTr5Kj3_)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/336)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD BIOS CPU CUDA CXL DAX DCD DDR DDR4 DDR5 DIMPA DMA DRAM FAMFS FM GPU GTC IO LLM ML MRDIMM MSRP MemVerge NUMA NVIDIA NVMe OEM OPT PCIe PCM PDF QEMU RAG RAID RAM SAN TPP VM
 
 Sudhir Balasubramanian and Arvind Jagannath (VMware)
 
