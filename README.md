@@ -74,6 +74,7 @@ All titles are in English, regardless of the language in which they were written
     - [HOTI](#hoti)
     - [Intel](#intel-1)
     - [Linux Plumbers Conference](#linux-plumbers-conference-3)
+    - [Liqid](#liqid)
     - [Memory Fabric Forum](#memory-fabric-forum)
     - [MemVerge](#memverge-2)
     - [NAND Research](#nand-research)
@@ -2808,6 +2809,20 @@ John Groves (Micron Technology)
 [Text](https://github.com/vaj/CDI-Info/blob/main/335)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CSV CXL DAX DCD DPA DRAM DevOps FAMFS FMS FSDAX GPU GitHub HP LSFMM LSM NUMA RAM RAMFS RAS RFC RocksDB UUID VM XFS
+
+### Liqid
+
+Sumit Puri
+
+<a id="338"></a>
+
+2024/07/12 [Revolutionizing the Economics of Al Infrastructure]
+
+[YouTube](https://youtu.be/wuRqN4Bjjoc?si=StV6mandvZRqmKWB)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/338)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API CPU CUDA CXL DGX DRAM FPGA GPU GUI HGX HPC InfiniBand MLPerf MX NCCL NIC NUMA NV NVIDIA NVLink NVMe OpenShift OpenStack PCI PCIe QPI RAG RDMA RESTful SXM SuperPOD VDI VMware VR
 
 ### Memory Fabric Forum
 
