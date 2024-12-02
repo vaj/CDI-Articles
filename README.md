@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 269 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 270 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2784,6 +2784,18 @@ Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Isert
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACCEL AI AMD API ARM BSC CPU CUDA DMA DOCA DPA DPDK DPU DRAM ECC ETH FPGA GCC GNU GPU GVMI HPC HPCX IOPS IP IPDPS IPU ISC InfiniBand LAN LLVM MPI MPMD NCCL NIC NPU NVIDIA NVMe NVMeOF ODOS OS OSU OpenSHMEM P3DFFT P4 PCI PGAS PML PPN PRI RDMA RISC RMA SDK SHMEM SIAM SIMD SPDK SPEC SmartNIC TCP TLS UCC UCX UROM XPU smartNIC
 
 ### Linux Plumbers Conference
+
+Alejandro Lucero (AMD)
+
+<a id="337"></a>
+
+2024/10/08 [Type2 support CXL.mem status and future CXL.cache](https://lpc.events/event/18/contributions/1828/attachments/1494/3260/CXL_Type2_LPC.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=M1iUUGDWKZ8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/337)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI API ATS BIOS CPU CXL CXL.cache CXL.mem DAX DMA HDM IOMMU PCI PCIe TLB TLP VM
 
 John Groves (Micron Technology)
 
