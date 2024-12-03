@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 270 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 271 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3732,6 +3732,18 @@ Saurabh Kulkarni (Intel)
 [Text](https://github.com/vaj/CDI-Info/blob/main/224)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AlexNet CPU HBM OCP OSFP PCIe SRAM SerDes TCO UBB
+
+Siamak Tavallaei (Samsung)
+
+<a id="339"></a>
+
+2024/10/23 [Memory Feeds Compute and Drives Innovation](https://drive.google.com/file/d/1_CnAPG29yaeoAJnKlyIeLqPEUos_L-fS/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=34sJtgWwRJU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/339)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AIC CPU CXL DDIMM DDR DDR5 DIMM DRAM ECC GPU HBM HPC LPDDR ML MRDIMM NAND NUMA OCP PCIe SRAM SSD
 
 Siamak Tavallaei (Independent), Anjaneya Chagam (Intel)
 
