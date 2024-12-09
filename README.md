@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 271 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 272 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2797,6 +2797,18 @@ Alejandro Lucero (AMD)
 [Text](https://github.com/vaj/CDI-Info/blob/main/337)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI API ATS BIOS CPU CXL CXL.cache CXL.mem DAX DMA HDM IOMMU PCI PCIe TLB TLP VM
+
+Ira Weiny (Intel), Jonathan Cameron (Huawei) and Navneet Singh (Intel)
+
+<a id="340"></a>
+
+2024/10/08 [CXL Dynamic Capacity Devices](https://lpc.events/event/18/contributions/1826/attachments/1435/3335/LPC2024_CXL_DCD-v2.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=gX8uYizefyg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/340)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL DAX DCD FAMFS HP NUMA PMDK QEMU QoS RAM VM
 
 John Groves (Micron Technology)
 
