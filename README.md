@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 272 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 273 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4090,6 +4090,18 @@ Manoj Wadekar (Meta)
 [Text](https://github.com/vaj/CDI-Info/blob/main/251)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI C2C CPU CXL DAG DRAM GPU GeneAI HBM InfiniBand JEDEC NVLink NVswitch OCP PCI PCIe RDMA RoCE SNIA WhatsApp
+
+Nathan Hanford (Lawrence Livermore National Laboratory)
+
+<a id="341"></a>
+
+2024/11/18 [OFA Sunfish](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Hanford-Sunfish-Distributed-Storage-Swordfish_0.pdf)
+
+[YouTube](https://youtu.be/xF8CWxNmIG4?si=RmgufKP_28g8rtL5)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/341)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API CDI CXL DMTF EX GitHub HPC InfiniBand ML NVMe OFA OS OpenShift PCI PCIe RESTful SAN SNIA URI
 
 Paul McLeod (Supermicro)
 
