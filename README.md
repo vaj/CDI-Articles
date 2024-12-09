@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 273 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 274 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4310,6 +4310,8 @@ Tomoaki Sato
 2024/06/27 [What is "Disaggregated Computing"? (5)](https://valinux.hatenablog.com/entry/202406271)
 
 2024/07/18 [Enhance your own external memory with local LLMs and RAGs!](https://valinux.hatenablog.com/entry/20240718)
+
+2024/11/05 [Enhance your own external memory with local LLMs and RAGs! (2)](https://valinux.hatenablog.com/entry/20241105)
 
 ## APPENDIX
 
