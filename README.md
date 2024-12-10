@@ -3617,6 +3617,18 @@ Manoj Wadekar (Meta) and Samir Rajadnya (Microsoft)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CMS CPU CXL ChatGPT DDR GPU GenAI HBM HBM4 IO KV LLM LPDDR NV NVIDIA NVLink NVMe OCP PCIe RAS SKU SSD TCO UALink
 
+Michael Ocampo (Astera Labs) and Ahmed Medihoub (Astera Labs)
+
+<a id="342"></a>
+
+2024/10/23 [Optimizing Al Inferencing with CXL Memory](https://drive.google.com/file/d/14XLuxde93PwfeanOqW5-L0hC-fCt5Kf7/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=zOIG24W_ibY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/342)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ARIES CMS CPU CXL CXL.cache ChatGPT DDR5 DIMM DLRM EPYC GPT GPU IO KV LEO LLM NVIDIA NVMe OCP OPT PCIe SSD
+
 Myoungseo Kim (Sk Hynix), Grant Mackey (Jackrabbit Labs), Anjaneya "Reddy" Chagam (Intel) and Vikrant Soman (Uber)
 
 <a id="331"></a>
