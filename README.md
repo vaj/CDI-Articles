@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 274 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 276 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2821,6 +2821,20 @@ John Groves (Micron Technology)
 [Text](https://github.com/vaj/CDI-Info/blob/main/335)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CSV CXL DAX DCD DPA DRAM DevOps FAMFS FMS FSDAX GPU GitHub HP LSFMM LSM NUMA RAM RAMFS RAS RFC RocksDB UUID VM XFS
+
+Robert Richter(AMD), Terry Bowman(AMD) and Srinivasulu Thanneeru(Micron)
+
+<a id="343"></a>
+
+2024/10/08 [State of CXL Error Handling](https://lpc.events/event/18/contributions/1838/attachments/1472/3138/lpc-2024-cxl-error-handling-3.pdf)
+
+2024/10/08 [CXL RAS Page offline for Corrected Errors](https://lpc.events/event/18/contributions/1838/attachments/1472/3296/CXL%20MC%20Error%20handling%20part%202-%20CLX%20RAS%20Page%20offline%20.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=uFrTEsYz0IQ&t=1s)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/343)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AER AMD BMC CE CPER CVME CXL CXL.io DCD DOE DRAM DVSEC ECC EDAC EINJ FS GHES HP HPA IO MMIO MSI MSIX OS OSC PCI PCIe PFA PPR QEMU RAS RCEC RCRB VH
 
 ### Liqid
 
