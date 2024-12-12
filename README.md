@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 276 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 277 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2785,6 +2785,18 @@ Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Isert
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACCEL AI AMD API ARM BSC CPU CUDA DMA DOCA DPA DPDK DPU DRAM ECC ETH FPGA GCC GNU GPU GVMI HPC HPCX IOPS IP IPDPS IPU ISC InfiniBand LAN LLVM MPI MPMD NCCL NIC NPU NVIDIA NVMe NVMeOF ODOS OS OSU OpenSHMEM P3DFFT P4 PCI PGAS PML PPN PRI RDMA RISC RMA SDK SHMEM SIAM SIMD SPDK SPEC SmartNIC TCP TLS UCC UCX UROM XPU smartNIC
 
 ### Linux Plumbers Conference
+
+Adam Manzanares (Samsung)
+
+<a id="344"></a>
+
+2024/11/18 [Emulating CXL with QEMU](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Manzanares-Emulating-CXL-With-QEMU.pdf)
+
+[YouTube](https://youtu.be/Qmvr6Maj9ts?si=DR6iHGNmjgw1KdR5)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/344)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ARM CPU CXL DAX DC DCD DMA HDM KVM LBA MCTP MMIO NUMA NVMe OS PCI PCIe QEMU RAM SDXI VM VMware
 
 Alejandro Lucero (AMD)
 
