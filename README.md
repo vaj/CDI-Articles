@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 277 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 278 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3700,6 +3700,18 @@ Nilesh Shah (zeropoint technologies)
 [Text](https://github.com/vaj/CDI-Info/blob/main/217)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ASIC AXI CAPEX CPU CXL CXL.mem DRAM IP LZ4 MLPerf NUMA OAM OCP OPEX SPEC TCO ZeroPoint
+
+Pankaj Mehra (Elephance Memory), Shyam Iyer (Dell), Jay Yeon (Metisx) and Durgesh Srivastava (Mips)
+
+<a id="345"></a>
+
+2024/10/23 [Programming Near-Data Processing](https://drive.google.com/file/d/1Q9iz1MKPXJDVuE63hKXkgRExgSYNwSyP/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=Zmeq8C7pfjU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/345)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API ARM ASIC CMN CMS CPU CTO CUDA CXL DNA DRAM FPGA GPU HBM IO ISA MIPS NVIDIA NVMe OCP ONNX OS PCI PyTorch RAG RISC SDXI SIMD SNIA SOC URL oneCCL
 
 Rob Davis (NVIDIA)
 
