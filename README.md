@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 278 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 279 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2847,6 +2847,18 @@ Robert Richter(AMD), Terry Bowman(AMD) and Srinivasulu Thanneeru(Micron)
 [Text](https://github.com/vaj/CDI-Info/blob/main/343)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AER AMD BMC CE CPER CVME CXL CXL.io DCD DOE DRAM DVSEC ECC EDAC EINJ FS GHES HP HPA IO MMIO MSI MSIX OS OSC PCI PCIe PFA PPR QEMU RAS RCEC RCRB VH
+
+Shiju Jose(Huawei), Vandana Salve(Micron) and Jonathan Cameron(Huawei)
+
+<a id="346"></a>
+
+2024/10/08 [Unification of RAS feature control - Enhancing EDAC](https://lpc.events/event/18/contributions/1874/attachments/1416/3059/RAS%20Feature%20Control%20LPC%202024%20-%20Version%200.2.pdf)
+
+[YouTube](https://youtu.be/4pB8eP8kitY?si=9BijYBW8fAecwNjt)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/346)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI ARS CSP CXL DAX DPA DRAM ECC ECS EDAC HPA NUMA NVDIMM OCP PCI PMEM PPR RAS
 
 ### Liqid
 
