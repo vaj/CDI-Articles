@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 279 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 280 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4044,6 +4044,18 @@ Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 [Text](https://github.com/vaj/CDI-Info/blob/main/248)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CS CSE CSEE CSF CSx FMS NVMe OS SDXI SNIA TWG
+
+David Emberson (HPE)
+
+<a id="347"></a>
+
+2024/11/18 [Disaggregated Memory for High Performance Computing Architectures and Opportunities for CXL](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Emberson-Disaggregated-Memory-CXL.pdf)
+
+[YouTube](https://youtu.be/DDJjd1pwtzc?si=UiEfI40ezxGXpR9u)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/347)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API ARM CCIX CHIPS COVID CSR CTO CXL DAOS DDR5 DOD DRAM EX FAM FlexBus GenZ GitHub HANA HBM HP HPC HPE HyperX IBM IT InfiniBand LPDDR MI300A MPI NIC NVIDIA NVLink NumPy OpenCAPI OpenFAM PCIe RAM RDMA ReRAM RoCE SAP SST TSMC UAL XGMI
 
 David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMware)
 
