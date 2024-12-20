@@ -73,6 +73,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium-4)
     - [HOTI](#hoti)
     - [Intel](#intel-1)
+    - [IOWN Global Forum](#iown-global-forum-1)
     - [Linux Plumbers Conference](#linux-plumbers-conference-3)
     - [Liqid](#liqid)
     - [Memory Fabric Forum](#memory-fabric-forum)
@@ -2783,6 +2784,20 @@ Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Isert
 [Text](https://github.com/vaj/CDI-Info/blob/main/296)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACCEL AI AMD API ARM BSC CPU CUDA DMA DOCA DPA DPDK DPU DRAM ECC ETH FPGA GCC GNU GPU GVMI HPC HPCX IOPS IP IPDPS IPU ISC InfiniBand LAN LLVM MPI MPMD NCCL NIC NPU NVIDIA NVMe NVMeOF ODOS OS OSU OpenSHMEM P3DFFT P4 PCI PGAS PML PPN PRI RDMA RISC RMA SDK SHMEM SIAM SIMD SPDK SPEC SmartNIC TCP TLS UCC UCX UROM XPU smartNIC
+
+### IOWN Global Forum
+
+Tzi-cker Chiueh (Delta Electronics)
+
+<a id="348"></a>
+
+2024/10/29 Optimized Memory Resource Pooling
+
+[YouTube](https://youtu.be/N5KoXgU-mas?si=ompGwX8MSWLFFYwA&t=5219)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/348)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ASIC CPU CXL CXL.cache CXL.io DMA DRAM FPGA GPU IOWN NIC PCI PCIe SK SSD XConn
 
 ### Linux Plumbers Conference
 
