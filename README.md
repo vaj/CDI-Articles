@@ -2787,6 +2787,18 @@ Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Isert
 
 ### IOWN Global Forum
 
+Tau Leng (Supermicro)
+
+<a id="349"></a>
+
+2024/10/29 Navigating the Digital Tsunami: IOWN as the Lighthouse - Redefining Data Center Infrastructure for an Al-Driven World
+
+[YouTube](https://youtu.be/N5KoXgU-mas?si=8A9T29auuOmXAurJ&t=3203)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/349)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPO CXL DCI DLC GPU IOWN JBOD NTT OCP PCIe TSMC
+
 Tzi-cker Chiueh (Delta Electronics)
 
 <a id="348"></a>
