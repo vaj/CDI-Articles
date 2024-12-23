@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 280 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 281 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3549,6 +3549,18 @@ Charles Fan (MemVerge)
 [Text](https://github.com/vaj/CDI-Info/blob/main/313)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM CEO CPU CXL DDR DGX DRAM DS GISMO GPU IO IP InfiniBand KV MemVerge NVIDIA NVLink OCP PCIe PyTorch RAG SRAM TCP TPC UALink UltraEthernet YouTube
+
+Gaurav Agarwal (Marvell)
+
+<a id="351"></a>
+
+2024/10/23 [CXL Near Memory Compute - Accelerate Hyperscale Workloads Efficiently](https://drive.google.com/file/d/1evFEQBibCEFsaORplJ0G88PAkaxg_uJH/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=J16arolC3fQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/351)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM CMS CPU CXL CXL.mem DDR5 DLRM DRAM GPU HBM KV LLM LZ4 MFU ML MLP NMC NVIDIA OCP PCI POC SIMD SLS XPU
 
 Glenn Ge (TetraMem)
 
