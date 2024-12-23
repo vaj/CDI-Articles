@@ -2787,6 +2787,18 @@ Richard Graham (NVIDIA), Oscar Hernandez (Oak Ridge National Lab.), Sergio Isert
 
 ### IOWN Global Forum
 
+Katsutoshi Itoh (Sony) and Masahisa Kawashima (NTT Corporation)
+
+<a id="350"></a>
+
+2024/10/29 Use Cases and Recognized Proof of Concept (PoC): Recent Activity Highlights
+
+[YouTube](https://youtu.be/N5KoXgU-mas?si=Su-Vx_nXGEvsxFF8&t=2195)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/350)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI APN GPU IOWN IT NTT NVIDIA PoC RAN SK
+
 Tau Leng (Supermicro)
 
 <a id="349"></a>
