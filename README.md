@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 281 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 282 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2848,6 +2848,18 @@ Alejandro Lucero (AMD)
 [Text](https://github.com/vaj/CDI-Info/blob/main/337)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI API ATS BIOS CPU CXL CXL.cache CXL.mem DAX DMA HDM IOMMU PCI PCIe TLB TLP VM
+
+Davidlohr Bueso (Samsung)
+
+<a id="352"></a>
+
+2024/10/08 [libcximi a CXL Management Interace library](https://lpc.events/event/18/contributions/1876/attachments/1441/3072/lpc24-dbueso-libcxlmi.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=j8hJVnvy73Q)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/352)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AD BMC CCI CLI CXL DCD GFAM LD MCTP MLD NVMe OS PC PCI QEMU RC SMBus VDM
 
 Ira Weiny (Intel), Jonathan Cameron (Huawei) and Navneet Singh (Intel)
 
