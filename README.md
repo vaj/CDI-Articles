@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 282 disaggregated computing articles published on the website between March 2017 and October 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 283 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4095,6 +4095,18 @@ Andy Banta (Magnition IO)
 [Text](https://github.com/vaj/CDI-Info/blob/main/258)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CXL DDR DRAM HBM HPC HTTP LinkedIn MQSim NUMA NVMe PCI RAM SCSI SDC SDXI SNIA SSD URL VMware YouTube iSCSI vSCSI
+
+Andy Banta (Magnition IO), Grant Mackey (Jackrabbit Labs) and Craig Carlson (AMD)
+
+<a id="353"></a>
+
+2024/11/18 [Designing and Optimizing Complex CXL Configurations](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Banta-Mackey-Carlson-Designing-Optimizing-Complex-CXL.pdf)
+
+[YouTube](https://youtu.be/5IMss2wpoFs?si=3kksbPGcHxrp2TOR)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/353)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CLI CPU CSE CTO CXL DCD DDR DNA DRAM FMAPI FMS GPU GitHub IO InfiniBand NUMA NVMe PCI PCIe QEMU QR RAM SDXI SNIA SSD VM YouTube
 
 Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 
