@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 283 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 284 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3857,6 +3857,18 @@ Sam Kocsis (Amphenol)
 [Text](https://github.com/vaj/CDI-Info/blob/main/225)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CAD CLA FSA HGX HPC IP ML MSA NVIDIA OAI OCP PCIE PCIe SFF
+
+Sangsu Park (Samsung) and Changho Choi (Samsung)
+
+<a id="354"></a>
+
+2024/10/23 [Redefining Memory Boundaries with Samsung's CMM-DC, Showcasing Innovative Processing-Near Memory Technology](https://drive.google.com/file/d/1Pt0KczVaw4s4jiH1MoI1cXRQJJWNVrmX/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=vJYSLCUJj5s)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/354)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API AxDIMM BIOS CMM CMMD CMMDC CMMH CMS CPU CXL CXL.io CXL.mem DC DCC DIMM DLRM DRAM GPU HANA HBM IP ML NAND OCP PIM PNM PyTorch REST SAP TCO TPCDS UXL XPU
 
 Saurabh Kulkarni (Intel)
 
