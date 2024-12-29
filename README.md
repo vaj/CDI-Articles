@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 284 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 285 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2836,6 +2836,18 @@ Adam Manzanares (Samsung)
 [Text](https://github.com/vaj/CDI-Info/blob/main/344)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ARM CPU CXL DAX DC DCD DMA HDM KVM LBA MCTP MMIO NUMA NVMe OS PCI PCIe QEMU RAM SDXI VM VMware
+
+Adam Manzanares (Samsung) and Viacheslav Dubeyko (IBM)
+
+<a id="355"></a>
+
+2024/10/08 [CXL Benchmarking](https://lpc.events/event/18/contributions/1875/attachments/1385/3013/cxl-benchmarking-LPC-2024-22-07-2024-v2.pptx.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=gcKbGNiU7DE)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/355)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BIOS C2C CXL DCPerf DRAM GH200 HBM NUMA NVIDIA PCI PHY RAM TCO
 
 Alejandro Lucero (AMD)
 
