@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 285 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 286 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4167,6 +4167,18 @@ David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMw
 [Text](https://github.com/vaj/CDI-Info/blob/main/242)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM BIOS CAPEX CMM CMMH CPU CXL CXL.io CXL.mem DRAM ESX ESXi FPGA HammerDB IP ML NAND NVMe OEM OLTP OPEX PCI RAM SSD TCO TPCC VDI VM VM1 VM3 VM4 VMotion VMware VSA
+
+Heiner Litz (UCSC) and Andrew Quinn (UCSC)
+
+<a id="356"></a>
+
+2024/11/18[Optimized Resource Allocation for CXL Tiered-Memory Systems](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Litz-Quinn-Optimized-Resource-Allocation-for-CXL-Tiered.pdf)
+
+[YouTube](https://youtu.be/nC73P8G_Ahc?si=t-BBHS-BQ5h_Zltw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/356)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CDF CFM CPU CRSS CXL DRAM EPVM FIFO LLC MLP MS NUMA PMU PhD RC TCO TMC UC US
 
 Jason Molgaard (Solidigm)
 
