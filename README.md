@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 286 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 287 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3753,6 +3753,18 @@ Myoungseo Kim (Sk Hynix), Grant Mackey (Jackrabbit Labs), Anjaneya "Reddy" Chaga
 [Text](https://github.com/vaj/CDI-Info/blob/main/331)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CCI CMS CPU CXL DCD DCMFM DDR4 DDR5 DRAM EMR FPGA HTML NUMA OCP SK YAML
+
+Nara Vijay (Meta) and Klas Moreau (Zeropoint Technologies)
+
+<a id="357"></a>
+
+2024/10/23 [Integrating CMS Memory Solution with Al and Caching Services](https://drive.google.com/file/d/1TK-QSdX1kb0C2fHprsFUpZd63wJmUAvS/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=N3MBj5K12A0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/357)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CEO CMS CPU CXL CacheBench CacheLib DCD DRAM FBGEMM FPGA GEMM GPU HBM LC4 OCP PCIe TCO ZeroPoint
 
 Nigel Alvares (Marvell), Chris Petersen (Astera Labs), TaekSang Song (Samsung) and James Kelly (OCP)
 
