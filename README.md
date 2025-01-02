@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 287 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 288 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3573,6 +3573,18 @@ Charles Fan (MemVerge)
 [Text](https://github.com/vaj/CDI-Info/blob/main/313)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM CEO CPU CXL DDR DGX DRAM DS GISMO GPU IO IP InfiniBand KV MemVerge NVIDIA NVLink OCP PCIe PyTorch RAG SRAM TCP TPC UALink UltraEthernet YouTube
+
+Chris Petersen (Astera Labs) and Prakash Chauhan (Meta)
+
+<a id="358"></a>
+
+2024/10/23 [Launching CXL Memory in Hyperscale Deployments with a Holistic CXL Ecosystem](https://drive.google.com/file/d/1CvthMln8YpHc4h6LIfgWRne7bNSC4XdI/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=oXYLYipaFJI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/358)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AER AMD ARM ASIC BIOS BMC CLI CPU CXL CXL.io DDR4 DDR5 DIMM DRAM FRU IDE MCTP OCP OS OpenBMC RAS TCO UART
 
 Gaurav Agarwal (Marvell)
 
