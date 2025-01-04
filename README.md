@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 288 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 289 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3753,6 +3753,18 @@ Michael Ocampo (Astera Labs) and Ahmed Medihoub (Astera Labs)
 [Text](https://github.com/vaj/CDI-Info/blob/main/342)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ARIES CMS CPU CXL CXL.cache ChatGPT DDR5 DIMM DLRM EPYC GPT GPU IO KV LEO LLM NVIDIA NVMe OCP OPT PCIe SSD
+
+Mohamad El-Batal (Seagate) and Hongjian Fan (Seagate)
+
+<a id="359"></a>
+
+2024/10/23 [Composable Memory Appliance (CMA) & Composability Fabric Manager (CFM) Solution](https://drive.google.com/file/d/1i8kBsBfRGjNqnTQqJ9upC-Xm9o56Y2Y5/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=jhEliHyr9MU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/359)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AIC API ASIC BMC CFM CLA CLI CMA CMS CTO CXL DCD DIMM DMTF FPGA GUI NUMA OCP PCIe SIG UI
 
 Myoungseo Kim (Sk Hynix), Grant Mackey (Jackrabbit Labs), Anjaneya "Reddy" Chagam (Intel) and Vikrant Soman (Uber)
 
