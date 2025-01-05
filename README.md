@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 289 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 290 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -3561,6 +3561,18 @@ Arvind Jagannath (VMware) and Sudhir Balasubramanian (VMware)
 [Text](https://github.com/vaj/CDI-Info/blob/main/327)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL CXL.mem DDR DRAM ESX GA NVMe PCIe ROI SQL TCO VDI VM VMmark VMware VSI
+
+Brian Hirano (OCP Independant Contributor) and Nam Sung Kim (University Of Illinois Urbana-Champaign)
+
+<a id="360"></a>
+
+2024/10/23 [CMS Academic Interactions: Where we are and where we need to go](https://drive.google.com/file/d/1Xm0wO3UBRo03rSGiekhfa4jEIz8p8iSO/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=BIoAM0NZBLE)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/360)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CEO CMS CMU CSF CXL ChatGPT EDA IP ISCA IT MICRO MIT NDA NSF OCP PIA PhD SDC USPTO VLSI
 
 Charles Fan (MemVerge)
 
