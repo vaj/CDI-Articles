@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 290 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 291 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4239,6 +4239,18 @@ Jason Molgaard (Solidigm)
 [Text](https://github.com/vaj/CDI-Info/blob/main/256)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AFDM CDN CMB CPU CSA CSEE CSF CSP CSx CXL CXL.io CXL.mem DMA DRAM DWORD FDM FPGA GZIP HDM IO MMIO NVM NVMe PC PCIe PMR SLM SNIA SSD TWG UIO VM
+
+Jason Molgaard (Solidigm), Shyam Iyer (Dell), Frederick Knight (KIOXIA), Mats Oberg (Marvell Technology) and Bill Lynn (AMD)
+
+<a id="361"></a>
+
+2024/11/18 [SDXI + Computational Storage Overview And Panel Discussion](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Iyer-Knight-Lynn-Molgaard-Oberg-SDXI-Computational-Storage-Overview.pdf)
+
+[YouTube](https://youtu.be/O5_COTXN8T0?si=0huclpEMIWtwynS8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/361)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API ARM CMB CPU CRC CSEE CSF CTO CXL ChatGPT DMA DPU DRAM DSA FPGA GPU GUID HBM HEVC IO ML NUMA NVM NVMe OCP PCIe PI RAM RocksDB SDC SDXI SLM SNIA SmartNIC TCO TWG VP YouTube
 
 Jim Handy (Objective Analysis)
 
