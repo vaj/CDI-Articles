@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 291 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 292 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4179,6 +4179,18 @@ Andy Banta (Magnition IO), Grant Mackey (Jackrabbit Labs) and Craig Carlson (AMD
 [Text](https://github.com/vaj/CDI-Info/blob/main/353)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CLI CPU CSE CTO CXL DCD DDR DNA DRAM FMAPI FMS GPU GitHub IO InfiniBand NUMA NVMe PCI PCIe QEMU QR RAM SDXI SNIA SSD VM YouTube
+
+Bill Gervasi (Wolley)
+
+<a id="362"></a>
+
+2024/11/18 [NVMe Over CXL is much more than just an SSD](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/NVMe%20Over%20CXL%20-%20SNIA%20SDC%202024%20-%20SNIA-SDC2024-Gervasi-NVMe-Over-CXL.pdf)
+
+[YouTube](https://youtu.be/p-9vuEbZzq4?si=EO-ANt1bkZH03zMv)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/362)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ASIC CMB CPU CXL DAX DDR DDR3 DDR4 DDR5 DIMM DMA DOE DRAM FMS FPGA HBM HDM IBM IO LLM MRDIMM MemVerge NAND NVDIMM NVMe PC PCIe PHY RAM RAS RDIMM RFI SDC SSD UC USB
 
 Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 
