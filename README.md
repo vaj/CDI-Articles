@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 292 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 293 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4407,6 +4407,16 @@ Shyam Iyer (Dell)
 [Text](https://github.com/vaj/CDI-Info/blob/main/249)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPU CRC CS CXL DIF DMA DRAM FPGA GPU ML MemCon NVM NVMe OEM OS POSIX PoC QR SDXI SNIA TWG YouTube
+
+<a id="363"></a>
+
+2024/11/18 [Smart Data Accelerator Interface Use Cases Proof Points v1.1 and beyond](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Iyer-Smart-Data-Accelerator-Interface_0.pdf)
+
+[YouTube](https://youtu.be/W24NTa5E0WE?si=nCivJ26tOGQqjHjW)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/363)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AI API CPU CRC CXL DMA DRAM GUID HBM IO IOV MMIO MemCon NVMe PCI PCIe PI POSIX SDXI SIG SNIA VM
 
 Steven Yuan (StorageX.ai)
 
