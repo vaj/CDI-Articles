@@ -3742,6 +3742,18 @@ Kurtis Bowman (Amd) and Fangzhi Wen (Alibaba)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CDU CPU FMS GPU IP OS PHY UAL UALink UEC
 
+Manoj Wadekar (Meta), Nilesh Shah (Zeropoint Technologies), Siamak Tavallaei (Samsung) and Samir Rajadnya (Microsoft)
+
+<a id="364"></a>
+
+2024/10/23 Shaping the Future of Interconnects and Memory Fabric for Open AI Systems
+
+[YouTube](https://www.youtube.com/watch?v=JwSeMEmpxT8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/364)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CMS CPU CXL GPU HBM JEDEC NVLink OCP PCI PCIe RDMA SK TCO UAL UALink UCIE UCIe
+
 Manoj Wadekar (Meta) and Samir Rajadnya (Microsoft)
 
 <a id="332"></a>
