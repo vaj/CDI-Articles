@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 293 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 294 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2896,6 +2896,18 @@ John Groves (Micron Technology)
 [Text](https://github.com/vaj/CDI-Info/blob/main/335)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CSV CXL DAX DCD DPA DRAM DevOps FAMFS FMS FSDAX GPU GitHub HP LSFMM LSM NUMA RAM RAMFS RAS RFC RocksDB UUID VM XFS
+
+Manivannan Sadhasivam (Linaro)
+
+<a id="365"></a>
+
+2024/10/08 [PCI Endpoint Subsystem Open Items Discussion](https://lpc.events/event/18/contributions/1695/attachments/1415/3060/PortDrv%20Way%20Forwards%20LPC2024%20Version%200.2.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=sV0WOE6gVLs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/365)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BAR EPF IMS IOMMU MSI MSIX NVMe PC PCI QEMU SOC SPDM
 
 Robert Richter(AMD), Terry Bowman(AMD) and Srinivasulu Thanneeru(Micron)
 
