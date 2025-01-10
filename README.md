@@ -2901,7 +2901,7 @@ Manivannan Sadhasivam (Linaro)
 
 <a id="365"></a>
 
-2024/10/08 [PCI Endpoint Subsystem Open Items Discussion](https://lpc.events/event/18/contributions/1695/attachments/1415/3060/PortDrv%20Way%20Forwards%20LPC2024%20Version%200.2.pdf)
+2024/10/08 [PCI Endpoint Subsystem Open Items Discussion](https://lpc.events/event/18/contributions/1683/attachments/1461/3102/LPC24%20-%20PCI%20Endpoint%20Subsystem%20Open%20Items%20Discussion.pdf)
 
 [YouTube](https://www.youtube.com/watch?v=sV0WOE6gVLs)
 
