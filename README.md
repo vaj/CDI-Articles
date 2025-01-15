@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 294 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 295 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2903,7 +2903,7 @@ Manivannan Sadhasivam (Linaro)
 
 2024/10/08 [PCI Endpoint Subsystem Open Items Discussion](https://lpc.events/event/18/contributions/1683/attachments/1461/3102/LPC24%20-%20PCI%20Endpoint%20Subsystem%20Open%20Items%20Discussion.pdf)
 
-[YouTube](https://www.youtube.com/watch?v=sV0WOE6gVLs)
+[YouTube](https://youtu.be/8R247YCoe94?si=jQGQTS7gy8N8vmlC)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/365)
 
@@ -4287,6 +4287,18 @@ Jason Molgaard (Solidigm), Shyam Iyer (Dell), Frederick Knight (KIOXIA), Mats Ob
 [Text](https://github.com/vaj/CDI-Info/blob/main/361)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API ARM CMB CPU CRC CSEE CSF CTO CXL ChatGPT DMA DPU DRAM DSA FPGA GPU GUID HBM HEVC IO ML NUMA NVM NVMe OCP PCIe PI RAM RocksDB SDC SDXI SLM SNIA SmartNIC TCO TWG VP YouTube
+
+Jason Molgaard (Solidigm) and William Martin (Samsung)
+
+<a id="366"></a>
+
+2024/11/18 [SNIA Computational Storage Standards](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Martin-Molgaard-SNIA-Computational-Storage-Standards_0.pdf)
+
+[YouTube](https://youtu.be/pmg2ZYyZmio?si=uLkiYhK0eYim2eF5)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/366)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API BAR CMB CPU CSD CSE CSEE CSF CSP CSS CSx DMA FDM FMS FPGA HDD IO KV MMU NVM NVMe PCIe QR SDXI SLM SNIA SSD TWG UC ZNS
 
 Jim Handy (Objective Analysis)
 
