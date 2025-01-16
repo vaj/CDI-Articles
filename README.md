@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 295 disaggregated computing articles published on the website between March 2017 and November 2024, by date of publication, title, and author (organization and name listed).
+This document contains links to 296 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -88,6 +88,7 @@ All titles are in English, regardless of the language in which they were written
     - [The Linux Foundation](#the-linux-foundation-1)
     - [USENIX](#usenix)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
+  - [2025](#2025)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
 
@@ -4615,6 +4616,20 @@ Tomoaki Sato
 2024/07/18 [Enhance your own external memory with local LLMs and RAGs!](https://valinux.hatenablog.com/entry/20240718)
 
 2024/11/05 [Enhance your own external memory with local LLMs and RAGs! (2)](https://valinux.hatenablog.com/entry/20241105)
+
+## 2025
+
+Liang Yan (CoreWeave)
+
+<a id="367"></a>
+
+2025/01/15 [ATS vs IOMMU-regroup: A journey to optimize GDRDMA in cloud scenario](https://lpc.events/event/18/contributions/1685/attachments/1424/3047/ATS%20vs%20IOMMU-lyan.pdf)
+
+[YouTube](https://youtu.be/SuZtuLCqRU8?si=fVaisPMYZT6O7Opm)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/367)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACS AI AMD API ATS BAR C2C CPU CXL DMA DPU GDRDMA GH200 GPU HBM HMM HPC IOMMU IOMMUFD MMU NCCL NUMA NVIDIA NVLink NVMe P2P PCI PCIe PRS RDMA SMC TLB TTM UPI VFIO VM
 
 ## APPENDIX
 
