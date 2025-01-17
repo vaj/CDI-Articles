@@ -89,6 +89,7 @@ All titles are in English, regardless of the language in which they were written
     - [USENIX](#usenix)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
   - [2025](#2025)
+    - [Linux Plumbers Conference](#linux-plumbers-conference-4)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
 
@@ -4618,6 +4619,8 @@ Tomoaki Sato
 2024/11/05 [Enhance your own external memory with local LLMs and RAGs! (2)](https://valinux.hatenablog.com/entry/20241105)
 
 ## 2025
+
+### Linux Plumbers Conference
 
 Liang Yan (CoreWeave)
 
