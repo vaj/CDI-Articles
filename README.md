@@ -4622,6 +4622,18 @@ Tomoaki Sato
 
 ### Linux Plumbers Conference
 
+Jason Gunthorpe (NVIDIA)
+
+<a id="368"></a>
+
+2025/01/15 [IOMMUFD & Generic Page Table Discussion](https://lpc.events/event/18/contributions/1789/attachments/1460/3100/LPC2024_iommufd.pdf)
+
+[YouTube](https://youtu.be/ZkzqRznaR44?si=oCCC0hvxnW53ilBu)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/368)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AI AMD API ARM BBM CPU CUT DMA DPDK IO IOMMU IOMMUFD IOVA KVM MMIO NVMe PCI PGD PMD PRI PT PTE PUD QEMU RCU RFC SIOV SMMU SVA TDISP TLB VDPA VDT VFIO VIOMMU VM VSVA
+
 Liang Yan (CoreWeave)
 
 <a id="367"></a>
