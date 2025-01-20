@@ -89,6 +89,7 @@ All titles are in English, regardless of the language in which they were written
     - [USENIX](#usenix)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
   - [2025](#2025)
+    - [IOWN Global Forum](#iown-global-forum-2)
     - [Linux Plumbers Conference](#linux-plumbers-conference-4)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
@@ -4619,6 +4620,18 @@ Tomoaki Sato
 2024/11/05 [Enhance your own external memory with local LLMs and RAGs! (2)](https://valinux.hatenablog.com/entry/20241105)
 
 ## 2025
+
+### IOWN Global Forum
+
+Chris Wright (Red Hat)
+
+<a id="369"></a>
+
+[YouTube](https://youtu.be/wYg552AAlpY?si=p94w7q7rpAJlZEFR)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/369)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CXL IOWN
 
 ### Linux Plumbers Conference
 
