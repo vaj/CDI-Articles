@@ -4627,6 +4627,8 @@ Chris Wright (Red Hat)
 
 <a id="369"></a>
 
+2025/01/18 Red Hat's Chris Wright Reflects on the IOWN Global Forum's 5th Anniversary
+
 [YouTube](https://youtu.be/wYg552AAlpY?si=p94w7q7rpAJlZEFR)
 
 [Text](https://github.com/vaj/CDI-Info/blob/main/369)
