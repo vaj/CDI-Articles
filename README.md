@@ -4637,6 +4637,18 @@ Chris Wright (Red Hat)
 
 ### Linux Plumbers Conference
 
+lipo Järvinen (Intel)
+
+<a id="370"></a>
+
+2025/1/15 [PCle Bandwidth Controller](https://lpc.events/event/18/contributions/1902/attachments/1406/3086/lpc2024_bwctrl_slides.pdf)
+
+[YouTube](https://youtu.be/04ejb9GcmbI?si=JKz8QIa64fkQQN8K)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/370)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API LBMS PCI PCIe VFIO
+
 Jason Gunthorpe (NVIDIA)
 
 <a id="368"></a>
