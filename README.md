@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 296 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 298 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4254,6 +4254,18 @@ David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMw
 [Text](https://github.com/vaj/CDI-Info/blob/main/242)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM BIOS CAPEX CMM CMMH CPU CXL CXL.io CXL.mem DRAM ESX ESXi FPGA HammerDB IP ML NAND NVMe OEM OLTP OPEX PCI RAM SSD TCO TPCC VDI VM VM1 VM3 VM4 VMotion VMware VSA
+
+Eriko Nurvitadhi (MangoBoost) and Craig Carlson (AMD)
+
+<a id="371"></a>
+
+2024/11/18 [Accelerating GPU Server Access to Network-Attached Disaggregated Storage using Data Processing Unit (DPU)](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Nurvitadhi-Carlson-Accelerated-GPU-Server-Access_1.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=UwxQkOQ8_2s)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/371)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD AMX API ARM ASIC CPU CUDA ChatGPT ConnectX DPU DSP DeepSpeed ETA FIO FPGA GPU GitHub HBM HIP HPC IO IP IPU InfiniBand LLM MI210 MI300 NIC NPU NVMe PCIe POSIX PyTorch RDMA ROCm RoCE SOC SPDK SSD SmartNIC TCP TPCXAI smartNIC
 
 Heiner Litz (UCSC) and Andrew Quinn (UCSC)
 
