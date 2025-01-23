@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 298 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 299 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4230,6 +4230,16 @@ Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 [Text](https://github.com/vaj/CDI-Info/blob/main/248)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CS CSE CSEE CSF CSx FMS NVMe OS SDXI SNIA TWG
+
+<a id="372"></a>
+
+2024/11/18 [Host Addressable SLM](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Martin-Molgaard-Host-Addressable-SLM-NVMe-%20and-CXL-Collaborating.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=-59Punn7qIo)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/372)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BAR CMB CPU CSD CXL CXL.io CXL.mem DMA HDM HPA IO IOMMU MMIO NVM NVMe OCP OS PCI PCIe PMR QR RAID SLM SNIA SSD UIO
 
 David Emberson (HPE)
 
