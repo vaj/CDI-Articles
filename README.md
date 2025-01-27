@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 299 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 300 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4264,6 +4264,18 @@ David McIntyre (Samsung), Sudhir Balasubramanian (VMware), Arvind Jagannath (VMw
 [Text](https://github.com/vaj/CDI-Info/blob/main/242)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI ARM BIOS CAPEX CMM CMMH CPU CXL CXL.io CXL.mem DRAM ESX ESXi FPGA HammerDB IP ML NAND NVMe OEM OLTP OPEX PCI RAM SSD TCO TPCC VDI VM VM1 VM3 VM4 VMotion VMware VSA
+
+Donpaul Stephens (AirMettle)
+
+<a id="373"></a>
+
+2024/11/18 [Computational Storage Service](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Stephens-Computational-Storage-Service-Analytical-Data-Platform.pdf)
+
+[YouTube](https://youtu.be/QApFU547fYE?si=TPxDImnfIl7OWumS)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/373)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ADBC AI API CDF CDF4 CEO CMB CSV DRAM FPGA HDF5 IBM JSON LBA NVMe PhD RAID SIEM SQL SSD SSE ScaleFlux US XOR
 
 Eriko Nurvitadhi (MangoBoost) and Craig Carlson (AMD)
 
