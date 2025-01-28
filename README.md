@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 300 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 301 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4182,6 +4182,18 @@ Ahmed Medhioub (Astera Labs)
 [Text](https://github.com/vaj/CDI-Info/blob/main/244)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CEM CFD CPU CXL CXL.cache CXL.io CXL.mem DCMHS DDR DDR5 DIMM DPC DRAM EDA GenAI IO JBOM LEO MDNO MXIO NUMA OCP OLAP OLTP OS PCIe RAS RecSys SFF SFFTA SNIA SQL TA TPC
+
+Andrew Maier (Eideticom)
+
+<a id="374"></a>
+
+2024/11/18 [Accelerate Everything](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Maier-Enabling-P2P-Traffic-NoLoad_0.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=T3HwNEMwePg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/374)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACS AI AMD API ATS BAR CMB CMBMCS CPU DMA DMTF DPU DRAM FIO GPU HBM IOMMU KIOXIA LBA LZ4 MPS MSC NI NIC NUMA NVIDIA NVMe P2P P2PDMA PCI PCIe PRP RAM RDMA SIG SPDM SSD SmartNIC TLP
 
 Andy Banta (Magnition IO)
 
