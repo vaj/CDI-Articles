@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 301 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 302 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4432,6 +4432,18 @@ Manoj Wadekar (Meta)
 [Text](https://github.com/vaj/CDI-Info/blob/main/251)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI C2C CPU CXL DAG DRAM GPU GeneAI HBM InfiniBand JEDEC NVLink NVswitch OCP PCI PCIe RDMA RoCE SNIA WhatsApp
+
+Mohinder Saluja (KIOXIA)
+
+<a id="375"></a>
+
+2024/11/18 [Data Redundancy and Scrubbing with RAID Offload](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Saluja-Redefining-Data-Redundancy-and-Data-Scrubbing-with-RAID-offload_0.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=RkqMDjW8Rwk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/375)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CMB CPU DDR DMA DMAC DPU DRAM FMS FPGA GPU HBM IO KIOXIA LFS NVMe NVRAM PCI PCIe PRP PoC RAID RAM RDMA SDXI SGL SRAM SSD XOR XPU
 
 Nathan Hanford (Lawrence Livermore National Laboratory)
 
