@@ -4433,7 +4433,7 @@ Manoj Wadekar (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI C2C CPU CXL DAG DRAM GPU GeneAI HBM InfiniBand JEDEC NVLink NVswitch OCP PCI PCIe RDMA RoCE SNIA WhatsApp
 
-Mohinder Saluja (KIOXIA)
+Mahinder Saluja (KIOXIA)
 
 <a id="375"></a>
 
