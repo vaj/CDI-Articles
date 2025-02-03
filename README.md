@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 303 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 304 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -92,6 +92,7 @@ All titles are in English, regardless of the language in which they were written
   - [2025](#2025)
     - [IOWN Global Forum](#iown-global-forum-2)
     - [Linux Plumbers Conference](#linux-plumbers-conference-4)
+    - [SNIA](#snia-5)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
 
@@ -4745,6 +4746,20 @@ Liang Yan (CoreWeave)
 [Text](https://github.com/vaj/CDI-Info/blob/main/367)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACS AI AMD API ATS BAR C2C CPU CXL DMA DPU GDRDMA GH200 GPU HBM HMM HPC IOMMU IOMMUFD MMU NCCL NUMA NVIDIA NVLink NVMe P2P PCI PCIe PRS RDMA SMC TLB TTM UPI VFIO VM
+
+### SNIA
+
+Kyle Bader (IBM), Phil Williams (Canonical) and Michael Hoard (SNIA)
+
+<a id="377"></a>
+
+2025/01/31 [Ceph Storage in a World of AI/ML Workloads](https://www.snia.org/sites/default/files/CSI/Ceph%20Storage%20in%20a%20World%20of%20AI_ML%20Workloads.pdf)
+
+[YouTube](https://youtu.be/S_0p4TNBbHU?si=fLac61jtDXsXOUW6)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/377)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIOps API AWS CERN CPU CST CSV DLRM GFS GPT GPU GitHub HTML IBM IO IT IoT KVM ML MapReduce NFS NVIDIA NVMe OpenStack PCI POSIX PyTorch QAT QEMU RAG RAM RBD SAS SMB SNIA STS TCO TF TLC TPCDS iSCSI
 
 ## APPENDIX
 
