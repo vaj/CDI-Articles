@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 302 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 303 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -74,6 +74,7 @@ All titles are in English, regardless of the language in which they were written
     - [HOTI](#hoti)
     - [Intel](#intel-1)
     - [IOWN Global Forum](#iown-global-forum-1)
+    - [KVM Forum](#kvm-forum)
     - [Linux Plumbers Conference](#linux-plumbers-conference-3)
     - [Liqid](#liqid)
     - [Memory Fabric Forum](#memory-fabric-forum)
@@ -2825,6 +2826,20 @@ Tzi-cker Chiueh (Delta Electronics)
 [Text](https://github.com/vaj/CDI-Info/blob/main/348)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ASIC CPU CXL CXL.cache CXL.io DMA DRAM FPGA GPU IOWN NIC PCI PCIe SK SSD XConn
+
+### KVM Forum
+
+Zhi Wang (NVIDIA)
+
+<a id="376"></a>
+
+2024/09/24 [vfio-cxl: CXL Type 2 Device Passthrough With VFIO](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWh1X0R0VHFKZmMtUE9ObmVVYW5kZ0txVEQyUXxBQ3Jtc0tuRDNUakZNb3pkU2UyZEpmUFFtMUdJeC1mb3NvdzNFTzVlWUhfZ3h6R1EwVFZidkxXQ0ZGblA3aFd2czA4Y2dBaVdBU2UtLUlzZ3NiUUU3aUJXa01nZjhlN0xJNlBKMHlXUVVuaGVNZUhoaDVxSDFTSQ&q=https%3A%2F%2Fpretalx.com%2Fmedia%2Fkvm-forum-2024%2Fsubmissions%2F8W8ALY%2Fresources%2Fvfio-cxl-kvm-forum_NFQRu6f.pdf&v=e5OW1pR84Zs)
+
+[YouTube](https://youtu.be/e5OW1pR84Zs?si=amRtyRaFXPNm2wT2)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/376)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACL AMD ARB BAR CXL CXL.cache CXL.io CXL.mem DOE DPA DVSEC FD GPA HDM HPA IO LPC MESI MMIO MSI MSIX MUX NVIDIA PCB PCI PCIe PF QEMU RAM RAS RFC UABI VFIO
 
 ### Linux Plumbers Conference
 
