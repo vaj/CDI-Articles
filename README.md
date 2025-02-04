@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 304 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 305 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2737,6 +2737,18 @@ Robert Blankenship (Intel) and Mahesh Wagh (AMD)
 [Text](https://github.com/vaj/CDI-Info/blob/main/178)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CPU CXL CXL.cache CXL.io CXL.mem DCD DDR DDR4 DDR5 DDR6 DRS ECN GFAM GIM GPGPU GPU H2H HBR HDMDB HDMH HPE IDE IO IP MC NDR NIC NVIDIA P2P PBR PCI PCIe PGAS RAS S2M TEE TSP UI UIO VM
+
+Steve Scargall (MemVerge)
+
+<a id="378"></a>
+
+2024/12/20 [Breaking Memory Barriers: CXL's Game-Changing Impact on Al/ML](https://computeexpresslink.org/wp-content/uploads/2024/12/CXL-Breaking-Memory-Barriers-Webinar.pdf)
+
+[YouTube](https://youtu.be/nKm8NYk6FfI?si=qwfraNgApyCTHqcf)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/378)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BF16 CHMU CMMB CPU CUDA CXL DBMS DCD DMA DRA DRAM FAMFS GISMO GPU GitHub KV LLM ML MLC MemVerge NUMA NVIDIA OCP POC PyTorch QEMU RAG RAS SK TPCC TPP TSP TensorFlow UAT XFS YouTube
 
 ### HOTI
 
