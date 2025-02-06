@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 305 disaggregated computing articles published on the website between March 2017 and January 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 305 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -93,6 +93,7 @@ All titles are in English, regardless of the language in which they were written
     - [IOWN Global Forum](#iown-global-forum-2)
     - [Linux Plumbers Conference](#linux-plumbers-conference-4)
     - [SNIA](#snia-5)
+    - [Tech Field Day](#tech-field-day)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
 
@@ -4772,6 +4773,20 @@ Kyle Bader (IBM), Phil Williams (Canonical) and Michael Hoard (SNIA)
 [Text](https://github.com/vaj/CDI-Info/blob/main/377)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIOps API AWS CERN CPU CST CSV DLRM GFS GPT GPU GitHub HTML IBM IO IT IoT KVM ML MapReduce NFS NVIDIA NVMe OpenStack PCI POSIX PyTorch QAT QEMU RAG RAM RBD SAS SMB SNIA STS TCO TF TLC TPCDS iSCSI
+
+### Tech Field Day
+
+Steve Scargall (MemVerge)
+
+<a id="379"></a>
+
+2025/02/04 Introducing MemVerge Memory Machine Al
+
+[YouTube](https://youtu.be/I7lAqkrUKRg?si=wSC9ezLw_BCFgGp3)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/379)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API CEO CPU CUDA CXL DIMM DevOps GPU HBM HPC IT MIG MMAI MMU MPS MPS MSP MemVerge NIM NVIDIA PyTorch QAT RAM RBAC SM SRDF SaaS TCP UI VMware
 
 ## APPENDIX
 
