@@ -4776,6 +4776,18 @@ Kyle Bader (IBM), Phil Williams (Canonical) and Michael Hoard (SNIA)
 
 ### Tech Field Day
 
+Charles Fan (MemVerge)
+
+<a id="380"></a>
+
+2025/02/04 Supercharging AI Infrastructure with MemVerge Memory Machine AI
+
+[YouTube](https://youtu.be/nBLrEo2kbL4?si=oTgEnKsRlpgKEg5I)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/380)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API CEO CPU CUDA CXL DDR DRS ESX GPU GenAI IDE IP IT MIG MPS MPS MSP MemVerge NVIDIA NVLink OpenAI RAG TCP UALink VMware
+
 Steve Scargall (MemVerge)
 
 <a id="379"></a>
