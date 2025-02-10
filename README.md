@@ -4776,6 +4776,18 @@ Kyle Bader (IBM), Phil Williams (Canonical) and Michael Hoard (SNIA)
 
 ### Tech Field Day
 
+Bernie Wu (MemVerge)
+
+<a id="381"></a>
+
+2025/02/04 MemVerge Memory Machine AI Transparent Checkpointing
+
+[YouTube](https://youtu.be/LYGT99FN6-A?si=Y8JuHmBc1tJ06wZt)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/381)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPU CRD CUDA GPU GTC HPC InfiniBand KubeCon LLM MMAI MemVerge NVIDIA NVLink PyTorch RAG RDMA SRDF TensorFlow VM VP
+
 Charles Fan (MemVerge)
 
 <a id="380"></a>
