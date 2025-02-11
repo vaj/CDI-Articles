@@ -4800,6 +4800,18 @@ Charles Fan (MemVerge)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API CEO CPU CUDA CXL DDR DRS ESX GPU GenAI IDE IP IT MIG MPS MPS MSP MemVerge NVIDIA NVLink OpenAI RAG TCP UALink VMware
 
+Charles Fan (MemVerge) and Steve Yatko (Oktay Technology)
+
+<a id="381"></a>
+
+2025/02/04 MemVerge Fireside Chat with Steve Yatko of Oktay
+
+[YouTube](https://youtu.be/FPcsTFX8lDA?si=DFWds5czaGc_mqJu)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/382)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CTO GPU HPC IT IoT MIG MemVerge NVIDIA US VMware
+
 Steve Scargall (MemVerge)
 
 <a id="379"></a>
