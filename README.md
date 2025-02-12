@@ -92,6 +92,7 @@ All titles are in English, regardless of the language in which they were written
   - [2025](#2025)
     - [IOWN Global Forum](#iown-global-forum-2)
     - [Linux Plumbers Conference](#linux-plumbers-conference-4)
+    - [NextGenInfra](#nextgeninfra)
     - [SNIA](#snia-5)
     - [Tech Field Day](#tech-field-day)
   - [APPENDIX](#appendix)
@@ -4759,6 +4760,20 @@ Liang Yan (CoreWeave)
 [Text](https://github.com/vaj/CDI-Info/blob/main/367)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACS AI AMD API ATS BAR C2C CPU CXL DMA DPU GDRDMA GH200 GPU HBM HMM HPC IOMMU IOMMUFD MMU NCCL NUMA NVIDIA NVLink NVMe P2P PCI PCIe PRS RDMA SMC TLB TTM UPI VFIO VM
+
+### NextGenInfra
+
+Kurtis Bowman (AMD)
+
+<a id="383"></a>
+
+2025/02/07 Networking Massive GPU Clusters
+
+[YouTube](https://youtu.be/0Jwsh52w3PM?si=a-uC-MrqB5UMB3G2)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/383)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AMD AWS CPU GPU HPE IO NVLink UALink UEC
 
 ### SNIA
 
