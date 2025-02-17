@@ -4171,6 +4171,18 @@ Pavan Balaji (Meta)
 
 ### PCI-SIG
 
+Debendra Das Sharma (Intel) and Steve Glaser (NVIDIA)
+
+<a id="384"></a>
+
+2024/10/26 Unordered IO for Improving Performance and Efficiency of PCle® Fabrics for AI/ML Applications
+
+[YouTube](https://youtu.be/-GJzE7zwX4c?si=P16JJWApbnwoXooz)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/384)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BGA BIOS CPU CRC CXL DDR DMA ECR FCVC FD FIFO GM GPU HPC IDE IO IoT ML MMIO NIC NP NVIDIA OS PC PCI PCIe SIG SSD SoC TC TLP UIO VC VMM YouTube
+
 Samuel Kocsis (Amphenole) and Mohiuddin Mazumder (Intel)
 
 <a id="267"></a>
