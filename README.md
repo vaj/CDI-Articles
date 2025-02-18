@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 305 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 306 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4568,6 +4568,18 @@ Steven Yuan (StorageX.ai)
 [Text](https://github.com/vaj/CDI-Info/blob/main/252)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AGI AI API CEO CIM CPU ChatGPT DPPM ERP GPU IO IOPS IoT LCD MES PC PPO SNIA SaaS StorageX
+
+Trond Myklebust (Hammerspace)
+
+<a id="385"></a>
+
+2024/11/18 [Advancements in PNFS / NFS V4.2 For High-Performance and Distributed Storage](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Myklebust-Advancements-in-PNFS-NFSv4.2.pdf)
+
+[YouTube](https://youtu.be/CpyRHjNycBY?si=Lhz_k4AI4OgEi9kW)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/385)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API BSD CTO GSS HPC IETF IO NFS PC PNFS POSIX RFC RPC RPCsec SMB TCP TLS
 
 ### The Linux Foundation
 
