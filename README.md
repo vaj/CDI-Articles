@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 306 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 307 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -90,6 +90,7 @@ All titles are in English, regardless of the language in which they were written
     - [USENIX](#usenix)
     - [VA Linux Systems Japan](#va-linux-systems-japan-2)
   - [2025](#2025)
+    - [CXL Consortium](#cxl-consortium-5)
     - [IOWN Global Forum](#iown-global-forum-2)
     - [Linux Plumbers Conference](#linux-plumbers-conference-4)
     - [NextGenInfra](#nextgeninfra)
@@ -4732,6 +4733,20 @@ Tomoaki Sato
 2024/11/05 [Enhance your own external memory with local LLMs and RAGs! (2)](https://valinux.hatenablog.com/entry/20241105)
 
 ## 2025
+
+### CXL Consortium
+
+Mahesh Natu (Intel)
+
+<a id="386"></a>
+
+2025/02/19 [Introducing the CXL 3.X Specification](https://computeexpresslink.org/wp-content/uploads/2025/02/CXL_Q1-2025-Webinar-Presentation_FINAL.pdf)
+
+[YouTube](https://youtu.be/xAyy33GwzII?si=LBoMRRMmfLXpChpH)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/386)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API CCIX CHMU CPU CRC CSF CSP CXL CXL.cache CXL.mem DDR4 DDR5 DPA ECN HDM IDE JEDEC LD ML MMPT OS OpenCAPI PAM PCI PCIe PHY POST TCO TDISP TEE TLS TSP VM YouTube
 
 ### IOWN Global Forum
 
