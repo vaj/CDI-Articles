@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 307 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 308 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4295,6 +4295,18 @@ Bill Martin (Samsung) and Jason Molgaard (Solidigm)
 [Text](https://github.com/vaj/CDI-Info/blob/main/372)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BAR CMB CPU CSD CXL CXL.io CXL.mem DMA HDM HPA IO IOMMU MMIO NVM NVMe OCP OS PCI PCIe PMR QR RAID SLM SNIA SSD UIO
+
+Charles Lever (Oracle)
+
+<a id="387"></a>
+
+2024/11/18 [The Linux NFS Server in 2024](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Lever-Linux-NFSD-Progress_1.pdf)
+
+[YouTube](https://youtu.be/W4h7oLmame8?si=xZ7aqGVAZg4VsF3b)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/387)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACL AEAD AES BtrFS COVID CPU DES FIPS FS FUSE IO IP ISA InfiniBand LSF LTS LUN NFS NVMe NetApp OAuth PNFS POSIX QUIC RAID RDMA RFC RoCE SCSI SHA SIW SMB SunRPC TLS UDP URL VFS XDR XFS ZFS iSCSI iWARP
 
 David Emberson (HPE)
 
