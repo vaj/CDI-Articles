@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 308 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 309 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4511,6 +4511,18 @@ Nathan Hanford (Lawrence Livermore National Laboratory)
 [Text](https://github.com/vaj/CDI-Info/blob/main/341)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API CDI CXL DMTF EX GitHub HPC InfiniBand ML NVMe OFA OS OpenShift PCI PCIe RESTful SAN SNIA URI
+
+Pratik Mishra (AMD)
+
+<a id="388"></a>
+
+2024/11/18 [Storage in the era of large-scale Al computing](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Mishra-Storage-in-the-era-of-large-scaele-AI-computing.pdf)
+
+[YouTube](https://youtu.be/ucDsyFKOdYI?si=hRbjUebOIKFliwLn)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/388)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CPU DLRM DPU DRAM ETL FP16 GPU HBM HPC IO IOPS MTBF NIC NVMe RAG RDMA RocksDB SLA UALink UltraEthernet
 
 Paul McLeod (Supermicro)
 
