@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 309 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 310 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4307,6 +4307,18 @@ Charles Lever (Oracle)
 [Text](https://github.com/vaj/CDI-Info/blob/main/387)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACL AEAD AES BtrFS COVID CPU DES FIPS FS FUSE IO IP ISA InfiniBand LSF LTS LUN NFS NVMe NetApp OAuth PNFS POSIX QUIC RAID RDMA RFC RoCE SCSI SHA SIW SMB SunRPC TLS UDP URL VFS XDR XFS ZFS iSCSI iWARP
+
+Curtis Ballard (HPE) and Craig Carlson (AMD)
+
+<a id="389"></a>
+
+2024/11/18 [Storage for Al 101](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Ballard-Storage-for-AI-101_1.pdf)
+
+[YouTube](https://youtu.be/hyCCcbntNzM?si=pRTLZW1UyJn44OU6)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/389)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD CMSI CPU CXL DDR DMA DNA GPU HBM HPE IT LAN ML NVMe RAG SDC SDXI SNIA UEC
 
 David Emberson (HPE)
 
