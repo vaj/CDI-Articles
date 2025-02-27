@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 310 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 311 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4511,6 +4511,18 @@ Mahinder Saluja (KIOXIA)
 [Text](https://github.com/vaj/CDI-Info/blob/main/375)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CMB CPU DDR DMA DMAC DPU DRAM FMS FPGA GPU HBM IO KIOXIA LFS NVMe NVRAM PCI PCIe PRP PoC RAID RAM RDMA SDXI SGL SRAM SSD XOR XPU
+
+Mohiuddin Mazumder (Intel)
+
+<a id="390"></a>
+
+2024/11/18 [PCle® Cabling Solutions for Next Generation Al, HPC, and Storage Applications](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Mazumder-PCIe-Cabling-Solutions_1.pdf)
+
+[YouTube](https://youtu.be/K4zf5zEzsWk?si=kNi9ufb54VW2B9W0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/390)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CEM CMIS CPU CXL ChatGPT CopperLink DOE ECN EEPROM EO FR4 GPGPU GPU IBM IO IRL MCIO MIT ML NRZ NVMe OCuLink OIF PAM PCB PCIe RX SFF SI SIG SNIA TA TPU USB
 
 Nathan Hanford (Lawrence Livermore National Laboratory)
 
