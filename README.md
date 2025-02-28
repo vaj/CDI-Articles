@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 311 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 312 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4415,6 +4415,18 @@ Jason Molgaard (Solidigm) and William Martin (Samsung)
 [Text](https://github.com/vaj/CDI-Info/blob/main/366)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API BAR CMB CPU CSD CSE CSEE CSF CSP CSS CSx DMA FDM FMS FPGA HDD IO KV MMU NVM NVMe PCIe QR SDXI SLM SNIA SSD TWG UC ZNS
+
+Jeff Hilland (HPE)
+
+<a id="391"></a>
+
+2024/11/18 [Redfish for Storage Management](https://www.sniadeveloper.org/sites/default/files/SDC/2024/Presentations/SNIA-SDC2024-Hilland-Redfish-for-Storage-Management.pdf)
+
+[YouTube](https://youtu.be/qbCFjnD1BqM?si=HXgRkJwE0p9uLiQO)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/391)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BMC CIM CPER CSDL CXL DCIM DIMM DMTF DNA IPMI InfiniBand MCTP NVMe OCP OEM OPAF OpenBMC PCIe PICMG PLDM PMCI RDMA SAS SMBIOS SMI SNIA SONiC SPDM YouTube
 
 Jim Handy (Objective Analysis)
 
