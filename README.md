@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 312 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 313 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -2956,6 +2956,18 @@ Robert Richter(AMD), Terry Bowman(AMD) and Srinivasulu Thanneeru(Micron)
 [Text](https://github.com/vaj/CDI-Info/blob/main/343)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACPI AER AMD BMC CE CPER CVME CXL CXL.io DCD DOE DRAM DVSEC ECC EDAC EINJ FS GHES HP HPA IO MMIO MSI MSIX OS OSC PCI PCIe PFA PPR QEMU RAS RCEC RCRB VH
+
+SeongJae Park (Meta)
+
+<a id="392"></a>
+
+2024/10/07 [DAMON: Long-term Plans for Kernel That {Just Works,Extensible}](https://lpc.events/event/18/contributions/1768/attachments/1637/3383/damon_longtern_plans_kmm_mc_lpc.pdf)
+
+[YouTube](https://youtu.be/mRU1ZeNB9WY?si=IEbbLFf4Y28JJSqZ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/392)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ABI API AWS BPF CPU CXL DAMON HMSDK LRU LSFMM PSI SK THP VM
 
 Shiju Jose(Huawei), Vandana Salve(Micron) and Jonathan Cameron(Huawei)
 
