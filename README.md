@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 313 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 314 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -93,6 +93,7 @@ All titles are in English, regardless of the language in which they were written
     - [CXL Consortium](#cxl-consortium-5)
     - [IOWN Global Forum](#iown-global-forum-2)
     - [Linux Plumbers Conference](#linux-plumbers-conference-4)
+    - [AI Infra Forum](#ai-infra-forum)
     - [NextGenInfra](#nextgeninfra)
     - [SNIA](#snia-5)
     - [Tech Field Day](#tech-field-day)
@@ -4871,6 +4872,20 @@ Liang Yan (CoreWeave)
 [Text](https://github.com/vaj/CDI-Info/blob/main/367)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACS AI AMD API ATS BAR C2C CPU CXL DMA DPU GDRDMA GH200 GPU HBM HMM HPC IOMMU IOMMUFD MMU NCCL NUMA NVIDIA NVLink NVMe P2P PCI PCIe PRS RDMA SMC TLB TTM UPI VFIO VM
+
+### AI Infra Forum
+
+Anil Godbole (Intel)
+
+<a id="383"></a>
+
+2025/03/14 [Boost Your Al Workload Performance using CXL Memory](https://www.slideshare.net/slideshow/boost-your-ai-workload-performance-using-cxl-memory/276631395)
+
+[YouTube](https://youtu.be/bsOcDPqLnUs?si=9snHjWIziruyruts)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/393)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMX BIOS CPU CXL CacheLib DDR5 DRAM EMR FAISS GPU HPC IHV LLM MemVerge NUMA OS RAG RAID SNC TCO
 
 ### NextGenInfra
 
