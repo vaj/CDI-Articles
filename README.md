@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 314 disaggregated computing articles published on the website between March 2017 and February 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 315 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4886,6 +4886,16 @@ Anil Godbole (Intel)
 [Text](https://github.com/vaj/CDI-Info/blob/main/393)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMX BIOS CPU CXL CacheLib DDR5 DRAM EMR FAISS GPU HPC IHV LLM MemVerge NUMA OS RAG RAID SNC TCO
+
+<a id="394"></a>
+
+2025/03/15 [CXL®: Advancing Coherent Connectivity](https://www.slideshare.net/slideshow/compute-express-link-advancing-coherent-connectivity/276631392)
+
+[YouTube](https://youtu.be/eYztQx4IVrM?si=MEmIw9BBOzFsapiA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/394)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BHS CPU CXL DRAM InfiniBand MapReduce MemVerge TAM
 
 ### NextGenInfra
 
