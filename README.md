@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 315 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 316 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4896,6 +4896,18 @@ Anil Godbole (Intel)
 [Text](https://github.com/vaj/CDI-Info/blob/main/394)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BHS CPU CXL DRAM InfiniBand MapReduce MemVerge TAM
+
+Tejas Chopra (Netflix)
+
+<a id="395"></a>
+
+2025/03/14 [MEMORY WALL IN AI](https://www.slideshare.net/slideshow/the-memory-wall-in-ai-a-crisis-we-must-solve/276659162)
+
+[YouTube](https://youtu.be/9ZSnRgLanwE?si=Twlf55jXss2f8KSA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/395)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AWS CPU CXL ChatGPT DDR DDR5 DRAM GPT GPU HBM HBM3 HBM4 LinkedIn ML MRAM NVIDIA NVMe OpenAI PCIe PIM PyTorch SRAM SSD TensorFlow UC
 
 ### NextGenInfra
 
