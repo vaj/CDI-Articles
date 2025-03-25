@@ -4897,6 +4897,18 @@ Anil Godbole (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BHS CPU CXL DRAM InfiniBand MapReduce MemVerge TAM
 
+Steve Scargall (MemVerge)
+
+<a id="396"></a>
+
+2025/03/25 [Revolutionizing GPU-as-a-Service for Maximum Efficiency]
+
+[YouTube](https://youtu.be/aDuWXeauDa4?si=-OajtaiRqOuLulXF)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/396)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD AWS CD CPU CUDA CXL DNA DRAM GPT GPU GenAI IT LLM LSF LoRA MIG ML MemVerge NVIDIA PyTorch QR RAM UAT UI
+
 Tejas Chopra (Netflix)
 
 <a id="395"></a>
