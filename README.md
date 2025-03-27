@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 316 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 317 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4901,7 +4901,7 @@ Steve Scargall (MemVerge)
 
 <a id="396"></a>
 
-2025/03/25 [Revolutionizing GPU-as-a-Service for Maximum Efficiency]
+2025/03/25 [Revolutionizing GPU-as-a-Service for Maximum Efficiency](https://www.slideshare.net/slideshow/revolutionizing-gpu-as-a-service-for-maximum-efficiency/277185320)
 
 [YouTube](https://youtu.be/aDuWXeauDa4?si=-OajtaiRqOuLulXF)
 
