@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 317 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 318 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4920,6 +4920,18 @@ Tejas Chopra (Netflix)
 [Text](https://github.com/vaj/CDI-Info/blob/main/395)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AWS CPU CXL ChatGPT DDR DDR5 DRAM GPT GPU HBM HBM3 HBM4 LinkedIn ML MRAM NVIDIA NVMe OpenAI PCIe PIM PyTorch SRAM SSD TensorFlow UC
+
+Torry Steed (SMART Modular Technologies)
+
+<a id="397"></a>
+
+2025/03/15 [CXL® Market Perspective: Get Ready for Adoption and Growth in 2025](https://www.slideshare.net/slideshow/cxl-market-perspective-get-ready-for-adoption-and-growth-in-2025/276631390)
+
+[YouTube](https://youtu.be/pcLtKMHC3f8?si=sBP7-ovs0fg_SaZQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/397)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD ASIC BIOS CEM CPU CXL CXL.io DDR DDR4 DDR5 DIMM DRAM GPU HANA IO LLM MLC NAND NUMA NVDIMM OS PCIe RAM SAP SSD YouTube
 
 ### NextGenInfra
 
