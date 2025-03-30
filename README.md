@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 318 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 319 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4896,6 +4896,18 @@ Anil Godbole (Intel)
 [Text](https://github.com/vaj/CDI-Info/blob/main/394)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI BHS CPU CXL DRAM InfiniBand MapReduce MemVerge TAM
+
+Charles Fan (MemVerge)
+
+<a id="398"></a>
+
+2025/03/14 [Delivering Your Own State-of-the-art Enterprise LLMS](https://www.slideshare.net/slideshow/delivering-your-own-state-of-the-art-enterprise-llms/277185318)
+
+[YouTube](https://youtu.be/D9yzm8GWi_I?si=67dHNnQHnUweotVv)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/398)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API AWS CEO CXL ChatGPT DDR GPT GPU IP MemVerge NVLink OpenAI RAG SaaS TCP UALink
 
 Steve Scargall (MemVerge)
 
