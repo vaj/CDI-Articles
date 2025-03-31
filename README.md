@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 319 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 320 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4932,6 +4932,18 @@ Tejas Chopra (Netflix)
 [Text](https://github.com/vaj/CDI-Info/blob/main/395)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AWS CPU CXL ChatGPT DDR DDR5 DRAM GPT GPU HBM HBM3 HBM4 LinkedIn ML MRAM NVIDIA NVMe OpenAI PCIe PIM PyTorch SRAM SSD TensorFlow UC
+
+Thomas Parnell (IBM Research)
+
+<a id="399"></a>
+
+2025/03/14 [VLLM: High-performance serving of LLMs using open-source technology](https://www.slideshare.net/slideshow/vllm-high-performance-serving-of-llms-using-open-source-technology/276699428)
+
+[YouTube](https://youtu.be/zuphRuQuQEc?si=m7Ej5vp_46wCcEyq)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/399)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API AWS AnyScale GPU GitHub IBM KV LLM NVIDIA OpenAI OpenShift PyTorch TTFT UC
 
 Torry Steed (SMART Modular Technologies)
 
