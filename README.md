@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 320 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 321 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4908,6 +4908,18 @@ Charles Fan (MemVerge)
 [Text](https://github.com/vaj/CDI-Info/blob/main/398)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API AWS CEO CXL ChatGPT DDR GPT GPU IP MemVerge NVLink OpenAI RAG SaaS TCP UALink
+
+Ronen Hyatt (UnifabiX)
+
+<a id="400"></a>
+
+2025/03/15 [Memory over Fabrics: An Open Journey from CXL to UALink in Al Infrastructures](https://www.slideshare.net/slideshow/memory-over-fabrics-an-open-journey-from-cxl-to-ualink-in-ai-infrastructure/276631394?from_search=0)
+
+[YouTube](https://youtu.be/6NaWxPEkiZQ?si=qcB8LDQ6D-7Xe2Uk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/400)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API C2C CEO CPU CXL DCD DDR DDR5 DRAM FLOPS GDDR GPU HBM HBM3 HPC HPCG HPE IO LLM LPDDR5X MemVerge NVIDIA NVLink OS PCIe SCM SKU SXM TCO UALink UPI UnifabriX VRAM
 
 Steve Scargall (MemVerge)
 
