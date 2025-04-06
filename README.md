@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 321 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 322 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -4920,6 +4920,18 @@ Ronen Hyatt (UnifabiX)
 [Text](https://github.com/vaj/CDI-Info/blob/main/400)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API C2C CEO CPU CXL DCD DDR DDR5 DRAM FLOPS GDDR GPU HBM HBM3 HPC HPCG HPE IO LLM LPDDR5X MemVerge NVIDIA NVLink OS PCIe SCM SKU SXM TCO UALink UPI UnifabriX VRAM
+
+Siamak Tavallaei (Samsung)
+
+<a id="401"></a>
+
+2025/03/15 [Enlightening the Path forward for Massive-scale Laser-focused, ... through Memory Lanes!](https://www.slideshare.net/slideshow/moving-data-through-massive-scale-memory-lanes-lightning-fast/276631393?from_search=0)
+
+[YouTube](https://youtu.be/7sMiCV-KxfQ?si=W11GOpVVxjU0GCSV)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/401)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL DDR DPU DRAM ECC GDDR GPU HBM InfiniBand LPDDR ML OCP PCB TSV XPU
 
 Steve Scargall (MemVerge)
 
