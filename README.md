@@ -5071,6 +5071,20 @@ Steve Scargall (MemVerge)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD API CEO CPU CUDA CXL DIMM DevOps GPU HBM HPC IT MIG MMAI MMU MPS MPS MSP MemVerge NIM NVIDIA PyTorch QAT RAM RBAC SM SRDF SaaS TCP UI VMware
 
+### AMD
+
+Robert Hormuth (AMD)
+
+<a id="403"></a>
+
+2025/08/12 [2025_OCP_APAC_Summit_Keynote_-_AMD](https://drive.google.com/file/d/1zKP8syQt8_cMcltKwulCjnHXV6Bbvm1F/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=WRiWgvLsIIw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/403)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD UAL CPU DCMHS GPU RAS UEC OAM PCI FAST HBM HPC HPM NIC OEM PCIE PCIe RISC ROI
+
 ## APPENDIX
 
 <a id="acronyms"></a>
