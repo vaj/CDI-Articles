@@ -5013,7 +5013,7 @@ Arthur Sainio (SNIA), Anil Godbole (Intel) Andy Mills (SMART Modular Technologie
 
 <a id="402"></a>
 
-2025/07/22 2025_0722_Accelerating_AI_with_Real-World_CXL_Platforms
+2025/07/22 [2025_0722_Accelerating_AI_with_Real-World_CXL_Platforms](https://www.brighttalk.com/webcast/663/646407)
 
 [YouTube](https://www.youtube.com/watch?v=rxerUzjPTJ0)
 
