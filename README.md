@@ -5009,6 +5009,18 @@ Kyle Bader (IBM), Phil Williams (Canonical) and Michael Hoard (SNIA)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIOps API AWS CERN CPU CST CSV DLRM GFS GPT GPU GitHub HTML IBM IO IT IoT KVM ML MapReduce NFS NVIDIA NVMe OpenStack PCI POSIX PyTorch QAT QEMU RAG RAM RBD SAS SMB SNIA STS TCO TF TLC TPCDS iSCSI
 
+(unknown)
+
+<a id="402"></a>
+
+2025/07/22 2025_0722_Accelerating_AI_with_Real-World_CXL_Platforms
+
+[YouTube](https://www.youtube.com/watch?v=rxerUzjPTJ0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/402)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL GPU CPU DRAM LLM RAG DDR5 HBM PCIE PCIe RDMA TCO SMART AMD FIT MemVerge NUMA NVMe DDR4 DMA
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
