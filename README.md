@@ -5009,7 +5009,7 @@ Kyle Bader (IBM), Phil Williams (Canonical) and Michael Hoard (SNIA)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AIOps API AWS CERN CPU CST CSV DLRM GFS GPT GPU GitHub HTML IBM IO IT IoT KVM ML MapReduce NFS NVIDIA NVMe OpenStack PCI POSIX PyTorch QAT QEMU RAG RAM RBD SAS SMB SNIA STS TCO TF TLC TPCDS iSCSI
 
-(unknown)
+Arthur Sainio (SNIA), Anil Godbole (Intel) Andy Mills (SMART Modular Technologies) and Steve Scargall (MemVerge)
 
 <a id="402"></a>
 
