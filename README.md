@@ -5085,6 +5085,20 @@ Robert Hormuth (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD UAL CPU DCMHS GPU RAS UEC OAM PCI FAST HBM HPC HPM NIC OEM PCIE PCIe RISC ROI
 
+### Google
+
+Chris Verne (Google)
+
+<a id="404"></a>
+
+2025/08/12 [2025_OCP_APAC_Summit_Keynote_-_Google](https://drive.google.com/file/d/1AYdBUDXDZJRDqBGJ0uOsmEv2qbYDpBum/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=vTFvHkw_IZE)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/404)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD GPU RAS SPEC TPU ARM BAR CPU META NVIDIA NVMe PCI SDC SOC SoC
+
 ## APPENDIX
 
 <a id="acronyms"></a>
