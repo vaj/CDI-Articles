@@ -5113,6 +5113,18 @@ Cliff Grossner (OCP), Colley Huang (DigiTimes), Jasmeet Bagga (Meta), Shang Y. H
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP GPU AMD META XPU TCO CPO HPM CPU TSMC UAL FIT PIC RAS CAPEX SPEC DCMHS HPC NVIDIA NVMe
 
+Brian Vandecoevering (AMI) and Anil Agrawal (Meta)
+
+<a id="406"></a>
+
+2025/05/10 AI_Infrastructure_Rack_Management__Exploring_Scalable_Solutions_Through_Open-source_Collaboration
+
+[YouTube](https://www.youtube.com/watch?v=vZwJ9Jo9wJ4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/406)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): META BMC GPU FAST HPC AMI API ARM HBM PCIE PCIe RDMA
+
 ## APPENDIX
 
 <a id="acronyms"></a>
