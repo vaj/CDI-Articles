@@ -5125,6 +5125,20 @@ Brian Vandecoevering (AMI) and Anil Agrawal (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): META BMC GPU FAST HPC AMI API ARM HBM PCIE PCIe RDMA
 
+### Meta
+
+Carlos Fernandez (Meta)
+
+<a id="407"></a>
+
+2025/05/07 [AI_System_Validation-_Meta_Perspective](https://www.scribd.com/document/973565693/6395-AI-System-Validation-Meta-Perspective)
+
+[YouTube](https://www.youtube.com/watch?v=M-gELgFJrsQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/407)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU PCIE PCIe HBM DDR FAST ARM DDR5 META RAS RDMA
+
 ## APPENDIX
 
 <a id="acronyms"></a>
