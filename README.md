@@ -5085,6 +5085,18 @@ Robert Hormuth (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD UAL CPU DCMHS GPU RAS UEC OAM PCI FAST HBM HPC HPM NIC OEM PCIE PCIe RISC ROI
 
+Mark Papermaster (AMD)
+
+<a id="408"></a>
+
+2025/10/15 [A_Fully_Open_and_Collaborative_AI_Ecosystem,_presented_by_AMD](https://drive.google.com/file/d/1OJHR_oCHXWboHZaSReffRQyND7h3dQ15/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=Z36PjXFBmig)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/408)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AMD OCP GPU CPU CXL HPC PyTorch UEC CEO DCSCM FAST HTTP ISA META MHS NIC NVIDIA OEM OpenAI PCIE
+
 ### Google
 
 Chris Verne (Google)
