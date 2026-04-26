@@ -5137,6 +5137,18 @@ Brian Vandecoevering (AMI) and Anil Agrawal (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): META BMC GPU FAST HPC AMI API ARM HBM PCIE PCIe RDMA
 
+Karthik Padmakumar (Arm) & Luis E. Rodriguez (Siemens EDA)
+
+<a id="409"></a>
+
+2025/10/23 [A_Modern_Approach_to_SoC_Verification_From_Virtual_Models_to_Emulation](https://drive.google.com/file/d/1QKE6-fhwpN-yBkC13i-fPh76KtTnCaTV/view)
+
+[YouTube](https://www.youtube.com/watch?v=wkGrLOMtx9U)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/409)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM PCI OCP CXL FAST RTL Rtl ASIC AXI SSD UCIE UCIe UEFI AMBA CMN CPU EDA FLIT NVMe SPEC
+
 ### Meta
 
 Carlos Fernandez (Meta)
