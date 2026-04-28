@@ -1432,6 +1432,18 @@ Tony Brewer (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU CXL CXL.mem DAX DDR4 DDR5 DMA FAM GFAM GFD GPGPU GPT GPU HP MemVerge PA PCIe RISC SSD
 
+Steve Scargall (MemVerge)
+
+<a id="411"></a>
+
+2023/11/10 [A_Software_Stack_for_CXL_Environments](https://www.slideshare.net/slideshow/memverge-the-software-stack-for-cxl-environments/262719059)
+
+[YouTube](https://www.youtube.com/watch?v=EYMTRgV4lVQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/411)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL DRAM NUMA BIOS DCD AMD CLI DAC API ARM BAR BMC CMS CPU DAX FIT MemVerge OCP PCI PCM
+
 ### Open Compute Project
 
 Ahmad Danesh (Astera labs)
