@@ -5149,6 +5149,18 @@ Karthik Padmakumar (Arm) & Luis E. Rodriguez (Siemens EDA)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM PCI OCP CXL FAST RTL Rtl ASIC AXI SSD UCIE UCIe UEFI AMBA CMN CPU EDA FLIT NVMe SPEC
 
+Young Paik (FADU)
+
+<a id="410"></a>
+
+2025/10/23 A_Peek_Into_the_Future_Results_from_PCIe_Gen_6_SSD_Simulations
+
+[YouTube](https://www.youtube.com/watch?v=TfwmRMEwaE4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/410)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NAND SSD CPU PCIE PCIe GPU IOPS DRAM NIC TCP HPC NVMe TLC
+
 ### Meta
 
 Carlos Fernandez (Meta)
