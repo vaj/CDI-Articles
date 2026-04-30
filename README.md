@@ -5199,6 +5199,20 @@ Carlos Fernandez (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU PCIE PCIe HBM DDR FAST ARM DDR5 META RAS RDMA
 
+### Intel
+
+Raghu Shankar (Entrepreneur)
+
+<a id="413"></a>
+
+2025/10/23 [Accelerating_Early_Stage_Exploration_with_Virtual_Prototyping_for_a_Flourishing_Multi_Vendor](https://www.opencompute.org/blog/accelerating-early-stage-explorations-with-virtual-prototyping-for-a-thriving-multi-vendor-chiplet-ecosystem)
+
+[YouTube](https://www.youtube.com/watch?v=UYlxEe5kbe8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/413)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): FPGA UCIE UCIe EDA FAST RTL Rtl AMD ARM DDR HBM HPM LABS MIPS NVIDIA OCP RISC ROI SOC SoC
+
 ## APPENDIX
 
 <a id="acronyms"></a>
