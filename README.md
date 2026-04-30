@@ -5109,6 +5109,18 @@ Mark Papermaster (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AMD OCP GPU CPU CXL HPC PyTorch UEC CEO DCSCM FAST HTTP ISA META MHS NIC NVIDIA OEM OpenAI PCIE
 
+Shane Corban (AMD)
+
+<a id="412"></a>
+
+2025/10/23 [Accelerated_AI_with_P4_DPUs_Next_Level_Flexibility,_Performance_&_Scale_on_AMD_AI_NICs](https://drive.google.com/file/d/1SDL4gmPnXjzg7hTczlmGhVlNd0povggJ/view)
+
+[YouTube](https://www.youtube.com/watch?v=uHUf4H_99CY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/412)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UEC GPU AMD OCP RDMA UAL CPU NIC PCIE PCIe DPU ECN HPC InfiniBand MIT REST
+
 ### Google
 
 Chris Verne (Google)
