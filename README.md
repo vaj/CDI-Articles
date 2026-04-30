@@ -5185,8 +5185,6 @@ Young Paik (FADU)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NAND SSD CPU PCIE PCIe GPU IOPS DRAM NIC TCP HPC NVMe TLC
 
-### Meta
-
 Carlos Fernandez (Meta)
 
 <a id="407"></a>
@@ -5198,8 +5196,6 @@ Carlos Fernandez (Meta)
 [Text](https://github.com/vaj/CDI-Info/blob/main/407)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU PCIE PCIe HBM DDR FAST ARM DDR5 META RAS RDMA
-
-### Intel
 
 Raghu Shankar (Entrepreneur)
 
