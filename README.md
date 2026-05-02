@@ -5221,6 +5221,18 @@ Tong Zhang (ScaleFlux), Tushar Krishna (Georgia Institute of Technology), SHRIKA
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD CPU GPU DRAM OCP NVIDIA InfiniBand NAND NIC REST
 
+Don Moon (SK hynix) and Taeho Hwang (SK hynix)
+
+<a id="415"></a>
+
+2025/10/23 Accelerating_LLM_Serving_with_Prompt_Cache_Offloading_via_CXL
+
+[YouTube](https://www.youtube.com/watch?v=krB97KQerm8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/415)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD CXL DRAM GPU HBM PCIE PCIe LLM NVMe CMS GPT NVIDIA TCO TPU
+
 ## APPENDIX
 
 <a id="acronyms"></a>
