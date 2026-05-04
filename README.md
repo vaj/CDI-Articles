@@ -5245,6 +5245,20 @@ Jungmin Choi (SK hynix) and Dimitrios Palyvos (zeropoint technologies)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM CPU TCO CXL OCP SPEC ASIC DLRM FPGA META AMD DDR4 RAM RTL Rtl
 
+### The Linux Foundation
+
+Yuning Liang (DeepComputing)
+
+<a id="417"></a>
+
+2025/09/05 [Advancing_AI_Application_Development_on_RISC-V_Platforms_-_Yuning_Liang,_DeepComputing](https://hosted-files.sched.co/osseu2025/0c/RISCV_in_OSS_EU_2025_Yuning_DeepComputing_short.pdf?_gl=1*11c8j5u*_gcl_au*MzE4MjczOTYzLjE3Nzc5MjcwNjc.*FPAU*MzE4MjczOTYzLjE3Nzc5MjcwNjc.)
+
+[YouTube](https://www.youtube.com/watch?v=_-i5F3XY_V8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/417)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RISC SOC SoC ARM CPU PCIE PCIe SPEC FIT GPU PyTorch REST TSMC BoW CEO COVID CUDA ChatGPT DDR FPGA
+
 ## APPENDIX
 
 <a id="acronyms"></a>
