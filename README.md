@@ -5233,6 +5233,18 @@ Don Moon (SK hynix) and Taeho Hwang (SK hynix)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD CXL DRAM GPU HBM PCIE PCIe LLM NVMe CMS GPT NVIDIA TCO TPU
 
+Jungmin Choi (SK hynix) and Dimitrios Palyvos (zeropoint technologies)
+
+<a id="416"></a>
+
+2025/10/23 [Accelerating_Real_World_CXL_Deployments_From_Hardware_Assisted_Intelligent_Tiering_to_Compres](https://drive.google.com/file/d/1BlzWp8XpV1h0XN47cHizZ-pszJuScFhE/view)
+
+[YouTube](https://www.youtube.com/watch?v=0_NyRYT1M7g)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/416)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM CPU TCO CXL OCP SPEC ASIC DLRM FPGA META AMD DDR4 RAM RTL Rtl
+
 ## APPENDIX
 
 <a id="acronyms"></a>
