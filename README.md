@@ -5259,6 +5259,18 @@ Yuning Liang (DeepComputing)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RISC SOC SoC ARM CPU PCIE PCIe SPEC FIT GPU PyTorch REST TSMC BoW CEO COVID CUDA ChatGPT DDR FPGA
 
+Rama Bhimanadhuni (Microsoft), Jicksen Joy (Google)and Taniya Siddiqua (AMD)
+
+<a id="418"></a>
+
+2025/10/23 [Advancing_Hyperscale_AI_Fleet_Quality_Through_Standardized_Debug,_Diagnostics,_and_RAS](https://drive.google.com/file/d/1907UyfLOMbnPtVvMAA4Zb6sFv9B6xzVS/view)
+
+[YouTube](https://www.youtube.com/watch?v=k_JbQ3TuHbA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/418)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RAS GPU CPU OCP AMD API SPEC ARM CSP JSON META BMC CRC NVIDIA PCI PCIE PCIe SLA
+
 ## APPENDIX
 
 <a id="acronyms"></a>
