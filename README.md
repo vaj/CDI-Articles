@@ -5245,6 +5245,30 @@ Jungmin Choi (SK hynix) and Dimitrios Palyvos (zeropoint technologies)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM CPU TCO CXL OCP SPEC ASIC DLRM FPGA META AMD DDR4 RAM RTL Rtl
 
+Rama Bhimanadhuni (Microsoft), Jicksen Joy (Google)and Taniya Siddiqua (AMD)
+
+<a id="418"></a>
+
+2025/10/23 [Advancing_Hyperscale_AI_Fleet_Quality_Through_Standardized_Debug,_Diagnostics,_and_RAS](https://drive.google.com/file/d/1907UyfLOMbnPtVvMAA4Zb6sFv9B6xzVS/view)
+
+[YouTube](https://www.youtube.com/watch?v=k_JbQ3TuHbA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/418)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RAS GPU CPU OCP AMD API SPEC ARM CSP JSON META BMC CRC NVIDIA PCI PCIE PCIe SLA
+
+Justin King (AMD) and Samer El-Haj-Mahmoud (ARM)
+
+<a id="419"></a>
+
+2025/10/23 [Advancing_PLDM__Structured_Sensors,_Scalable_Modeling,_and_the_Server_Host_SoC_PLDM_Specification](https://drive.google.com/file/d/1H8OaMj2YHuyFOwYWUkdh06fW_n2BDI4b/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=JsoHlORFBlc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/419)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PLDM SOC SoC SPEC DMTF PMCI CPU UEFI NIC OEM AMD ARM CXL DSP FIT OCP PCIE PCIe UUID
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
@@ -5258,18 +5282,6 @@ Yuning Liang (DeepComputing)
 [Text](https://github.com/vaj/CDI-Info/blob/main/417)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RISC SOC SoC ARM CPU PCIE PCIe SPEC FIT GPU PyTorch REST TSMC BoW CEO COVID CUDA ChatGPT DDR FPGA
-
-Rama Bhimanadhuni (Microsoft), Jicksen Joy (Google)and Taniya Siddiqua (AMD)
-
-<a id="418"></a>
-
-2025/10/23 [Advancing_Hyperscale_AI_Fleet_Quality_Through_Standardized_Debug,_Diagnostics,_and_RAS](https://drive.google.com/file/d/1907UyfLOMbnPtVvMAA4Zb6sFv9B6xzVS/view)
-
-[YouTube](https://www.youtube.com/watch?v=k_JbQ3TuHbA)
-
-[Text](https://github.com/vaj/CDI-Info/blob/main/418)
-
-[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RAS GPU CPU OCP AMD API SPEC ARM CSP JSON META BMC CRC NVIDIA PCI PCIE PCIe SLA
 
 ## APPENDIX
 
