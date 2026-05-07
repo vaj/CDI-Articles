@@ -5269,6 +5269,18 @@ Justin King (AMD) and Samer El-Haj-Mahmoud (ARM)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PLDM SOC SoC SPEC DMTF PMCI CPU UEFI NIC OEM AMD ARM CXL DSP FIT OCP PCIE PCIe UUID
 
+Ullas Kumar (Rakon) and Greg Armstrong (Renesas)
+
+<a id="420"></a>
+
+2025/10/23 [Advancing_Timing_Resilience_in_Edge_to_Core_Systems_From_White_Rabbit_to_PCIe](https://drive.google.com/file/d/1D3CSXE7mv2JYc6FHJwr76HOWf8dwcflK/view)
+
+[YouTube](https://www.youtube.com/watch?v=IRa5VsCOxrs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/420)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NIC OCP PCI PCIE PCIe DSP JTAG SPEC PAM4 ChatGPT FAST GPU IEEE MUX NVIDIA REST SIG USB
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
