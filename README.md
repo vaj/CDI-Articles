@@ -4833,6 +4833,18 @@ Mahesh Natu (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API CCIX CHMU CPU CRC CSF CSP CXL CXL.cache CXL.mem DDR4 DDR5 DPA ECN HDM IDE JEDEC LD ML MMPT OS OpenCAPI PAM PCI PCIe PHY POST TCO TDISP TEE TLS TSP VM YouTube
 
+Anil Godbole (Intel), Sandeep Dattaprasad (Astera Labs), Aravind Ramesh (Micron), Oren Benisty (UnifabriX) and JP Jiang (Xconn Technologies)
+
+<a id="421"></a>
+
+2025/06/04 [Advantages_of_CXL_Memory_Sharing_for_Emerging_Applications](https://computeexpresslink.org/wp-content/uploads/2025/06/CXL_Q2-2025-Webinar_FINAL.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=gyqpH8UVXkk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/421)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL FAMFS PCIE PCIe SPEC TCO LEO CPU DAX SMART GPU RAS RDMA TSP DDR5 DMTF IDE RocksDB SSD API
+
 ### IOWN Global Forum
 
 Chris Wright (Red Hat)
