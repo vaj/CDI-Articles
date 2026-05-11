@@ -5317,6 +5317,18 @@ Kurtis Bowman (UALink Consortium), Chris Petersen (Astera Labs), Rohit Mittal (U
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SPEC UALink OCP UAL PCI SIG CPU IEEE LABS CXL TCO BAR CUDA ChatGPT DMTF ECN FAST FLIT FPGA GPU
 
+Aanchal Sharma (Astera Labs) and Chris Blackburn (Astera Labs)
+
+<a id="424"></a>
+
+2025/10/23 [Astera_Labs_Scaling_AI_with_PCIe,_Ethernet,_and_UALink_Retimers](https://drive.google.com/file/d/1Foaik3u3ENgInpBfzUcuTVqeB5yQPHSM/view)
+
+[YouTube](https://www.youtube.com/watch?v=QVglWz-nHr0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/424)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCI LABS SMART CPU CXL PCIE PCIe XPU FIT GPU LEO DCMHS FAST NIC OCP OpenBMC REST SSD
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
