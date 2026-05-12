@@ -5329,6 +5329,18 @@ Aanchal Sharma (Astera Labs) and Chris Blackburn (Astera Labs)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCI LABS SMART CPU CXL PCIE PCIe XPU FIT GPU LEO DCMHS FAST NIC OCP OpenBMC REST SSD
 
+Chris Peterson (Astera Labs) and Ahmad Danesh (Astera Labs)
+
+<a id="425"></a>
+
+2025/10/23 [Beyond_the_Spec_What_it_Takes_to_Deploy_UALink_at_Rack_Scale](https://drive.google.com/file/d/1RBNm-v_gyTSo9KLwAV-Y5bp-P5e9Loin/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=JTCo8clbC58)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/425)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UALink BMC LABS OCP RAS XPU FAST CPU FEC GPU SPEC TCO
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
