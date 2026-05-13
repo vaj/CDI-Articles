@@ -5341,6 +5341,18 @@ Chris Peterson (Astera Labs) and Ahmad Danesh (Astera Labs)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UALink BMC LABS OCP RAS XPU FAST CPU FEC GPU SPEC TCO
 
+Seth Kane (University of California Davis)
+
+<a id="426"></a>
+
+2025/10/23 [Biochar_in_Data_Center_Decarbonization](https://drive.google.com/file/d/10l7FXe0jj_fUK3OUs6uDXd0jSsbb6GwT/view)
+
+[YouTube](https://www.youtube.com/watch?v=et40_CRinfM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/426)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): LCA DOE OCP CO2 US CEMENT STEEL ARPA
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
