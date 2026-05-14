@@ -5353,6 +5353,18 @@ Seth Kane (University of California Davis)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): LCA DOE OCP CO2 US CEMENT STEEL ARPA
 
+Kevin Donnelly (Eliyan) and Morgan Whately (Infineon Technologies)
+
+<a id="427"></a>
+
+2025/10/23 [BoW_2_1_Enhancements_for_New_Applications](https://drive.google.com/file/d/1tNWpvNaPY1_H18Pke7W3MZelj9cyxnZg/view)
+
+[YouTube](https://www.youtube.com/watch?v=CqBj3vWpJDk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/427)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BoW SPEC OCP UCIE UCIe ASIC HBM IoT DRAM ECC HBM4 HPC PHY AIC CPO DDR5 FAST FEC I2C SRAM
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
