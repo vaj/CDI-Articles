@@ -5365,6 +5365,18 @@ Kevin Donnelly (Eliyan) and Morgan Whately (Infineon Technologies)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): BoW SPEC OCP UCIE UCIe ASIC HBM IoT DRAM ECC HBM4 HPC PHY AIC CPO DDR5 FAST FEC I2C SRAM
 
+Kash Johal (YorChip)
+
+<a id="428"></a>
+
+2025/10/23 [Breaking_real_world_barriers_for_Open_Chiplet_Adoption](https://drive.google.com/file/d/16Fu9jZnNHCfZjxZLgkBUPhOIw-0yUFfU/view)
+
+[YouTube](https://www.youtube.com/watch?v=2XXLV605Btc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/428)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP PHY ARM UCIE UCIe NDA SPEC TSMC
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
