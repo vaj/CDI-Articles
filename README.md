@@ -5377,6 +5377,18 @@ Kash Johal (YorChip)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP PHY ARM UCIE UCIe NDA SPEC TSMC
 
+Seungmin Woo (Georgia Institute of Technology), David Ratchkov (Anemoi Software Inc), and Jawad Nasrullah (Palo Alto Electron)
+
+<a id="429"></a>
+
+2025/10/23 [CDX_Innovations_in_Chiplet_Design_From_Standardization_to_System_Realization](https://drive.google.com/file/d/1r4zdKETpXwhLmrZZ-sMh2IkGSzfPp4Js/view)
+
+[YouTube](https://www.youtube.com/watch?v=3An9l7WTJeA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/429)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU HBM SRAM UCIE UCIe HPM JEDEC REST DRAM EDA PCB PCIE PCIe PDF POC PoC RISC
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
