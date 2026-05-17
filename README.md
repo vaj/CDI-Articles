@@ -5408,3 +5408,20 @@ Yuning Liang (DeepComputing)
 <a id="acronyms"></a>
 
 ### [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md)
+
+## 2026
+
+### SNIA
+
+Luis Freeman (IBM), Rohan Mehta (Micron Technology) and Jayanthi Ramakalanjiyam (Celestica)
+
+<a id="430"></a>
+
+2026/05/14 [AI Stack_ Deconstructing the Storage Software Stack_ From Legacy Silos to AI Scale Architecture](https://www.snia.org/educational-library/deconstructing-storage-software-stack-legacy-silos-ai-scale-architecture)
+
+[YouTube](https://www.youtube.com/watch?v=VmUT7cr8H1c)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/430)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NVMe SNIA AI RDMA PCIE PCIe SSD CPU TCP API HPC InfiniBand OS BMC IO IP VM
+
