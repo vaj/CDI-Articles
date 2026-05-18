@@ -5425,3 +5425,15 @@ Luis Freeman (IBM), Rohan Mehta (Micron Technology) and Jayanthi Ramakalanjiyam 
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NVMe SNIA AI RDMA PCIE PCIe SSD CPU TCP API HPC InfiniBand OS BMC IO IP VM
 
+Chaitanya Kulkarni (NVIDIA)
+
+<a id="431"></a>
+
+2026/05/12 [SNIA SDC_ StorageAI 2026 - NVMe LBA Access Control for GPU-Direct Storage in AI_HPC Workloads](https://www.snia.org/sniadeveloper/session/19591)
+
+[YouTube](https://www.youtube.com/watch?v=9NuEzN1dR8c)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/431)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVMe CPU AI DMA PCI SSD HPC IO LLM ML LBA PNFS SCSI
+
