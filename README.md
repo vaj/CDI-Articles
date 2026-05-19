@@ -5437,3 +5437,17 @@ Chaitanya Kulkarni (NVIDIA)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVMe CPU AI DMA PCI SSD HPC IO LLM ML LBA PNFS SCSI
 
+### Open Compute Project
+
+Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
+
+<a id="432"></a>
+
+2026/05/17 Towards Modular Software-Defined Edge Servers Using OCP DC-MHS Specifications
+
+[YouTube](https://www.youtube.com/watch?v=w4_IlAhHuPY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/432)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AI CPU PCI PCIE PCIe ASIC DC FPGA IO NIC SSD USB VM MHS
+
