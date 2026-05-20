@@ -5437,6 +5437,18 @@ Chaitanya Kulkarni (NVIDIA)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVMe CPU AI DMA PCI SSD HPC IO LLM ML LBA PNFS SCSI
 
+Wes Vaske (Micron Technology)
+
+<a id="433"></a>
+
+2026/05/12 [SNIA SDC_ StorageAI 2026 - Enabling AI Storage Benchmark Evolution at the Pace of AI](https://www.snia.org/sniadeveloper/session/19569)
+
+[YouTube](https://www.youtube.com/watch?v=S9gLjuEqBgM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/433)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU GPU ML HBM LLM HPE NVIDIA NVLink OS SNIA SSD MLPerf PCIe REST
+
 ### Open Compute Project
 
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
