@@ -5449,6 +5449,18 @@ Wes Vaske (Micron Technology)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI CPU GPU ML HBM LLM HPE NVIDIA NVLink OS SNIA SSD MLPerf PCIe REST
 
+Erich Haratsch (Marvell)
+
+<a id="434"></a>
+
+2026/05/12 [SNIA SDC_ StorageAI 2026 - Data Storage Innovations for Scalable AI Infrastructure](https://www.snia.org/sniadeveloper/session/19562)
+
+[YouTube](https://www.youtube.com/watch?v=EEh1FPwAkHA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/434)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVMe CPU RDMA SSD ChatGPT HBM LLM PCI DRAM GPT NAND NVIDIA PCIE PCIe SNIA TCP QLC KV
+
 ### Open Compute Project
 
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
