@@ -5461,6 +5461,18 @@ Erich Haratsch (Marvell)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVMe CPU RDMA SSD ChatGPT HBM LLM PCI DRAM GPT NAND NVIDIA PCIE PCIe SNIA TCP QLC KV
 
+Simon Lund (Samsung)
+
+<a id="435"></a>
+
+2026/05/12 [SNIA SDC_ StorageAI 2026 - AiSIO_ Orchestrating Storage I_O Across CPUs and Accelerators](https://www.snia.org/sniadeveloper/session/19565)
+
+[YouTube](https://www.youtube.com/watch?v=AJe22Nah5KA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/435)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU GPU NVMe IO DMA NVIDIA OS PCI PCIe DRAM MMIO NUMA VM AI AMD BIOS CUDA GDS AISIO
+
 ### Open Compute Project
 
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
