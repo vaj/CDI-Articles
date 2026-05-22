@@ -5473,6 +5473,18 @@ Simon Lund (Samsung)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU GPU NVMe IO DMA NVIDIA OS PCI PCIe DRAM MMIO NUMA VM AI AMD BIOS CUDA GDS AISIO
 
+Rory Bolt (Kioxia)
+
+<a id="436"></a>
+
+2026/05/12 [SNIA SDC_ StorageAI 2026 - AI Storage Workloads_ What is Different and Impacts on SSD Design](https://www.snia.org/sniadeveloper/session/19577)
+
+[YouTube](https://www.youtube.com/watch?v=mlX6GxA8i_A)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/436)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI SSD GPU ECC NVIDIA PCIe HBM NAND CPU IO OS PCB SOC KV QLC CMX NVMe IOPS DRAM
+
 ### Open Compute Project
 
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
