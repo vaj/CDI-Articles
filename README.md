@@ -5511,3 +5511,16 @@ Robert Hormuth (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD UEC DRAM GPU NIC OAM CPU FAST FIT GPT NVIDIA PCI PCIE PCIe REST SPEC
 
+### The Linux Foundation
+
+Suresh Vasudevan (Clockwork.io), Gavin Cohen (Clockwork.io) and Jordan Nanos (SemiAnalysis)
+
+<a id="438"></a>
+
+2026/04/23 [LF Live Webinar_ Handling Hardware Failures During Training](https://www.linuxfoundation.org/webinars/handling-hardware-failures-during-training-a-comparative-analysis-of-fault-tolerant-training-frameworks)
+
+[YouTube](https://www.youtube.com/watch?v=cnqwKadEsR4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/438)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU META NVIDIA PyTorch TCO LABS API CPO CUDA NDR NIC BAR CEO CPU GTC HBM NVLink NVMe RDMA REST
