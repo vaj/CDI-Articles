@@ -97,6 +97,10 @@ All titles are in English, regardless of the language in which they were written
     - [NextGenInfra](#nextgeninfra)
     - [SNIA](#snia-5)
     - [Tech Field Day](#tech-field-day)
+  - [2026](#2026)
+    - [SNIA](#snia-6)
+    - [Open Compute Project](#open-compute-project-3)
+    - [The Linux Foundation](#the-linux-foundation-3)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
 
