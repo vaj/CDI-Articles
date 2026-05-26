@@ -4901,6 +4901,18 @@ Liang Yan (CoreWeave)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ACS AI AMD API ATS BAR C2C CPU CXL DMA DPU GDRDMA GH200 GPU HBM HMM HPC IOMMU IOMMUFD MMU NCCL NUMA NVIDIA NVLink NVMe P2P PCI PCIe PRS RDMA SMC TLB TTM UPI VFIO VM
 
+David Airlie (Red Hat)
+
+<a id="439"></a>
+
+2025/12/18 [drm_and_cgroup_memory_management_-_two_great_tastes_-_David_Airlie](https://lpc.events/event/19/contributions/2263/)
+
+[YouTube](https://www.youtube.com/watch?v=q4QTGCPGif4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/439)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NUMA LRU MEM CPU DMA PCI AMD FAST RAM APU ARM DRAM HPC NVIDIA NVLink OPT RISC
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
