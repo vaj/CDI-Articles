@@ -5513,6 +5513,18 @@ Rory Bolt (Kioxia)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI SSD GPU ECC NVIDIA PCIe HBM NAND CPU IO OS PCB SOC KV QLC CMX NVMe IOPS DRAM
 
+Eric Smith (Dell), Anthony Constantine (Micron), and Tom Palkert (Samtec)
+
+<a id="441"></a>
+
+2026/01/29 [_AI Stack_ Accelerating AI Infrastructure_The Role of 400G and PCIe 8.0 in Next-Gen Interconnects](https://www.snia.org/educational-library/accelerating-ai-infrastructure-role-400g-and-pcie-80-next-gen-interconnects)
+
+[YouTube](https://www.youtube.com/watch?v=UTTMYqPGfQ8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/441)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIE PCIe PAM DSP SSD PAM4 GPU CPO PCI META SPEC ASIC NVIDIA PCB SFF SNIA IEEE SIG CMOS CPU
+
 ### Open Compute Project
 
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
