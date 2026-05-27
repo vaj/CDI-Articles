@@ -5405,6 +5405,18 @@ Seungmin Woo (Georgia Institute of Technology), David Ratchkov (Anemoi Software 
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU HBM SRAM UCIE UCIe HPM JEDEC REST DRAM EDA PCB PCIE PCIe PDF POC PoC RISC
 
+Abe Garcia (Meta)
+
+<a id="440"></a>
+
+2025/10/23 [Yosemite_v5,_Metas_next_generation_modular_compute_and_storage_platform](https://drive.google.com/file/d/1_r_ZempXu6GmtdofRHwcYJJ0lZdFwD50/view)
+
+[YouTube](https://www.youtube.com/watch?v=qIYdQHKWoig)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/440)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NIC OCP BMC CXL META BAR CPU DCSCM FPGA MCIO PCB SSD DCMHS DNO I2C PCI PCIE PCIe PIC SIG
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
