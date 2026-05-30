@@ -5431,6 +5431,18 @@ Yuning Liang (DeepComputing)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RISC SOC SoC ARM CPU PCIE PCIe SPEC FIT GPU PyTorch REST TSMC BoW CEO COVID CUDA ChatGPT DDR FPGA
 
+Jin Hase (Fujitsu) and Tsubasa Watanabe (Fujitsu)
+
+<a id="444"></a>
+
+2025/12/19 [Dynamic GPU Provisioning in Kubernetes With Composable Disaggregated Infrastructure](https://static.sched.com/hosted_files/ossjapan2025/e6/OSSJ2025_CoHDI.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=OhMmSVSPhpM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/444)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU DRA CDI NVIDIA CPU OSS SPEC API CXL PCI PCIE PCIe SAN
+
 ## APPENDIX
 
 <a id="acronyms"></a>
