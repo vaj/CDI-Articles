@@ -4913,6 +4913,18 @@ David Airlie (Red Hat)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NUMA LRU MEM CPU DMA PCI AMD FAST RAM APU ARM DRAM HPC NVIDIA NVLink OPT RISC
 
+Sumit Garg (Qualcomm)
+
+<a id="445"></a>
+
+2025/12/18 [Protected DMAbufs and its dynamic memory assignment woes - Sumit Garg](https://lpc.events/event/19/contributions/2095/attachments/1735/3794/LPC25%20Protected%20DMAbufs%20and%20its%20dynamic%20memory%20assignment%20woes.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=VG-a5mUpz5E)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/445)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DMA CPU API DRAM IOMMU AMD APU ARM EDK GPU OEM OSS RISC SOC SoC TLB
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
