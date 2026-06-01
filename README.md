@@ -4925,6 +4925,18 @@ Sumit Garg (Qualcomm)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DMA CPU API DRAM IOMMU AMD APU ARM EDK GPU OEM OSS RISC SOC SoC TLB
 
+Wei Huang (AMD)
+
+<a id="446"></a>
+
+2025/12/18 [Plumbing SDXI into Linux: From DMA Engine to User‑Space Offloads - Wei Huang](https://lpc.events/event/19/contributions/2151/attachments/1918/4473/lpc25-wei-sdxi-1.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=ZYY8Cr9TstM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/446)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SDXI CPU DMA MEM MMIO AMD VM1 HPA IOMMU API ATS CRC PCI PCIE PCIe RFC SNIA VMware
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
