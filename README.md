@@ -4937,6 +4937,18 @@ Wei Huang (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SDXI CPU DMA MEM MMIO AMD VM1 HPA IOMMU API ATS CRC PCI PCIE PCIe RFC SNIA VMware
 
+Jens Wiklander (Linaro) and Sumit Garg (Qualcomm)
+
+<a id="447"></a>
+
+2025/12/18 [Kernel TEE subsystem BoF - Jens Wiklander, Sumit Garg](https://lpc.events/event/19/contributions/2107/attachments/1761/3826/LPC2025_Kernel_TEE_subsystem_BoF.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=fE_3Evxkzxg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/447)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DMA RISC ABI ARM IoT API IOMMU AMD BIOS CPU EDK GPU KVM NVMe OPT PCI SOC SoC
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
