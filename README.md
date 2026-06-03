@@ -4949,6 +4949,18 @@ Jens Wiklander (Linaro) and Sumit Garg (Qualcomm)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DMA RISC ABI ARM IoT API IOMMU AMD BIOS CPU EDK GPU KVM NVMe OPT PCI SOC SoC
 
+Yusheng Zheng (eunomia-bpf) and Tong Yu (eunomia-bpf)
+
+<a id="448"></a>
+
+2025/12/18 [Extending eBPF to GPU Device and Driver Contexts - Yusheng Zheng, Tong Yu](https://lpc.events/event/19/contributions/2168/attachments/1901/4117/Extending%20eBPF%20to%20GPU%20Device%20and%20Driver%20Contexts%20-%20Slidev%20(1).pdf)
+
+[YouTube](https://www.youtube.com/watch?v=VIRRzBhF5oU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/448)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU API NVIDIA CUDA FIFO MEM PCI PID BAR DPDK HBM LAN PCIE PCIe RDMA SQL TSP
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
