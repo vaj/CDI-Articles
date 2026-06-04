@@ -5465,6 +5465,18 @@ Abe Garcia (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NIC OCP BMC CXL META BAR CPU DCSCM FPGA MCIO PCB SSD DCMHS DNO I2C PCI PCIE PCIe PIC SIG
 
+Phil Leech (HPE), Dave Heinrich (HPE), Jeff Kennedy (Dell) and Todd Rosedahl (Jabil)
+
+<a id="449"></a>
+
+2025/12/16 [OCP Tech Talk: M-PNP Overview and M-PNP.FPGA 0.5 Specification Deep Dive](https://www.opencompute.org/events/past-events/ocp-tech-talk-m-pnp-overview-and-m-pnpfpga-05-specification-deep-dive)
+
+[YouTube](https://www.youtube.com/watch?v=sWQxhUJzc3k)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/449)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): FPGA HPM BMC SPEC JSON MUX MHS I2C PESTI SOC SoC OEM FRU MXIO OCP PCI PCIE PCIe DCSCM AMD
+
 ### The Linux Foundation
 
 Yuning Liang (DeepComputing)
