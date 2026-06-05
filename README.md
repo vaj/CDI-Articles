@@ -4961,6 +4961,18 @@ Yusheng Zheng (eunomia-bpf) and Tong Yu (eunomia-bpf)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU API NVIDIA CUDA FIFO MEM PCI PID BAR DPDK HBM LAN PCIE PCIe RDMA SQL TSP
 
+Wei Huang (AMD)
+
+<a id="450"></a>
+
+2025/12/18 [Turning PCIe Hints into Cache Hits: Enabling Smart Data Cache Injection in Linux - Wei Huang](https://lpc.events/event/19/contributions/2249/attachments/1919/4472/lpc25-wei-pci-hints-2.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=SUzeEH5SlwY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/450)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU AMD NIC ACPI API ARM DMA PCI PCIE PCIe SMART TLP MEM MSIX QOS QoS SDC SOC SoC TCP
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
