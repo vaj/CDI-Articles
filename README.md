@@ -5133,6 +5133,18 @@ Arthur Sainio (SNIA), Anil Godbole (Intel) Andy Mills (SMART Modular Technologie
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL GPU CPU DRAM LLM RAG DDR5 HBM PCIE PCIe RDMA TCO SMART AMD FIT MemVerge NUMA NVMe DDR4 DMA
 
+Suresh Rajgopal (Micron), Chandra Gura (Micron) and Pierre Labat (Micron)
+
+<a id="452"></a>
+
+2025/11/15 [SNIA SDC 2025 - Why does NVMe Need to Evolve for Efficient Storage Access from GPUs?](https://www.snia.org/sniadeveloper/session/19283)
+
+[YouTube](https://www.youtube.com/watch?v=GaQ6UY4uroQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/452)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVMe CPU SSD DMA UEC FAST PCIE PCIe IOPS MSIX AMD QOS QoS SMART CUDA IDE OEM REST
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
