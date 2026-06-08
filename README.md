@@ -5145,6 +5145,18 @@ Suresh Rajgopal (Micron), Chandra Gura (Micron) and Pierre Labat (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVMe CPU SSD DMA UEC FAST PCIE PCIe IOPS MSIX AMD QOS QoS SMART CUDA IDE OEM REST
 
+Jim Handy (Objective Analysis) and Tom Coughlin (Coughlin Associates)
+
+<a id="453"></a>
+
+2025/11/15 [SNIA SDC 2025 - The Processor Chip of the Future!](https://www.snia.org/sites/default/files/2025-09/SNIA-SDC25-Handy-Coughlin-Processor-Chip-Future.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=jP8ApFj40CE)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/453)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM HBM SRAM RAM NVIDIA NAND HPM MRAM UCIE UCIe CXL GPU DDR FAST SSD CPU FIT FPGA HBM4 IEEE
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
