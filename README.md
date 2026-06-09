@@ -5157,6 +5157,18 @@ Jim Handy (Objective Analysis) and Tom Coughlin (Coughlin Associates)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM HBM SRAM RAM NVIDIA NAND HPM MRAM UCIE UCIe CXL GPU DDR FAST SSD CPU FIT FPGA HBM4 IEEE
 
+C.J. Newburn (NVIDIA) and Wen-mei Hwu (NVIDIA)
+
+<a id="454"></a>
+
+2025/11/15 [SNIA SDC 2025 - Storage Implications for the New Generation of AI Applications](https://www.snia.org/sniadeveloper/session/19391)
+
+[YouTube](https://www.youtube.com/watch?v=W0pPqNesFT0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/454)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU IOPS LLM RDMA FIT TCO FAST NVIDIA DRAM HPM API CUDA DLRM DOCA HBM HPC KNN NIC PDF
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
