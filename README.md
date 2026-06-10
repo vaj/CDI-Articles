@@ -5169,6 +5169,18 @@ C.J. Newburn (NVIDIA) and Wen-mei Hwu (NVIDIA)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU IOPS LLM RDMA FIT TCO FAST NVIDIA DRAM HPM API CUDA DLRM DOCA HBM HPC KNN NIC PDF
 
+Erich Haratsch (Marvell)
+
+<a id="455"></a>
+
+2025/11/15 [SNIA SDC 2025 - Storage Devices for the AI Data Center](https://www.snia.org/sites/default/files/2025-10/SNIA-SDC25-Haratsch-Storage-Devices-AI-Data-Center.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=0BUpcDSmW6E)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/455)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NAND IOPS SSD CPU GPU PCIE PCIe DRAM DPU NVIDIA NVMe PCI TLC DDR InfiniBand SNIA SRAM GPT NIC EDSFF
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
