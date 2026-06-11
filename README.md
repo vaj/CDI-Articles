@@ -5181,6 +5181,18 @@ Erich Haratsch (Marvell)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NAND IOPS SSD CPU GPU PCIE PCIe DRAM DPU NVIDIA NVMe PCI TLC DDR InfiniBand SNIA SRAM GPT NIC EDSFF
 
+Curtis Ballard (HPE)
+
+<a id="456"></a>
+
+2025/11/15 [SNIA SDC 2025 - Storage for AI 102](https://www.snia.org/sniadeveloper/session/19360)
+
+[YouTube](https://www.youtube.com/watch?v=bfEILj4Z4qk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/456)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU RAG FAST CPU RDMA FIT GPT SDC SSD DNA HBM HPC JSON NVMe PyTorch RAM REST SNIA TensorFlow XPU
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
