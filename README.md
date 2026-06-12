@@ -5193,6 +5193,18 @@ Curtis Ballard (HPE)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU RAG FAST CPU RDMA FIT GPT SDC SSD DNA HBM HPC JSON NVMe PyTorch RAM REST SNIA TensorFlow XPU
 
+Scott Shadley (Solidigm) and Andy Banta (Magnition IO)
+
+<a id="457"></a>
+
+2025/11/15 [SNIA SDC 2025 - Total Cost and Performance of SSDs](https://www.snia.org/sniadeveloper/session/19371)
+
+[YouTube](https://www.youtube.com/watch?v=XsfnItj05-E)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/457)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD TCO CAPEX OPEX IOPS LLM NVMe REST CXL DRAM FAST FIT GPU HPE NUMA SATA SDC BAR CEO CSP
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
