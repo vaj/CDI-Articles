@@ -5217,6 +5217,18 @@ Alessandro Goncalves (Solidigm)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RAM DRAM FAST CPU KNN GPU GTC RAG SSD AMD CUDA LLM NVIDIA NVMe SQL
 
+Dan Helmick (Samsung)
+
+<a id="459"></a>
+
+2025/11/15 [SNIA SDC 2025 - SSD Virtualization: Enabling New Possibilities for SSD-Based Ecosystems](https://www.snia.org/sniadeveloper/session/19370)
+
+[YouTube](https://www.youtube.com/watch?v=w5a6hy_yM0w)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/459)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): VMM SSD NVMe REST PCIE PCIe CPU GPU IEEE LBA NVM QOS QoS BoW FMS FPGA IOV TCG VMware
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
