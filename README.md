@@ -5741,6 +5741,18 @@ Himabindu Tummala (Dell), John Cardente (Dell), Fatemeh Azmandian (Dell)  and Mi
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU LLM API NFS RDMA SNIA CPU NVMe IOPS JSON RAG SQL SSD TCP URL
 
+Rohan Mehta (Micron Technology) and Bindu Tamala (Dell)
+
+<a id="461"></a>
+
+2026/06/11 [AI Stack: AI Meets Storage Comparing On Prem, Cloud and Hybrid Architectures Across the AI Lifecycle](https://www.snia.org/educational-library/ai-meets-storage-comparing-prem-cloud-and-hybrid-architectures-across-ai)
+
+[YouTube](https://www.youtube.com/watch?v=fVntohytJpk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/461)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVMe CPU RDMA SSD API SNIA IP
+
 ### Open Compute Project
 
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
