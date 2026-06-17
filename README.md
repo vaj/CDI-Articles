@@ -5781,6 +5781,18 @@ Robert Hormuth (AMD)
 
 ### The Linux Foundation
 
+Daniel Rohr (NVIDIA), Jesse Schrader (Intel) and Felix Schuster (Edgeless Systems)
+
+<a id="462"></a>
+
+2026/06/16 [LF Live Webinar: Agentic AI in the Wild: Rethinking Trust When Your AI Has the Keys](https://www.linuxfoundation.org/webinars/agentic-ai-in-the-wild-rethinking-trust-when-your-ai-has-the-keys?hsLang=en)
+
+[YouTube](https://www.youtube.com/watch?v=idqVgKK1oDc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/462)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVIDIA CPU PCIE PCIe AMD OS API
+
 Suresh Vasudevan (Clockwork.io), Gavin Cohen (Clockwork.io) and Jordan Nanos (SemiAnalysis)
 
 <a id="438"></a>
