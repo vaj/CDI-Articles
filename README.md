@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 322 disaggregated computing articles published on the website between March 2017 and March 2025, by date of publication, title, and author (organization and name listed).
+This document contains links to 459 disaggregated computing articles published on the website between March 2017 and June 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -97,10 +97,15 @@ All titles are in English, regardless of the language in which they were written
     - [NextGenInfra](#nextgeninfra)
     - [SNIA](#snia-5)
     - [Tech Field Day](#tech-field-day)
+    - [AMD](#amd)
+    - [Google](#google)
+    - [Open Compute Project](#open-compute-project-2)
+    - [The Linux Foundation](#the-linux-foundation-2)
   - [2026](#2026)
     - [SNIA](#snia-6)
     - [Open Compute Project](#open-compute-project-3)
     - [The Linux Foundation](#the-linux-foundation-3)
+    - [CXL Consortium](#cxl-consortium-6)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
 
@@ -5241,6 +5246,18 @@ Satish Kumar (Samsung)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU RDMA NVMe LBA LLM SPDK TCP XFS AMD API CAPEX CPU FMS META NIC OpenAI PyTorch RAM REST ROI
 
+John Mazzie (Micron Technology)
+
+<a id="463"></a>
+
+2025/11/15 [SNIA SDC 2025 - Small Granularity Graph Neural Network Training & the Future of Storage](https://www.snia.org/sniadeveloper/session/19369)
+
+[YouTube](https://www.youtube.com/watch?v=ytYC3whZv2Q)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/463)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU IOPS NVIDIA LLM SSD NVMe PCI SPDK META NAND DRAM FIT GTC LBA NVM PCIE PCIe REST
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
@@ -5635,12 +5652,6 @@ Jin Hase (Fujitsu) and Tsubasa Watanabe (Fujitsu)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU DRA CDI NVIDIA CPU OSS SPEC API CXL PCI PCIE PCIe SAN
 
-## APPENDIX
-
-<a id="acronyms"></a>
-
-### [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md)
-
 ## 2026
 
 ### SNIA
@@ -5819,3 +5830,8 @@ Jinin So, Wonjae Lee, Hojin Nam and Han Deok Lee (Samsung)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU DRAM API PCI NUMA OCP RDMA AMD CMS DCM DMTF FAST FPGA IEEE LinkedIn PCIE PCIe RAS RESTful
 
+## APPENDIX
+
+<a id="acronyms"></a>
+
+### [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md)
