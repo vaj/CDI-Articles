@@ -5258,6 +5258,18 @@ John Mazzie (Micron Technology)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU IOPS NVIDIA LLM SSD NVMe PCI SPDK META NAND DRAM FIT GTC LBA NVM PCIE PCIe REST
 
+William Moyes (AMD) and Shyam Iyer (Dell Technologies)
+
+<a id="464"></a>
+
+2025/11/15 [SNIA SDC 2025 - SDXI v1.1 Data Movement Accelerator Interface Update](https://www.snia.org/sniadeveloper/session/19361)
+
+[YouTube](https://www.youtube.com/watch?v=4-LUdRVXz2A)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/464)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SDXI CRC PCIE PCIe CPU BMC ISA NPU NVMe SPEC AMD DMA DPU DRAM GPU GUID LABS OPT REST SNIA
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
