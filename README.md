@@ -5318,6 +5318,18 @@ Jason Molgaard (Solidigm)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL SLM BAR NVMe UIO PCIE PCIe CMB HDM NVM SSD CXL.mem MEM CPU DMA FIT MMIO NVIDIA PCI
 
+Suresh Rajgopal (Micron) and Brent Byron (Micron)
+
+<a id="469"></a>
+
+2025/11/15 [SNIA SDC 2025 - Gen6 is coming, but what is Needed from NV Storage?](https://www.snia.org/sniadeveloper/session/19390)
+
+[YouTube](https://www.youtube.com/watch?v=6a7h0g6t0T0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/469)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM GPU SSD NAND PCB FIT LLM CPU PCIE PCIe AMD DNA FAST NVMe OCP PCI QOS QoS SDC SPEC
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
