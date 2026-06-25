@@ -5330,6 +5330,18 @@ Suresh Rajgopal (Micron) and Brent Byron (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM GPU SSD NAND PCB FIT LLM CPU PCIE PCIe AMD DNA FAST NVMe OCP PCI QOS QoS SDC SPEC
 
+John Groves (Micron Technology)
+
+<a id="470"></a>
+
+2025/11/15 [SNIA SDC 2025 - FAMFS: Get Ready for Big Pools of Disaggregated Shared Memory](https://www.snia.org/sites/default/files/2025-09/SNIA-SDC25-Groves-famfs-Get-Ready-for-Big-Pools.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=SHbVEd9WX-I)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/470)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): FAMFS DAX CXL RAM FIT CPU DCD NVMe SPEC TLB XFS CLI CSV OPT PMEM POSIX RDMA UUID ARM BAR
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
@@ -5417,6 +5429,8 @@ Shane Corban (AMD)
 [Text](https://github.com/vaj/CDI-Info/blob/main/412)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UEC GPU AMD OCP RDMA UAL CPU NIC PCIE PCIe DPU ECN HPC InfiniBand MIT REST
+
+### Google
 
 ### Google
 
