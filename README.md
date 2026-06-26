@@ -5342,6 +5342,18 @@ John Groves (Micron Technology)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): FAMFS DAX CXL RAM FIT CPU DCD NVMe SPEC TLB XFS CLI CSV OPT PMEM POSIX RDMA UUID ARM BAR
 
+Wes Vaske (Micron)
+
+<a id="471"></a>
+
+2025/11/15 [SNIA SDC 2025 - Discussion and Analysis of the MLPerf Storage Benchmark Suite and AI Storage Workloads](https://www.snia.org/sniadeveloper/session/19318)
+
+[YouTube](https://www.youtube.com/watch?v=6lXbL5BrmWA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/471)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU NVMe FAST LLM FMS HBM HPM META REST AMD DMA FIT HPC LABS MLC NVIDIA RAG RDMA ResNet
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
@@ -5429,8 +5441,6 @@ Shane Corban (AMD)
 [Text](https://github.com/vaj/CDI-Info/blob/main/412)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UEC GPU AMD OCP RDMA UAL CPU NIC PCIE PCIe DPU ECN HPC InfiniBand MIT REST
-
-### Google
 
 ### Google
 
