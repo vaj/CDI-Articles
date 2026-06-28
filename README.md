@@ -5354,6 +5354,18 @@ Wes Vaske (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU NVMe FAST LLM FMS HBM HPM META REST AMD DMA FIT HPC LABS MLC NVIDIA RAG RDMA ResNet
 
+Eshcar Hillel (Pliops)
+
+<a id="472"></a>
+
+2025/11/15 [SNIA SDC 2025 - Disaggregated KV Storage: A New Tier for Efficient Scalable LLM Inference](https://www.snia.org/sniadeveloper/session/19280)
+
+[YouTube](https://www.youtube.com/watch?v=aEUuqzjMOCM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/472)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU LLM SLA HBM SSD SRAM API DPU NVIDIA CPU DRAM SMART IOPS NIC BAR CEO FAST FIT HPM IBM
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
