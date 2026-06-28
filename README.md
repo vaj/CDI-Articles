@@ -5366,6 +5366,18 @@ Eshcar Hillel (Pliops)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU LLM SLA HBM SSD SRAM API DPU NVIDIA CPU DRAM SMART IOPS NIC BAR CEO FAST FIT HPM IBM
 
+Sergei Platonov (Xinnor) and Ned Pyle (Tuxera)
+
+<a id="473"></a>
+
+2025/11/15 [SNIA SDC 2025 - Choosing Your AI Storage Protocol: A Deep Dive into SMB and NFS Performance, Tuning, and Overhead](https://www.snia.org/sniadeveloper/session/19326)
+
+[YouTube](https://www.youtube.com/watch?v=pU6NSAB3dAs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/473)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NFS SMB CPU RDMA GPU TCP XFS AMD MAC NVIDIA ARM DPU FAST FMS HPC IBM OSS PID POSIX REST
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
