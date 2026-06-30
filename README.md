@@ -5390,6 +5390,18 @@ Jason Molgaard (Solidigm) and Shyam Iyer (Dell Technologies)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SDXI NVMe CMB PMR DMA IOMMU SPEC NVM FIT CPU DRAM CXL JSON MMU NIC PCIE PCIe SDC SLM SNIA
 
+Scott Lee (Microsoft) and Chet Douglas (Microsoft)
+
+<a id="475"></a>
+
+2025/11/15 [SNIA SDC 2025 - CXL Memory in Windows](https://www.snia.org/sniadeveloper/session/19309)
+
+[YouTube](https://www.youtube.com/watch?v=xuZSnujiVgg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/475)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL DRAM RAS SPEC ACPI DPA AER DCD PCI API NUMA REST DDR MSI MSIX BMC CPU CXL.io HDMH MEM
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
