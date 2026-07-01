@@ -5402,6 +5402,18 @@ Scott Lee (Microsoft) and Chet Douglas (Microsoft)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL DRAM RAS SPEC ACPI DPA AER DCD PCI API NUMA REST DDR MSI MSIX BMC CPU CXL.io HDMH MEM
 
+Adam Manzanares (Samsung) and Anisa Su (Samsung)
+
+<a id="476"></a>
+
+2025/11/15 [SNIA SDC 2025 - CXL Ecosystem Innovation Leveraging QEMU-based Emulation](https://www.snia.org/sniadeveloper/session/19282)
+
+[YouTube](https://www.youtube.com/watch?v=KRyFKL4n2NU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/476)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL DAX NVMe BMC DCD MCTP RAM API CCI CPU FMAPI HPC ARM PMEM CLI KVM USB CMS CXL.io DAC
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
