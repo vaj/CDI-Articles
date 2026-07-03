@@ -5426,6 +5426,18 @@ Huihuo Zheng (Argonne National Laboratory)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU HPC FAST NIC PyTorch NVMe CPU DOE NVIDIA TensorFlow HTTP ChatGPT IBM JSON PCIE PCIe RAG ResNet
 
+Venkat Pullela (Keysight Technologies)
+
+<a id="478"></a>
+
+2025/11/15 [SNIA SDC 2025 - Assessing AI Storage Communication Performance at Scale](https://www.snia.org/sniadeveloper/session/19387)
+
+[YouTube](https://www.youtube.com/watch?v=FkIhnqxUitc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/478)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RDMA GPU FAST NVIDIA PCIE PCIe META AWS CPU CTO DMA HPM LABS NFS NIC POC PoC SNIA TCP
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
