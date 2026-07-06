@@ -5462,6 +5462,18 @@ John Geldman (Kioxia), Mike Allison (Samsung) and Anthony Constantine (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIE PCIe SFF SSD SPEC PCI OCP NVMe AMD EDSFF FAST FIT SIG PCB ASIC CPU CXL E3S GPU I3C
 
+Anthony Constantine (Micron)
+
+<a id="481"></a>
+
+2025/11/15 [SNIA SDC 2025 - Why Should We Have Yet Another Enterprise and Datacenter Standard Form Factor for SSDs](https://www.snia.org/sniadeveloper/session/19329)
+
+[YouTube](https://www.youtube.com/watch?v=5CJkn1Xo2hw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/481)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD NAND SPEC EDSFF PCB DRAM SFF FIT OCP SATA DRA FMS META NIC NVMe PCI PCIE PCIe PMIC SAS
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
