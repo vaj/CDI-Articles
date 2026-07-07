@@ -5474,6 +5474,18 @@ Anthony Constantine (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD NAND SPEC EDSFF PCB DRAM SFF FIT OCP SATA DRA FMS META NIC NVMe PCI PCIE PCIe PMIC SAS
 
+Gary Smerdon (MEXT)
+
+<a id="482"></a>
+
+2025/11/15 [SNIA SDC 2025 - Radical Reduction in Computing Costs with AI-powered Predictive Memory Technology](https://www.snia.org/sniadeveloper/session/19281)
+
+[YouTube](https://www.youtube.com/watch?v=can07RLOS4Y)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/482)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DRAM CPU AMD NVMe AWS CXL META FAST SRAM ARM FIT GPU HPE IBM MAC NUMA REST VMware CEO ChatGPT
+
 ### Tech Field Day
 
 Bernie Wu (MemVerge)
