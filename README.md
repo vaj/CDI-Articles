@@ -5868,6 +5868,18 @@ Yuning Liang (DeepComputing)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RISC SOC SoC ARM CPU PCIE PCIe SPEC FIT GPU PyTorch REST TSMC BoW CEO COVID CUDA ChatGPT DDR FPGA
 
+Joongi Kim (Lablup Inc.)
+
+<a id="483"></a>
+
+2025/11/12 [Sokovan - An Acceleration-first Kubernetes-compatible AI Container Engine](https://static.sched.com/hosted_files/osskorea2025/b7/OSS-Korea25-Sokovan.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=NtMeN3ocpEw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/483)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU HPC CPU DRA OpenAI RDMA NVIDIA AMD API GTC HPM JSON PyTorch TCP
+
 Jin Hase (Fujitsu) and Tsubasa Watanabe (Fujitsu)
 
 <a id="444"></a>
