@@ -5842,6 +5842,18 @@ Abe Garcia (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NIC OCP BMC CXL META BAR CPU DCSCM FPGA MCIO PCB SSD DCMHS DNO I2C PCI PCIE PCIe PIC SIG
 
+CJ Newburn (NVIDIA) and Vikram Sharma Mailthody (NVIDIA)
+
+<a id="487"></a>
+
+2025/10/23 [Technical Paths to the New Era of GPU-initiated Storage](https://drive.google.com/file/d/1E_1ZTP_SrDS5t3jy3ValtqPG7iMUYcCl/view)
+
+[YouTube](https://www.youtube.com/watch?v=_JPSyy0M87s)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/487)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU IOPS CPU FIT NVMe TCO HPM API CXL NAND DMA HBM LLM PCIE PCIe REST SKU
+
 Jack Luoh (QCT and Quanta Computer)
 
 <a id="486"></a>
