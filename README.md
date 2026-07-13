@@ -5842,6 +5842,18 @@ Abe Garcia (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NIC OCP BMC CXL META BAR CPU DCSCM FPGA MCIO PCB SSD DCMHS DNO I2C PCI PCIE PCIe PIC SIG
 
+Ross Stenfort (Meta), Ayberk Ozturk (Microsoft), David Black (Dell Technologies), Paul Kaler (HPE), and Chris Sabol (Google)
+
+<a id="488"></a>
+
+2025/10/23 [Spec Updates & What Customers Care About](https://drive.google.com/file/d/1KlBSjA0TIGSgHTjrMF8n6Yc1k9X2yiTC/view)
+
+[YouTube](https://www.youtube.com/watch?v=oAGoAklCxLc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/488)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP NVMe SPEC SSD SATA TCG CLA CLI META HPE PCI SAS SKU SMART SPDM FAST I3C IEEE IOPS JSON
+
 CJ Newburn (NVIDIA) and Vikram Sharma Mailthody (NVIDIA)
 
 <a id="487"></a>
