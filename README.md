@@ -5866,6 +5866,18 @@ Ahmad Danesh (Astera Labs)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU LABS BMC SPEC CXL AMD ARM CPO CPU OCP OpenBMC PCI PCIE PCIe SIG UALink
 
+Jinzhou (Riff) Jiang (Microsoft) and Eddie Ruan (Alibaba)
+
+<a id="492"></a>
+
+2025/10/23 [SONiC's Scale-up AI Cluster approach](https://drive.google.com/file/d/1SrrIL2mRYvoOSCugE_ITK8OBbPKBv5zv/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=2U3zPxGka5Y)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/492)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU ASIC UEC HPM NDA API CPU MAC RDMA AXI CLA CXL ECN FIT HPC OCP PCIE PCIe SPEC
+
 Siamak Tavallaei (Samsung)
 
 <a id="489"></a>
