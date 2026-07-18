@@ -5878,6 +5878,18 @@ Jinzhou (Riff) Jiang (Microsoft) and Eddie Ruan (Alibaba)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU ASIC UEC HPM NDA API CPU MAC RDMA AXI CLA CXL ECN FIT HPC OCP PCIE PCIe SPEC
 
+Saikrishna Arcot (Microsoft)
+
+<a id="493"></a>
+
+2025/10/23 [SONiC Flaky Case Management](https://drive.google.com/file/d/1lpNFJFx9dotkmQ_8a9idSJJt42-MVUDP/view)
+
+[YouTube](https://www.youtube.com/watch?v=y8KkqJJqidI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/493)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM ASIC OCP PCI CXL FAST RTL Rtl AXI SSD UCIE UCIe UEFI AMBA CMN CPU EDA FLIT IDE NVMe
+
 Siamak Tavallaei (Samsung)
 
 <a id="489"></a>
