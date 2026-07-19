@@ -5890,6 +5890,18 @@ Saikrishna Arcot (Microsoft)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM ASIC OCP PCI CXL FAST RTL Rtl AXI SSD UCIE UCIe UEFI AMBA CMN CPU EDA FLIT IDE NVMe
 
+Akarsh Gupta (Google) and Jason Bos (Cisco Systems Inc.)
+
+<a id="494"></a>
+
+2025/10/23 [RSR: Rapid Hitful S/W Upgrade](https://drive.google.com/file/d/1EzcNSKnFa5loq3Ush5KHju5kmB8YwMLK/view?usp=drive_link)
+
+[YouTube](https://www.youtube.com/watch?v=xxfhufOVIDM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/494)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SDK FAST API ASIC CPU DMA ECN GPU RAM SSD TCP
+
 Siamak Tavallaei (Samsung)
 
 <a id="489"></a>
