@@ -5902,6 +5902,18 @@ Akarsh Gupta (Google) and Jason Bos (Cisco Systems Inc.)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SDK FAST API ASIC CPU DMA ECN GPU RAM SSD TCP
 
+Yogesh Varma (OCP), Drew Walton (Microsoft), Vilas Sridharan (AMD), Carlos Vallin (Microsoft), Shubhada Pugaonkar (Intel), and Anil Agrawal (Meta)
+
+<a id="495"></a>
+
+2025/10/23 [Panel: Hardware Fault Management Progress Towards Reliability at Scale](https://drive.google.com/file/d/16KbOkSQM6AcnN_hdS_DV9zdNbq2eT-Cu/view)
+
+[YouTube](https://www.youtube.com/watch?v=zjBXLbPcOi8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/495)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RAS API SPEC BMC DMTF OCP PLDM CLA CPU FAST AMD DDR FIT MCTP DDR5 GPU HBM META OpenBMC PCI
+
 Siamak Tavallaei (Samsung)
 
 <a id="489"></a>
