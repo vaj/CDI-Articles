@@ -5914,6 +5914,18 @@ Yogesh Varma (OCP), Drew Walton (Microsoft), Vilas Sridharan (AMD), Carlos Valli
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RAS API SPEC BMC DMTF OCP PLDM CLA CPU FAST AMD DDR FIT MCTP DDR5 GPU HBM META OpenBMC PCI
 
+Brad Rampelberg (Jabil)
+
+<a id="496"></a>
+
+2025/10/23 [Pioneering with OCP Jabil's Building Blocks for the Modern Data Center](https://drive.google.com/file/d/1tWAX5uPPfx0RvVMQMzHzk2DrXb7MZ-MM/view)
+
+[YouTube](https://www.youtube.com/watch?v=K4ZP8hzo96A)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/496)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD ARM GPU OEM MHS CPU CTO FAST Jabil MPI NVIDIA ODM PCIE PCIe SAN SKU
+
 Siamak Tavallaei (Samsung)
 
 <a id="489"></a>
