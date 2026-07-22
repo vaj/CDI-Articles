@@ -5926,6 +5926,18 @@ Brad Rampelberg (Jabil)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD ARM GPU OEM MHS CPU CTO FAST Jabil MPI NVIDIA ODM PCIE PCIe SAN SKU
 
+Ross Stenfort (Meta), Arthur Lai (Molex), Peter Choi (Pure Storage), and Anthony Constantine (Micron Technology)
+
+<a id="497"></a>
+
+2025/10/23 [Panel: EDSFF New and Upcoming Updates](https://drive.google.com/file/d/1_3UXiVy_caDr_Ps54L768_zGacM_gSQH/view)
+
+[YouTube](https://www.youtube.com/watch?v=8PpmAAKHxkU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/497)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SPEC EDSFF NAND OCP SFF SSD FAST PCIE PCIe FIT FMS FR4 NVMe DDR DRAM NIC PCB PCI SNIA TLC
+
 Siamak Tavallaei (Samsung)
 
 <a id="489"></a>
