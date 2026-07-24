@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 494 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 495 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -106,6 +106,7 @@ All titles are in English, regardless of the language in which they were written
     - [Open Compute Project](#open-compute-project-3)
     - [The Linux Foundation](#the-linux-foundation-3)
     - [CXL Consortium](#cxl-consortium-6)
+    - [The Linux Foundation](#the-linux-foundation-4)
   - [APPENDIX](#appendix)
     - [Acronyms](#acronyms)
 
@@ -6237,6 +6238,20 @@ Neha Gholkar (Meta) and Hasan Al Maruf (Meta)
 [Text](https://github.com/vaj/CDI-Info/blob/main/498)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU DRAM PCIE PCIe AMD DDR DDR4 DDR5 NUMA ASIC PCI OS ML AI BIOS ACPI MEM TCO
+
+### The Linux Foundation
+
+Rob Nertney (NVIDIA) and Spencer Gilson (NVIDIA)
+
+<a id="499"></a>
+
+2026/07/17 [NVIDIA Confidential Computing Attestation for Next-Generation AI Hardware](https://ccsummit2026.sched.com/event/2NJXT/nvidia-confidential-computing-attestation-for-next-generation-ai-hardware-rob-nertney-spencer-gilson-nvidia)
+
+[YouTube](https://www.youtube.com/watch?v=hTCHZTdVV5Y)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/499)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVIDIA CPU PCIE PCIe PCI AI ARM FPGA
 
 Jinin So, Wonjae Lee, Hojin Nam and Han Deok Lee (Samsung)
 
