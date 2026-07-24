@@ -6226,6 +6226,18 @@ Suresh Vasudevan (Clockwork.io), Gavin Cohen (Clockwork.io) and Jordan Nanos (Se
 
 ### CXL Consortium
 
+Neha Gholkar (Meta) and Hasan Al Maruf (Meta)
+
+<a id="498"></a>
+
+2026/07/21 [Scaling CXL® to Millions of Servers: Vistara for Hyperscale Efficiency](https://computeexpresslink.org/event/scaling-cxl-to-millions-of-servers-vistara-for-hyperscale-efficiency/)
+
+[YouTube](https://www.youtube.com/watch?v=fyBqaG2V5Xk)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/498)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU DRAM PCIE PCIe AMD DDR DDR4 DDR5 NUMA ASIC PCI OS ML AI BIOS ACPI MEM TCO
+
 Jinin So, Wonjae Lee, Hojin Nam and Han Deok Lee (Samsung)
 
 <a id="442"></a>
