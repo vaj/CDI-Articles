@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 459 disaggregated computing articles published on the website between March 2017 and June 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 494 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
