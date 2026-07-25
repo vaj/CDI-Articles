@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 495 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 496 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -6252,6 +6252,18 @@ Rob Nertney (NVIDIA) and Spencer Gilson (NVIDIA)
 [Text](https://github.com/vaj/CDI-Info/blob/main/499)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVIDIA CPU PCIE PCIe PCI AI ARM FPGA
+
+Sonali Mishra (Nutanix)
+
+<a id="500"></a>
+
+2026/07/17 [Running AI Agents Inside TEEs Without Losing Your Mind](https://ccsummit2026.sched.com/event/2NJXo/running-ai-agents-inside-tees-without-losing-your-mind-sonali-mishra-nutanix)
+
+[YouTube](https://www.youtube.com/watch?v=R9Suxhgjo8E)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/500)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU CPU AMD NVIDIA PCI PCIE PCIe VM LLM ARM OS HBM HIPAA AWS
 
 Jinin So, Wonjae Lee, Hojin Nam and Han Deok Lee (Samsung)
 
