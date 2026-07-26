@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 496 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 497 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -6264,6 +6264,18 @@ Sonali Mishra (Nutanix)
 [Text](https://github.com/vaj/CDI-Info/blob/main/500)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU CPU AMD NVIDIA PCI PCIE PCIe VM LLM ARM OS HBM HIPAA AWS
+
+Tanya Verma (Tinfoil)
+
+<a id="501"></a>
+
+2026/07/17 [Characterizing NVIDIA Confidential Computing Overheads Across Model Inference & Training](https://ccsummit2026.sched.com/event/2NKbV/characterizing-nvidia-confidential-computing-overheads-across-model-inference-training-tanya-verma-tinfoil)
+
+[YouTube](https://www.youtube.com/watch?v=Bk-EBW9VhLY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/501)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVIDIA CPU PCIE PCIe PCI AI DMA NVLink LLM VM DRAM TDX
 
 Jinin So, Wonjae Lee, Hojin Nam and Han Deok Lee (Samsung)
 
