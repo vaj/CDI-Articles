@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 497 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 498 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -6276,6 +6276,18 @@ Tanya Verma (Tinfoil)
 [Text](https://github.com/vaj/CDI-Info/blob/main/501)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NVIDIA CPU PCIE PCIe PCI AI DMA NVLink LLM VM DRAM TDX
+
+Kapil Mehta (Cisco)
+
+<a id="502"></a>
+
+2026/07/01 [53 Years of Ethernet: Evolving With Open Standards for AI Infrastructure](https://ossindia2026.sched.com/event/2KNHs/53-years-of-ethernet-evolving-with-open-standards-for-ai-infrastructure-kapil-mehta-cisco-systems-india-private-limited)
+
+[YouTube](https://www.youtube.com/watch?v=vB0QrUiY-28)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/502)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU OCP UEC RDMA NIC CPU NVIDIA IP HPC InfiniBand NVLink TCP ECN IBM
 
 Jinin So, Wonjae Lee, Hojin Nam and Han Deok Lee (Samsung)
 
