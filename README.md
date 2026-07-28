@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 498 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 499 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -6212,6 +6212,18 @@ Daniel Rohr (NVIDIA), Jesse Schrader (Intel) and Felix Schuster (Edgeless System
 [Text](https://github.com/vaj/CDI-Info/blob/main/462)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVIDIA CPU PCIE PCIe AMD OS API
+
+Yahav Biran (Amazon)
+
+<a id="503"></a>
+
+2026/06/03 [BoF: DRA for AI Workloads: Where Does the Spec Need To Go Next?](https://osselcna2026.sched.com/event/2JQqs/bof-dra-for-ai-workloads-where-does-the-spec-need-to-go-next-yahav-biran-amazon)
+
+[YouTube](https://www.youtube.com/watch?v=pxvEvdMK_RA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/503)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU GPU PCI AMD HBM NUMA NVIDIA ML DMA SIG InfiniBand
 
 Suresh Vasudevan (Clockwork.io), Gavin Cohen (Clockwork.io) and Jordan Nanos (SemiAnalysis)
 
