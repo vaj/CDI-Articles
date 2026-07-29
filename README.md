@@ -5139,6 +5139,18 @@ Arthur Sainio (SNIA), Anil Godbole (Intel) Andy Mills (SMART Modular Technologie
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL GPU CPU DRAM LLM RAG DDR5 HBM PCIE PCIe RDMA TCO SMART AMD FIT MemVerge NUMA NVMe DDR4 DMA
 
+William Moyes (AMD) and Shyam Iyer (Dell)
+
+<a id="504"></a>
+
+2025/11/15 [SNIA SDC 2025 - SDXI v1.1 Data Movement Accelerator Interface Update](https://www.snia.org/sniadeveloper/session/19361)
+
+[YouTube](https://www.youtube.com/watch?v=4-LUdRVXz2A)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/504)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SDXI CRC PCIE PCIe CPU BMC ISA NPU NVMe SPEC AMD DMA DPU DRAM GPU GUID LABS OPT REST SNIA
+
 Suresh Rajgopal (Micron), Chandra Gura (Micron) and Pierre Labat (Micron)
 
 <a id="452"></a>
