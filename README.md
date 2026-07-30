@@ -6249,6 +6249,20 @@ Suresh Vasudevan (Clockwork.io), Gavin Cohen (Clockwork.io) and Jordan Nanos (Se
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU META NVIDIA PyTorch TCO LABS API CPO CUDA NDR NIC BAR CEO CPU GTC HBM NVLink NVMe RDMA REST
 
+### SNIA
+
+Kalyan Gunda (Dell) and Masoud Noori (Seagate)
+
+<a id="505"></a>
+
+2026/07/29 [Architecting AI Data Foundations: Object Storage Patterns for Scale, Access, and Longevity](https://www.snia.org/educational-library/architecting-ai-data-foundations-object-storage-patterns-scale-access-and)
+
+[YouTube](https://www.youtube.com/watch?v=LzKt3fZRiWs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/505)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVMe CPU SSD API SNIA RDMA IO NVIDIA DRAM HBM
+
 ### CXL Consortium
 
 Neha Gholkar (Meta) and Hasan Al Maruf (Meta)
