@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 499 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 502 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -105,6 +105,7 @@ All titles are in English, regardless of the language in which they were written
     - [SNIA](#snia-6)
     - [Open Compute Project](#open-compute-project-3)
     - [The Linux Foundation](#the-linux-foundation-3)
+    - [SNIA](#snia-7)
     - [CXL Consortium](#cxl-consortium-6)
     - [The Linux Foundation](#the-linux-foundation-4)
   - [APPENDIX](#appendix)
@@ -5950,6 +5951,18 @@ Ross Stenfort (Meta), Arthur Lai (Molex), Peter Choi (Pure Storage), and Anthony
 [Text](https://github.com/vaj/CDI-Info/blob/main/497)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SPEC EDSFF NAND OCP SFF SSD FAST PCIE PCIe FIT FMS FR4 NVMe DDR DRAM NIC PCB PCI SNIA TLC
+
+Hemal Shah (Broadcom) and Travis Hamilton (Arm)
+
+<a id="506"></a>
+
+2025/10/23 [PCIe 7.0 Enhancements for high-speed I/O connectivity for OCP server Infrastructure](https://drive.google.com/file/d/1W8R_n3w9UZthgn9GYoO59OxgXVsINz3r/view)
+
+[YouTube](https://www.youtube.com/watch?v=FXQxrB1JalU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/506)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UIO PCIE PCIe OCP PCI REST NIC TLP ARM DMA HPC OAM SPEC VCS
 
 Siamak Tavallaei (Samsung)
 
