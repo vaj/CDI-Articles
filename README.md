@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 502 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 503 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -5963,6 +5963,18 @@ Hemal Shah (Broadcom) and Travis Hamilton (Arm)
 [Text](https://github.com/vaj/CDI-Info/blob/main/506)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UIO PCIE PCIe OCP PCI REST NIC TLP ARM DMA HPC OAM SPEC VCS
+
+Hanung Jong (Samsung) and Wanja Li (Samsung)
+
+<a id="507"></a>
+
+2025/10/23 [OneMCC Building an Open Software Ecosystem for NDP Devices](https://drive.google.com/file/d/1ikS974a5vr6azKe4s4wzVwENb0Md-FH9/view)
+
+[YouTube](https://www.youtube.com/watch?v=9hW3neiQQGU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/507)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CXL POC PoC PyTorch XPU GPU SPEC CUDA PIM SQL CPU DRAM LLM PCIE PCIe SDK CMM DDR HBM
 
 Siamak Tavallaei (Samsung)
 
