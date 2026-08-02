@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 503 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 504 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -5975,6 +5975,18 @@ Hanung Jong (Samsung) and Wanja Li (Samsung)
 [Text](https://github.com/vaj/CDI-Info/blob/main/507)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CXL POC PoC PyTorch XPU GPU SPEC CUDA PIM SQL CPU DRAM LLM PCIE PCIe SDK CMM DDR HBM
+
+Thomas Ng (Intel Corporation), Joseph Hanson Vazquez (Intel Corporation), Jason Rock (Dell Technologies), and Satyam Saini (Meta)
+
+<a id="508"></a>
+
+2025/10/23 [OCP NIC 2025: Now and Beyond](https://drive.google.com/file/d/1YlVxEZElO9CaALqZPncw5KpEZmcCZ5b0/view)
+
+[YouTube](https://www.youtube.com/watch?v=mjGZbmki6BQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/508)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NIC OCP SPEC SFF PCI ASIC PCIE PCIe OSFP SIG USB DCMHS DCSCM NVIDIA OEM QSFP
 
 Siamak Tavallaei (Samsung)
 
