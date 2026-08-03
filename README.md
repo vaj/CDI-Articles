@@ -2,7 +2,7 @@
 
 ## About this book
 
-This document contains links to 504 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
+This document contains links to 505 disaggregated computing articles published on the website between March 2017 and July 2026, by date of publication, title, and author (organization and name listed).
 All titles are in English, regardless of the language in which they were written.
 
 ## Table of Contents
@@ -5975,6 +5975,18 @@ Hanung Jong (Samsung) and Wanja Li (Samsung)
 [Text](https://github.com/vaj/CDI-Info/blob/main/507)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): API CXL POC PoC PyTorch XPU GPU SPEC CUDA PIM SQL CPU DRAM LLM PCIE PCIe SDK CMM DDR HBM
+
+Manoj Wadekar (Meta) and Anjaneya Reddy Chagam (Intel)
+
+<a id="509"></a>
+
+2025/10/23 [OCP Composable Memory Systems (CMS) Sub Project Technical Update](https://drive.google.com/file/d/1onrpIWk4Lyb1NVrxEMYGFa0KvmyVfn9B/view)
+
+[YouTube](https://www.youtube.com/watch?v=Hg8YE3QnIm8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/509)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CMS OCP P2P GPU HBM ARM DAX DMTF FAST NUMA PCIE PCIe
 
 Thomas Ng (Intel Corporation), Joseph Hanson Vazquez (Intel Corporation), Jason Rock (Dell Technologies), and Satyam Saini (Meta)
 
