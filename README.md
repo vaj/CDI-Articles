@@ -6236,6 +6236,18 @@ Rohan Mehta (Micron Technology) and Bindu Tamala (Dell)
 
 ### Open Compute Project
 
+Le Xie (Harvard University) and Ming Lan Yu (Harvard University)
+
+<a id="512"></a>
+
+2026/08/06 [TAP TSIAW workstream 2026-08-05](https://www.opencompute.org/wiki/Academia_Industry_Engagement)
+
+[YouTube](https://www.youtube.com/watch?v=JDWL1RWbNm0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/512)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP TAP TSIAW AI GPU CPU PTP ML LLM power grid sustainability
+
 Patricia Gonzalez-Guerrero (AMD), Georgios Michelogiannakis (Sandia National Laboratories), David, Victor, and Hesham Elbakoury
 
 <a id="511"></a>
