@@ -6236,6 +6236,18 @@ Rohan Mehta (Micron Technology) and Bindu Tamala (Dell)
 
 ### Open Compute Project
 
+Patricia Gonzalez-Guerrero (AMD), Georgios Michelogiannakis (Sandia National Laboratories), David, Victor, and Hesham Elbakoury
+
+<a id="511"></a>
+
+2026/08/05 [Server OCE Modularity for HPC and AI workstream 2026-08-04](https://www.opencompute.org/wiki/Server/OpenChipletEconomy-HPC-AI-Modularity)
+
+[YouTube](https://www.youtube.com/watch?v=oagz43CViXQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/511)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP OCE HPC AI DDR HBM GPU CXL Chiplet SiP LPDDR CMS
+
 Ankur (Oracle)
 
 <a id="510"></a>
