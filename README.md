@@ -6236,6 +6236,18 @@ Rohan Mehta (Micron Technology) and Bindu Tamala (Dell)
 
 ### Open Compute Project
 
+Jonmichael Hands (Farm GPU) and Drew Pletcher (Lightning AI)
+
+<a id="517"></a>
+
+2026/08/11 [FTI Scaling AI Clusters at Neoclouds workstream 2026-08-10](https://www.opencompute.org/community/scaling-ai-clusters-at-neoclouds)
+
+[YouTube](https://www.youtube.com/watch?v=JYoI8iivYZg)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/517)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP FTI AI GPU BMC Redfish NVIDIA AMD DMTF NVLink OpenBMC
+
 Victor Lu (Independent) and Prakash Jain (Celestica)
 
 <a id="515"></a>
