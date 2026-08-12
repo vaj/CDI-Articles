@@ -6234,7 +6234,17 @@ Rohan Mehta (Micron Technology) and Bindu Tamala (Dell)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVMe CPU RDMA SSD API SNIA IP
 
-### Open Compute Project
+Adam Grinzbaum (Micron) and Drew Walton (Microsoft)
+
+<a id="518"></a>
+
+2026/08/12 [HM FMFM Fleetscale Memory Fault Management workstream 2026-08-11](https://www.opencompute.org/wiki/Hardware_Management/Fleet_Memory_Fault_Management)
+
+[YouTube](https://www.youtube.com/watch?v=iqiCb2u4fa0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/518)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP FMFM HM DRAM DDR5 DDR6 RAS ECS ECC CPU API SoC
 
 Jonmichael Hands (Farm GPU) and Drew Pletcher (Lightning AI)
 
