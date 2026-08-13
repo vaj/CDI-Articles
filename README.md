@@ -6342,6 +6342,18 @@ Marko Bartscherer (Intel) and Donald Haroun
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP HM DDD JSON MIPI RAS debug diagnostics Intel
 
+Drew Walton (Microsoft)
+
+<a id="519"></a>
+
+2026/07/29 [HM FMFM Fleetscale Memory Fault Management workstream 2026-07-28](https://www.opencompute.org/wiki/Hardware_Management/Fleet_Memory_Fault_Management)
+
+[YouTube](https://www.youtube.com/watch?v=B41Q2Nsf9bs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/519)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP FMFM HM RAS API CPU DRAM AMD NVIDIA ARM BMC DMTF PCIe PCI DIMM Redfish
+
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
 
 <a id="432"></a>
