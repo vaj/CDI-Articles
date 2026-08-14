@@ -6354,6 +6354,18 @@ Drew Walton (Microsoft)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP FMFM HM RAS API CPU DRAM AMD NVIDIA ARM BMC DMTF PCIe PCI DIMM Redfish
 
+Pankaj Mehra (The Ohio State University) and Gaurav Agarwal (Structura)
+
+<a id="520"></a>
+
+2026/07/29 [FTI Data Centric Computing workstream 2026-07-28](https://www.opencompute.org/wiki/OCP_Future_Technologies_Initiative/Data_Centric_Computing)
+
+[YouTube](https://www.youtube.com/watch?v=dHUUk3lXc5k)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/520)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP FTI DCC CXL AI GPU NVMe NVIDIA API SNIA PyTorch CMS FPGA
+
 Jean-Marc Philippe (Thales) and Loic Nacelo (Thales)
 
 <a id="432"></a>
