@@ -6234,6 +6234,20 @@ Rohan Mehta (Micron Technology) and Bindu Tamala (Dell)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVMe CPU RDMA SSD API SNIA IP
 
+### Open Compute Project
+
+Mohamad El-Batal (Seagate) and Majid Foodeei (Terra Signal)
+
+<a id="521"></a>
+
+2026/08/14 [Server CMS CMA Composable Memory Appliance Hardware workstream 2026-07-06](https://www.opencompute.org/wiki/Server/CMS)
+
+[YouTube](https://www.youtube.com/watch?v=V80e3v7gxIE)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/521)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP CMS CMA CXL PCIe PCI PCIE IO AMD TCO API SIG QSFP
+
 Adam Grinzbaum (Micron) and Drew Walton (Microsoft)
 
 <a id="518"></a>
