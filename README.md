@@ -6248,6 +6248,18 @@ Allan Cantle (Nallasway) and Don (Credo Semiconductor)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP OCE LSI CXL CPU PCIe PCI DRAM DDR DDR5 FLIT CRC FEC AXI UCIe
 
+Mike Kinney (Intel) and Tim Lewis (Insyde Software)
+
+<a id="524"></a>
+
+2026/08/14 [OPF Open Platform Firmware project 2026-08-13](https://www.opencompute.org/community/open-system-firmware)
+
+[YouTube](https://www.youtube.com/watch?v=lImXLYS_wuI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/524)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP OPF OpenSFI UPCI UEFI ACPI CXL CPU PCIe PCI MEM ECC PEI PI OS API
+
 Mohamad El-Batal (Seagate) and Majid Foodeei (Terra Signal)
 
 <a id="521"></a>
