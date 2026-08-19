@@ -6260,6 +6260,18 @@ Mike Kinney (Intel) and Tim Lewis (Insyde Software)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP OPF OpenSFI UPCI UEFI ACPI CXL CPU PCIe PCI MEM ECC PEI PI OS API
 
+Vishal Shah (Credo Semiconductor) and Allan Cantle (Nallasway)
+
+<a id="525"></a>
+
+2026/08/14 [Server OCE LSI Lightweight Serial Interconnect workstream 2026-06-23](https://www.opencompute.org/wiki/Server/OpenChipletEconomy)
+
+[YouTube](https://www.youtube.com/watch?v=qa_b5QusD-A)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/525)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP OCE LSI CXL AI PCIe PCI IO DDR HBM AXI UCIe ASIC ARM FLIT CRC VSR
+
 Mohamad El-Batal (Seagate) and Majid Foodeei (Terra Signal)
 
 <a id="521"></a>
