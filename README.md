@@ -4476,6 +4476,18 @@ Jim Handy (Objective Analysis)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI AMD APU AXDIMM BEOL CMOS CPU CXL DIMM DRAM FEOL FortiX GPU GSI HBM NAND NP NVIDIA PDF PIM PROM RAM SNIA SRAM SSD UCIe UPmem
 
+Jim Handy (Objective Analysis) and Tom Coughlin (Coughlin Associates)
+
+<a id="527"></a>
+
+2024/05/21 [SNIA SDC 2024 Prepare for Fundamental Architectural Changes to Storage and Memory](https://www.snia.org/educational-library/memories-are-driving-big-architectural-changes-hold-your-hats-2024)
+
+[YouTube](https://www.youtube.com/watch?v=fgm3o5afmdI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/527)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SNIA CXL CPU AI DRAM GPU DDR DDR4 DDR5 HBM NVMe SSD TPU OMI PIM MRAM UCIe OpenCAPI IBM RAM
+
 John Cardente (Dell)
 
 <a id="253"></a>
