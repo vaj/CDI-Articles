@@ -6110,6 +6110,18 @@ Yuning Liang (DeepComputing)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): RISC SOC SoC ARM CPU PCIE PCIe SPEC FIT GPU PyTorch REST TSMC BoW CEO COVID CUDA ChatGPT DDR FPGA
 
+Manorit Chawdhry (Texas Instruments)
+
+<a id="528"></a>
+
+2025/09/05 [A_Journey_To_the_Secure_World_of_OPTEE_From_the_Non-secure_World_of_Linux_-_Manorit_Chawdhry](https://static.sched.com/hosted_files/osseu2025/cb/A%20Journey%20To%20the%20Secure%20World%20of%20OPTEE.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=arzbSPRnEXQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/528)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM FAST UUID CPU SOC SoC OPT JTAG AMD IoT
+
 Joongi Kim (Lablup Inc.)
 
 <a id="483"></a>
