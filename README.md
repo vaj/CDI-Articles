@@ -5600,6 +5600,18 @@ Shane Corban (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): UEC GPU AMD OCP RDMA UAL CPU NIC PCIE PCIe DPU ECN HPC InfiniBand MIT REST
 
+Shivank Garg (AMD)
+
+<a id="529"></a>
+
+2025/08/18 [Overview_of_Linux_Page_Migration_and_Accelerating_It_With_Multi-threading_and_DMA_Of..._Shivank_Garg](https://hosted-files.sched.co/ossindia2025/50/OSS-Batch-Copy-offload.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=F0i3KAtetqU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/529)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DMA CPU NUMA TLB CXL FAST AMD PCI SDXI GPU DRAM RFC HBM LRU MEM NVIDIA OSS PCIE PCIe REST
+
 ### Google
 
 Chris Verne (Google)
