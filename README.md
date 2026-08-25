@@ -6110,6 +6110,18 @@ Phil Leech (HPE), Dave Heinrich (HPE), Jeff Kennedy (Dell) and Todd Rosedahl (Ja
 
 ### The Linux Foundation
 
+Manivannan Sadhasivam (Qualcomm)
+
+<a id="531"></a>
+
+2025/07/02 [Virtio_for_PCI_Endpoint_Subsystem_in_Linux_Kernel_-_Manivannan_Sadhasivam,_Linaro_Ltd](https://hosted-files.sched.co/ossna2025/b7/OSS-NA25.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=SyR2GTmq7Tw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/531)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCI SPEC GPU SOC SoC NVMe REST USB MSI BAR MSIX NVIDIA DDR AMD ARM IBM NVM RFC KVM
+
 Sumit Garg (Qualcomm)
 
 <a id="530"></a>
