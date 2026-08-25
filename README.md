@@ -6110,6 +6110,18 @@ Phil Leech (HPE), Dave Heinrich (HPE), Jeff Kennedy (Dell) and Todd Rosedahl (Ja
 
 ### The Linux Foundation
 
+Sumit Garg (Qualcomm)
+
+<a id="530"></a>
+
+2025/08/18 [Kernel_TEE_Subsystem_Evolution_-_Sumit_Garg,_Qualcomm_Inc.](https://hosted-files.sched.co/ossindia2025/61/OSS-INDIA-25-Kernel%20TEE%20Subsystem%20Evolution.pptx.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=ZfG8p9O5_EY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/530)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM DMA API SOC SoC AMD RISC OSS ABI CPU OPT UUID DRAM EDK2 GPU IoT PCI REST TPP USB
+
 Yuning Liang (DeepComputing)
 
 <a id="417"></a>
