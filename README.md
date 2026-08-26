@@ -6122,6 +6122,18 @@ Manivannan Sadhasivam (Qualcomm)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCI SPEC GPU SOC SoC NVMe REST USB MSI BAR MSIX NVIDIA DDR AMD ARM IBM NVM RFC KVM
 
+Julian Stephen and Michael Le (IBM)
+
+<a id="532"></a>
+
+2025/07/02 [Towards_Confidential_AI_for_the_Masses!_-_Julian_Stephen_&_Michael_Le,_IBM](https://hosted-files.sched.co/ossna2025/36/Confidential%20AI%20for%20the%20Masses.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=EAwNOJ3Zfzs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/532)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU NVIDIA AMD RAM TEE DMA IBM LLM API ARM EPYC GPT PCIE PCIe REST SAN SAT
+
 Sumit Garg (Qualcomm)
 
 <a id="530"></a>
