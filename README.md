@@ -6134,6 +6134,18 @@ Julian Stephen and Michael Le (IBM)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU CPU NVIDIA AMD RAM TEE DMA IBM LLM API ARM EPYC GPT PCIE PCIe REST SAN SAT
 
+Robin Getz (MathWorks)
+
+<a id="533"></a>
+
+2025/07/02 [Sensor_Data_Acquisition_With_Linux's_IIO_Subsystem_and_Libiio_-_Robin_Getz,_MathWorks](https://static.sched.com/hosted_files/ossna2025/cf/LinuxIIO-OSS-NA25.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=D12G9szke-o)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/533)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DMA USB ARM FPGA DAC MAC AMD GPU I2C PCI PCIE PCIe SOC SoC API COVID GNU MEM MIT OEM
+
 Sumit Garg (Qualcomm)
 
 <a id="530"></a>
