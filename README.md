@@ -6146,6 +6146,18 @@ Robin Getz (MathWorks)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): DMA USB ARM FPGA DAC MAC AMD GPU I2C PCI PCIE PCIe SOC SoC API COVID GNU MEM MIT OEM
 
+Anna Trikalinou (Microsoft)
+
+<a id="534"></a>
+
+2025/07/02 [Binding_TDISP_&_Platform_Attestation_Reports_for_Confidential_VMs_-_Anna_Trikalinou](https://hosted-files.sched.co/lssna2025/49/Binding%20TDISP%20%26%20Platform%20Attestation%20Evidence.pptx)
+
+[YouTube](https://www.youtube.com/watch?v=5VMEabtUcj4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/534)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU NVIDIA GPU SmartNIC UEFI smartNIC DRAM NIC SMART ABI IDE TCP AMD REST SIG TLS
+
 Sumit Garg (Qualcomm)
 
 <a id="530"></a>
