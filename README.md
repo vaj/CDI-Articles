@@ -6550,6 +6550,18 @@ Robert Hormuth (AMD)
 
 ### The Linux Foundation
 
+Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
+
+<a id="535"></a>
+
+2026/08/28 [KNOD_ In-Kernel Network Offload Device for GPU-Accelerated Packet Processing - T. Yoo & H. Lee](https://lpc.events/event/19/contributions/2267/attachments/1961/4179/LPC2025-Kernel-Native%20Packet%20processing.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=9DmHIUe9XJ0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/535)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU XDP BPF NIC CPU AMD DMA TCP API REST RFC JIT KFD HSA
+
 Daniel Rohr (NVIDIA), Jesse Schrader (Intel) and Felix Schuster (Edgeless Systems)
 
 <a id="462"></a>
