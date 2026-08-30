@@ -6194,6 +6194,18 @@ Manorit Chawdhry (Texas Instruments)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM FAST UUID CPU SOC SoC OPT JTAG AMD IoT
 
+Carl Shaw (Codasip)
+
+<a id="536"></a>
+
+2025/09/17 [Linux_and_CHERI__Back_to_the_Future_-_Carl_Shaw,_Codasip](https://hosted-files.sched.co/lsseu2025/dc/Linux%20and%20CHERI%20-%20Back%20to%20the%20Future.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=6KgwDV0IAnc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/536)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): MMU ARM CPU RISC API LLVM Neoverse TLB ABI CEPH DDR FIT ISA LABS META MIPS PCIE PCIe REST SDK
+
 Joongi Kim (Lablup Inc.)
 
 <a id="483"></a>
