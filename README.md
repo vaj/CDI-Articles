@@ -5016,6 +5016,18 @@ Daniel Wagner (SUSE) and Nilay Shroff (IBM)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): NVMe CPU ANA NUMA CLI API DMA GPU HPC IBM IOMMU MEM PCI PCIE PCIe RDMA REST SUSE TCP
 
+Davidlohr Bueso (Samsung Semiconductor)
+
+<a id="538"></a>
+
+2025/12/18 [CXL_HDM-DB_support_for_Linux_-_Davidlohr_Bueso,_Samsung_Semiconductor](https://lpc.events/event/19/contributions/2062/attachments/1810/3891/lpc25-dbueso-cxl-backinvalidate.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=rMO56FsNjlA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/538)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL PCI DCD HDM PCIE PCIe CPU CXL.cache DAX DMA MEM REST UIO AMD ARM CXL.mem FAMFS
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
