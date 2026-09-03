@@ -5040,6 +5040,18 @@ Alejandro Lucero (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU AMD DMA IOMMU PCI PCIE PCIe API ATS MEM VM GPU HPC MMIO NUMA REST TLB
 
+Dan Williams (Intel)
+
+<a id="540"></a>
+
+2025/12/18 [Confidential_Devices_TEE_I_O__A_series_of_modest_proposals_-_Dan_Williams,_Intel](https://lpc.events/event/19/contributions/2127/attachments/1944/4468/lpc25-dan-williams.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=hHsCfBWE7W0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/540)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TEE PCI TSM DMA TDISP SPDM CMA IOMMU MMIO API AMD CPU GPU IDE REST SOC SoC VM
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
