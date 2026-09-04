@@ -5052,6 +5052,18 @@ Dan Williams (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TEE PCI TSM DMA TDISP SPDM CMA IOMMU MMIO API AMD CPU GPU IDE REST SOC SoC VM
 
+Rajneesh Bhardwaj (AMD)
+
+<a id="541"></a>
+
+2025/12/18 [Parallel_Paths_to_High-Bandwidth_Memory_for_ML_AI__Specific_Purpose_Memory_vs_Driver-Managed_-_Rajneesh_Bhardwaj,_AMD](https://lpc.events/event/19/contributions/2064/attachments/1814/3895/Parallel_paths_to_HBM.pptx)
+
+[YouTube](https://www.youtube.com/watch?v=oXgL6LqeBZM)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/541)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): HBM GPU CPU NUMA DAX DDR CUDA AMD NVIDIA CXL EFI API MEM MMU PCI PCIE PCIe REST SPM
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
