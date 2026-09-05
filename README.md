@@ -4868,6 +4868,18 @@ Anil Godbole (Intel), Sandeep Dattaprasad (Astera Labs), Aravind Ramesh (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL FAMFS PCIE PCIe SPEC TCO LEO CPU DAX SMART GPU RAS RDMA TSP DDR5 DMTF IDE RocksDB SSD API
 
+Anil Godbole (CXL Consortium) with Siamak Tavallaei (Samsung), Geof Findley (Montage) and JP Jiang (Xconn)
+
+<a id="542"></a>
+
+2025/10/08 [How CXL Transforms Server Memory Infrastructure](https://computeexpresslink.org/wp-content/uploads/2025/10/CXL_Q3-2025-Webinar_FINAL.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=-lQk6kC0aNA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/542)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU DRAM DDR GPU HPC MEM PCI PCIE PCIe AI API AMD REST SSD TCO OEM
+
 Debendra Das Sharma and Mahesh Natu (Intel)
 
 <a id="451"></a>
@@ -4879,6 +4891,7 @@ Debendra Das Sharma and Mahesh Natu (Intel)
 [Text](https://github.com/vaj/CDI-Info/blob/main/451)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CRC PCI FEC FLIT CPU MEM CXL.io CXL.mem DDR SLD DRAM FIT RAS ATS DLP DMA GPU HDM IDE
+
 
 ### IOWN Global Forum
 
