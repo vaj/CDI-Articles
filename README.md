@@ -5077,6 +5077,18 @@ Rajneesh Bhardwaj (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): HBM GPU CPU NUMA DAX DDR CUDA AMD NVIDIA CXL EFI API MEM MMU PCI PCIE PCIe REST SPM
 
+Fenghua Yu (NVIDIA)
+
+<a id="543"></a>
+
+2025/12/18 [Microconference_for_resctrl_-_Fenghua_Yu,_NVIDIA](https://lpc.events/event/19/contributions/2093/attachments/1958/4172/resctrl%20Microconference%20LPC%202025%20Tokyo.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=pw5xhSRId54)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/543)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU MBA MBM NUMA MPAM AMD ARM API ACPI MMIO QoS ABI GPU HPC MEM PCI REST
+
 ### AI Infra Forum
 
 Anil Godbole (Intel)
