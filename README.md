@@ -5964,6 +5964,18 @@ Seungmin Woo (Georgia Institute of Technology), David Ratchkov (Anemoi Software 
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU HBM SRAM UCIE UCIe HPM JEDEC REST DRAM EDA PCB PCIE PCIe PDF POC PoC RISC
 
+Jianping Jiang (Xconn), Gaurav Agarwal (Marvell), Anil Godbole (Intel) and Xinjun Yang (Alibaba)
+
+<a id="546"></a>
+
+2025/10/23 [Co_Designing_for_Scale_CXL_Based_Memory_Solution_for_Data_Centric_Workloads](https://drive.google.com/file/d/1ZcQ7yQ_xumK63lvpk-NGxrDIu_K9-OyX/view)
+
+[YouTube](https://www.youtube.com/watch?v=xPJEVv-WdhY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/546)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU RDMA NUMA DRAM GPU SAP TCO DDR4 RAID AMD ARM BAR CMS CSP DDR DDR5 FIT HBM
+
 Abe Garcia (Meta)
 
 <a id="440"></a>
