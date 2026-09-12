@@ -6000,6 +6000,18 @@ Siamak Tavallaei (Samsung), Brian Pan (H3 Platform), Han Deok Lee (Samsung), Tae
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU DRAM AMD BIOS NVMe API CMS CSP DDR RDMA CMM DCM DVSEC InfiniBand NUMA OCP OEM PCI POC
 
+Nilesh Shah (ZeroPoint Technologies) and Navneet Rao (Altera)
+
+<a id="549"></a>
+
+2025/10/23 [Evaluating_CXL_Based_Composable_Memory_Solutions_A_TCO_Framework_for_Datacenter_Workloads](https://drive.google.com/file/d/1BO5-QTYbndPUZdKMJd-FJsKoR1dpyDPr/view)
+
+[YouTube](https://www.youtube.com/watch?v=ZCfwNl3wR1I)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/549)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO CXL GPU CMS FPGA CPU OCP AMD DDR4 DDR DDR5 DIMM DRAM FAST MLC PCIE PCIe SNIA
+
 Abe Garcia (Meta)
 
 <a id="440"></a>
