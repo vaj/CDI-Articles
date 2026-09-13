@@ -6012,6 +6012,18 @@ Nilesh Shah (ZeroPoint Technologies) and Navneet Rao (Altera)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO CXL GPU CMS FPGA CPU OCP AMD DDR4 DDR DDR5 DIMM DRAM FAST MLC PCIE PCIe SNIA
 
+Sumit Puri (Liqid) and Ajay Joshi (Micron)
+
+<a id="550"></a>
+
+2025/10/23 [Large_CXL_Memory_Expansion_Systems_and_Workloads](https://drive.google.com/file/d/1mlacT6_WNoL--P9w769HvAg1v88Y8m3D/view)
+
+[YouTube](https://www.youtube.com/watch?v=4Xdr47wROBc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/550)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): FAMFS CXL DRAM NVMe RAM DAX DMA FAST FIT GPU MEM OCP RDMA SLA YOLE
+
 Abe Garcia (Meta)
 
 <a id="440"></a>
