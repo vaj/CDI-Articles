@@ -6024,6 +6024,18 @@ Sumit Puri (Liqid) and Ajay Joshi (Micron)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): FAMFS CXL DRAM NVMe RAM DAX DMA FAST FIT GPU MEM OCP RDMA SLA YOLE
 
+Mohamad El-Batal (Seagate) and Hongjian Fan (Seagate)
+
+<a id="551"></a>
+
+2025/10/23 [Multi_Headed_Composable_Memory_Appliance_MHCMA_Next_Gen](https://drive.google.com/file/d/1UZB8hCefqM0SpszIn629ShOxrPmWRK6g/view)
+
+[YouTube](https://www.youtube.com/watch?v=Aa5YgL3gox8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/551)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO ASIC CXL DDR4 CFM CMS DRAM BMC CPU FPGA API CTO DDR DDR5 FAST
+
 Abe Garcia (Meta)
 
 <a id="440"></a>
