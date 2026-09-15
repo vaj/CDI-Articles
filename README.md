@@ -6036,6 +6036,18 @@ Mohamad El-Batal (Seagate) and Hongjian Fan (Seagate)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO ASIC CXL DDR4 CFM CMS DRAM BMC CPU FPGA API CTO DDR DDR5 FAST
 
+David Zhuo (Montage Technology)
+
+<a id="552"></a>
+
+2025/10/23 [Next_Gen_AI_HPC_Server_Performance_with_CXL3_1_Tiered_Memory_and_MRDIMM_solution](https://drive.google.com/file/d/1g9cTLIgW__ayQ_VIz7OJ0w2mMnovDu6s/view)
+
+[YouTube](https://www.youtube.com/watch?v=yKl0pwG2oEI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/552)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU GPU SSD AIC PCIE PCIe DRAM HBM TCO CSP DDR4 DDR5 FAST HPC POC PoC RCD
+
 Abe Garcia (Meta)
 
 <a id="440"></a>
