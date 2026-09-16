@@ -6012,6 +6012,18 @@ Nilesh Shah (ZeroPoint Technologies) and Navneet Rao (Altera)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO CXL GPU CMS FPGA CPU OCP AMD DDR4 DDR DDR5 DIMM DRAM FAST MLC PCIE PCIe SNIA
 
+Khurram Malik (Marvell) and Jinin So (Samsung Electronics)
+
+<a id="553"></a>
+
+2025/10/23 [Heterogeneous_Memory_Opportunity_with_Agentic_AI_and_Memory_Centric_Computing](https://drive.google.com/file/d/1TXMtqiweq5SVmjXtp7bcGFo3YwALzqii/view)
+
+[YouTube](https://www.youtube.com/watch?v=CZwqtGKk1M8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/553)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU GPU CXL DRAM OCP ARM FAST HPM LLM PCIE PCIe DDR5 DNA HPC KNN LZ4 PCI POC
+
 Sumit Puri (Liqid) and Ajay Joshi (Micron)
 
 <a id="550"></a>
