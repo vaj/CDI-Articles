@@ -6074,6 +6074,18 @@ Mohamad El-Batal (Seagate) and Hongjian Fan (Seagate)
 
 David Zhuo (Montage Technology)
 
+<a id="556"></a>
+
+2025/10/23 [Near_GPU_Storage_Requirements_for_Accelerating_Storage_to_Scale_AI_Workloads](https://drive.google.com/file/d/1gnzx3kSGUh8N7bsaL4PtxDnZgr_AFNg-/view)
+
+[YouTube](https://www.youtube.com/watch?v=I18E24sGrIs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/556)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI API CPU GPU IO IOPS META NVMe OCP OS SLA SLC SSD TCO TLC
+
+Ta-Yu Wu (Meta) and Ehsan Ardestani (Meta)
+
 <a id="552"></a>
 
 2025/10/23 [Next_Gen_AI_HPC_Server_Performance_with_CXL3_1_Tiered_Memory_and_MRDIMM_solution](https://drive.google.com/file/d/1g9cTLIgW__ayQ_VIz7OJ0w2mMnovDu6s/view)
