@@ -6026,6 +6026,18 @@ Nilesh Shah (ZeroPoint Technologies) and Navneet Rao (Altera)
 
 Khurram Malik (Marvell) and Jinin So (Samsung Electronics)
 
+<a id="557"></a>
+
+2025/10/23 [Experiences_in_Designing_a_Better_NVMe_Controller](https://drive.google.com/file/d/1kgJar6IfcMF6kECChAdokzatdXqXAgVY/view)
+
+[YouTube](https://www.youtube.com/watch?v=ghl7Oi_jDvI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/557)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): ARM CXL CPU IOPS NAND NVMe OCP PCIE PCIe SOC SoC SSD ScaleFlux SPEC FIT MMU TSMC
+
+Tim Amundsen (ScaleFlux) and Matt Bromage (Arm)
+
 <a id="553"></a>
 
 2025/10/23 [Heterogeneous_Memory_Opportunity_with_Agentic_AI_and_Memory_Centric_Computing](https://drive.google.com/file/d/1TXMtqiweq5SVmjXtp7bcGFo3YwALzqii/view)
