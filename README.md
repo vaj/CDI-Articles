@@ -6050,6 +6050,18 @@ Tim Amundsen (ScaleFlux) and Matt Bromage (Arm)
 
 Sumit Puri (Liqid) and Ajay Joshi (Micron)
 
+<a id="558"></a>
+
+2025/10/23 [Interconnects_and_Connectivity_for_At_scale_AI_Shaping_the_Future_of_Interconnects_and_Memory](https://drive.google.com/file/d/1dlEdWURTMy9yj9pOdbJSnpdeJhPKEab0/view)
+
+[YouTube](https://www.youtube.com/watch?v=SEyguMBUOwY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/558)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU GPU PCI DDR HBM NUMA NVIDIA HPC TCO RDMA CMS NVLink UALink META LPDDR CUDA RAG FAST SPEC
+
+Siamak Tavallaei (Samsung), Samir Rajadnya (Microsoft), Manoj Wadekar (Meta), Durgesh Srivastava (DataraAI), and Brian Hirano (XCENA)
+
 <a id="550"></a>
 
 2025/10/23 [Large_CXL_Memory_Expansion_Systems_and_Workloads](https://drive.google.com/file/d/1mlacT6_WNoL--P9w769HvAg1v88Y8m3D/view)
