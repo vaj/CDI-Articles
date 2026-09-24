@@ -6084,6 +6084,18 @@ Siamak Tavallaei (Samsung), Samir Rajadnya (Microsoft), Manoj Wadekar (Meta), Du
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU GPU PCI DDR HBM NUMA NVIDIA HPC TCO RDMA CMS NVLink UALink META LPDDR CUDA RAG FAST SPEC
 
+Krishna Doddapaneni (AMD)
+
+<a id="561"></a>
+
+2025/10/23 [Keynote___Using_P4_NICs_for_Resilient_Scale_out_GPU_Interconnect](https://drive.google.com/file/d/1ibQB_crjLcQU_FE1FVH7n6gbgTMjz1XF/view)
+
+[YouTube](https://www.youtube.com/watch?v=AgrpNj0YEKQ)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/561)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU NIC RDMA DMA DPU NVMe TCO TCP FIT AMD CAPEX PyTorch UEC
+
 Siamak Tavallaei (Samsung) and Millind Mittal (MemWize)
 
 <a id="550"></a>
