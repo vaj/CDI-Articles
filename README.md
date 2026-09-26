@@ -6872,6 +6872,18 @@ Robert Hormuth (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP AMD UEC DRAM GPU NIC OAM CPU FAST FIT GPT NVIDIA PCI PCIE PCIe REST SPEC
 
+Wai Chung Ngai (AMD)
+
+<a id="563"></a>
+
+2026/09/17 [Building Open and Scalable AI Infrastructure with AMD and OCP](https://drive.google.com/file/d/1efSXYFECLsqG9iks-INpv-ueGsuPrOS6/view)
+
+[YouTube](https://www.youtube.com/watch?v=8XYghpqOv8c)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/563)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU OCP AMD CPU FIT NIC PCIE PCIe API FAST HPM META TCO TSMC UBB
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
