@@ -6884,6 +6884,18 @@ Wai Chung Ngai (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU OCP AMD CPU FIT NIC PCIE PCIe API FAST HPM META TCO TSMC UBB
 
+Ryan Yue (Astera Labs)
+
+<a id="564"></a>
+
+2026/09/17 [PCIe 7 Signaling_ Electrical Challenges and Transition to Optics](https://drive.google.com/file/d/1TsE2sZ8pm86LUDI9zI1nbC0rCVKFhH4a/view)
+
+[YouTube](https://www.youtube.com/watch?v=0UGCO217c0M)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/564)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): LPO DSP PCIE PCIe SIG PCI PCB CPU GPU LABS ACS AOC MSA NIC NRZ OCP SPEC
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
