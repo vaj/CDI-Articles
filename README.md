@@ -6920,6 +6920,18 @@ Matt Holdrege (Microchip), Helia Naeimi (Astera Labs), Michael Lee (Synopsys), a
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SPEC UALink UEC OCP PCIE PCIe LABS AMD AWS CPU CXL FAST GPU IBM META SAS SATA SSD UAL UCIE
 
+Dirk Blevins (Intel) and Robert Hormuth (AMD)
+
+<a id="567"></a>
+
+2026/09/17 [Open Adapter Card (OAC) - The Definition of a Sub-Rackscale Acceleration Form Factor](https://drive.google.com/file/d/1G61FpPuS0oiSQe2RK6AhN68GMqQtt3eu/view)
+
+[YouTube](https://www.youtube.com/watch?v=V4n7fO-J3vI)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/567)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AMD GPU PCIE PCIe OEM HPM PCI SPEC NVIDIA ODM OAM UBB NIC SMART DGX MHS NVLink NVMe OCP OSC
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
