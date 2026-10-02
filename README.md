@@ -6944,6 +6944,18 @@ Rajat Agarwal (Intel) and Danny Volkind (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU GPU OCP DDR DDR5 DRAM HBM LLM LPDDR OLAP SAS TCO
 
+Richard Pitwon (Seagate)
+
+<a id="569"></a>
+
+2026/09/17 [Pushing the Boundaries of Storage and Memory with Light](https://drive.google.com/file/d/1DwbUTkr0Mt-fksrsJ7g63NwAlxlJeeZN/view)
+
+[YouTube](https://www.youtube.com/watch?v=tQXKFbCNmIA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/569)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIE PCIe CPO ARM CXL DSP FAST InfiniBand NVIDIA NVMe OCP OFC PCI
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
