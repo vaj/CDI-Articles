@@ -6956,6 +6956,18 @@ Richard Pitwon (Seagate)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIE PCIe CPO ARM CXL DSP FAST InfiniBand NVIDIA NVMe OCP OFC PCI
 
+Matt Holdrege (Microchip)
+
+<a id="570"></a>
+
+2026/09/16 [AI Fabric Architecture Options_ PCIe, ESUN, Copper, and Co-Packaged Optics](https://drive.google.com/file/d/1ZcNCJTAfMtLm1dn5Nmknzv1fv8JiMbEp/view)
+
+[YouTube](https://www.youtube.com/watch?v=V1vUe3kFxaA)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/570)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIE PCIe OCP PCI CPO SAN CXL FIT GPU IEEE PAM4 SAS SATA SIG SSD TSMC UEC
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
