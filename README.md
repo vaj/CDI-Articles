@@ -6968,6 +6968,18 @@ Matt Holdrege (Microchip)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIE PCIe OCP PCI CPO SAN CXL FIT GPU IEEE PAM4 SAS SATA SIG SSD TSMC UEC
 
+Kurtis Bowman (AMD) and J Metz (AMD)
+
+<a id="571"></a>
+
+2026/09/16 [Beyond 1.0_ UEC and UALink AI Networking](https://drive.google.com/file/d/1shNJzC0Oe5YiIQzmnKGq2IZepAxMujpf/view)
+
+[YouTube](https://www.youtube.com/watch?v=xGzAPKGWkTc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/571)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU UEC CXL HBM CPU FIT OCP SPEC BAR DDR HPC HPM IEEE NVMe PCIE PCIe
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
