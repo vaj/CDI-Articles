@@ -6980,6 +6980,18 @@ Kurtis Bowman (AMD) and J Metz (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU UEC CXL HBM CPU FIT OCP SPEC BAR DDR HPC HPM IEEE NVMe PCIE PCIe
 
+Gaurav Agarwal (Marvell) and Basavaraja M S (Marvell)
+
+<a id="572"></a>
+
+2026/09/15 [Smart Memory Fabrics for Data-Centric AI Serving at Scale](https://drive.google.com/file/d/1Yyclmd6CSojKH1U-KXCQ7UkoOX3l1x40/view)
+
+[YouTube](https://www.youtube.com/watch?v=5nPhQUgGH5A)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/572)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SMART CPU DMA PCIE PCIe RAG DDR DRAM GPU LLM NVMe OCP PCI RDMA SIMD XPU
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
