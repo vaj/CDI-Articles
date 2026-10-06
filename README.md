@@ -6992,6 +6992,18 @@ Gaurav Agarwal (Marvell) and Basavaraja M S (Marvell)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SMART CPU DMA PCIE PCIe RAG DDR DRAM GPU LLM NVMe OCP PCI RDMA SIMD XPU
 
+Ryuichi Fujimoto (Kioxia)
+
+<a id="573"></a>
+
+2026/09/15 [Feasibility Studies on Optical Solid-State Drives and Memory for AI Datacenters](https://drive.google.com/file/d/1ZSNcWG8SPVZJAdkXdv6HHYjIK6pPBYPK/view)
+
+[YouTube](https://www.youtube.com/watch?v=Udoeh1erayc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/573)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD NVMe PCIE PCIe CPO OCP CHI CPU NIC PCI
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
