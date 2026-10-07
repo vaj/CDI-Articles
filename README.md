@@ -7004,6 +7004,18 @@ Ryuichi Fujimoto (Kioxia)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD NVMe PCIE PCIe CPO OCP CHI CPU NIC PCI
 
+J Metz (AMD)
+
+<a id="574"></a>
+
+2026/09/15 [SNIA StorageAI and OCP Ecosystem](https://drive.google.com/file/d/1w_SUDBrDRlMq7TnnXApysbg3MzDJIRf3/view)
+
+[YouTube](https://www.youtube.com/watch?v=PCpvQfeheNE)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/574)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP GPU CPU IEEE SFF DPU FAST PCIE PCIe SSD CAPEX EDSFF HPM JEDEC NVM NVMe SNIA SNP TCG UEC
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
