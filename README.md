@@ -7016,6 +7016,18 @@ J Metz (AMD)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP GPU CPU IEEE SFF DPU FAST PCIE PCIe SSD CAPEX EDSFF HPM JEDEC NVM NVMe SNIA SNP TCG UEC
 
+Erich Haratsch (Marvell)
+
+<a id="575"></a>
+
+2026/09/15 [Silicon-Driven Storage_ SSD Controllers, Storage Accelerators, and DPUs Powering the AI Data Center](https://drive.google.com/file/d/1zduVhMPTeOAISgSf5emLZhKk51-zKa9D/view)
+
+[YouTube](https://www.youtube.com/watch?v=NTZCnl5bPes)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/575)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD DPU NVMe DRAM CPU NIC PCI RDMA NAND OCP PCIE PCIe TCP GPU IOPS PDF TLC
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
