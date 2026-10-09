@@ -6654,6 +6654,18 @@ Rohan Mehta (Micron Technology) and Bindu Tamala (Dell)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): AI GPU NVMe CPU RDMA SSD API SNIA IP
 
+Cameron Brett (KIOXIA), Jonmichael Hands (Solidigm) and Nader Salessi (Independent)
+
+<a id="576"></a>
+
+2026/08/27 [A New Approach to Performance-Based Storage TCO](https://www.snia.org/sites/default/files/sta/New-Approach-to-Performance-Based-TCO-Storage.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=r8Rm8sAWILY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/576)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO SSD CPU OPEX CAPEX SIG GPU SNIA DRAM BAR LinkedIn NIC NVM PDF REST SPEC
+
 ### Open Compute Project
 
 Allan Cantle (Nallasway) and Don (Credo Semiconductor)
