@@ -6666,6 +6666,18 @@ Cameron Brett (KIOXIA), Jonmichael Hands (Solidigm) and Nader Salessi (Independe
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO SSD CPU OPEX CAPEX SIG GPU SNIA DRAM BAR LinkedIn NIC NVM PDF REST SPEC
 
+Jonmichael Hands (Solidigm)
+
+<a id="577"></a>
+
+2026/08/26 [Demonstration of the SNIA TCO tool](https://www.snia.org/sites/default/files/SSSI/2025-0912_Performance_based_TCO_White_Paper_FINAL.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=0hac6d2ypuw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/577)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): TCO GPU SSD CAPEX CPU DRAM NIC OPEX RAID SIG
+
 ### Open Compute Project
 
 Allan Cantle (Nallasway) and Don (Credo Semiconductor)
