@@ -5976,6 +5976,18 @@ Howard Borchew (Marvell), Gaurav Agarwal (Marvell) and Jayjeet Chakraborty (Marv
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU RDMA NUMA DRAM GPU SAP TCO DDR4 RAID AMD ARM BAR CMS CSP DDR DDR5 FIT HBM
 
+Rajat Madhusudan (Microsoft) and Alex Akesson (Microsoft)
+
+<a id="578"></a>
+
+2025/10/23 [CPACT_Cloud_Processor_Accessibility_Compliance_Tool](https://drive.google.com/file/d/1B_fvSWPSDRkNsQlUrfPUowCIn9En4RGN/view)
+
+[YouTube](https://www.youtube.com/watch?v=7D8CjNOHMZ0)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/578)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU OCP RAS SPEC ARM GPU JSON AMD FAST GUI META PCIE PCIe
+
 Madhavan Ravi (Meta) and Jesse Koh (Meta)
 
 <a id="559"></a>
