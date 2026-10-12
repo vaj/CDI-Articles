@@ -5964,6 +5964,18 @@ Seungmin Woo (Georgia Institute of Technology), David Ratchkov (Anemoi Software 
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU HBM SRAM UCIE UCIe HPM JEDEC REST DRAM EDA PCB PCIE PCIe PDF POC PoC RISC
 
+Wongyu Shin (Rebellions) and Thomas Mermans (Samsung)
+
+<a id="579"></a>
+
+2025/10/23 [Co_Designing_for_AI_Open_Standards_and_Ecosystems_Driving_the_Future_of_Infrastructure_presen](https://drive.google.com/file/d/1gJP8Kgj5p5SfC4tkxjPVGyT52F838qMO/view)
+
+[YouTube](https://www.youtube.com/watch?v=-eMDXZ_rQN4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/579)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU ARM OCP UCIE UCIe D2D FAST FIT SOC SoC DRAM DSP EDA HBM HPC LLM MEM NAND PCI PCIE
+
 Howard Borchew (Marvell), Gaurav Agarwal (Marvell) and Jayjeet Chakraborty (Marvell)
 
 <a id="546"></a>
