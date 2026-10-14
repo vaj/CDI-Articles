@@ -6024,6 +6024,18 @@ Matt Roman (Celestica), Jonmichael Hands (Farm GPU) and Marc Austin (Hedgehog)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP GPU NVIDIA BIOS NIC InfiniBand RDMA ACS CEO CUDA IOMMU MPI PCIE PCIe SSD CPU EDSFF FAST MAC
 
+Tareq Bustami (Celestica) and Hasan Siraj (Broadcom)
+
+<a id="581"></a>
+
+2025/10/23 [Driving_AI_at_Scale_with_1_6T_Networking_How_Open_100T_Switches_will_Redefine_Data_Centers_in](https://drive.google.com/file/d/11t5rtOrXEOiRU21bE3Ikok0rHpSkaF19/view)
+
+[YouTube](https://www.youtube.com/watch?v=Gdj6YGRlNYY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/581)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): OCP GPU NIC CPU GPT META PCB CPO RDMA UEC BAR BMC FAST FIT NVIDIA PCI SCM TPU XPU
+
 Pankaj Mehra (Elephance Memory) and Gaurav Agarwal (Marvell)
 
 <a id="555"></a>
