@@ -6204,6 +6204,18 @@ Ace Stryker (Solidigm), Hardeep Singh (Solidigm) and Jonathan Ballon (Iceotope)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD GPU OCP SPEC CPU PCB CEO CTO DRAM FAST META NAND PCI PCIE PCIe REST SMART SOC SoC
 
+Paul Kaler (HPE) and Austin Bolen (Dell)
+
+<a id="587"></a>
+
+2025/10/23 [Manage_and_Secure_your_PCIe_Infrastructure_using_eSFI_and_PCIe_MI](https://drive.google.com/file/d/1Zjk187ZasWdSN6ShNE0w3Psc2dOsz6jO/view)
+
+[YouTube](https://www.youtube.com/watch?v=Idmmwo0mPEw)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/587)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCI BMC PCIE PCIe NVMe OCP VDM MCTP CPU BIOS SPDM SPEC REST SIG CCI CXL I2C I3C NCSI PLDM
+
 Eriko Nurvitadhi (MangoBoost)
 
 <a id="562"></a>
