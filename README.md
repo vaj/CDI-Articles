@@ -6240,6 +6240,18 @@ Mohamad El-Batal (Seagate) and Hongjian Fan (Seagate)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CPU CXL GPU DDR HBM NVIDIA DMA HPM OCP AMD DRAM FAST GDDR LLM LPDDR META MPI NAND
 
+Anil Agrawal (Meta) and Sukay Luhadia (Meta)
+
+<a id="588"></a>
+
+2025/10/23 [Meta_AI_ML_System_Error_Handling_Improvements___PCIe_Completion_Timeout_error_handling_using](https://drive.google.com/file/d/17yioUqk2X2WuZHtrQ2B1wPW5vmOGD0Hw/view)
+
+[YouTube](https://www.youtube.com/watch?v=0VsvEFI-EKU)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/588)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CTO AER PCI PCIE PCIe CXL OCP SPEC CPU CRC TLP CXL.io DPC GPU MEM
+
 Tim Lambert (Dell) and Ravi Bingy (AMD)
 
 <a id="586"></a>
