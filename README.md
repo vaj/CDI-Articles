@@ -7262,6 +7262,18 @@ Kalyan Gunda (Dell) and Masoud Noori (Seagate)
 
 ### CXL Consortium
 
+Skyler Windh (Micron)
+
+<a id="589"></a>
+
+2026/10/22 [KV Cache Scaling using Dynamo and CXL Shared Memory](https://computeexpresslink.org/wp-content/uploads/2026/10/CXL_Consortium_KV_Cache_Sharing_FINAL.pdf)
+
+[YouTube](https://www.youtube.com/watch?v=cGTqLDHrcgs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/589)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL GPU LLM DRAM DMA CUDA FAM PCIE PCIe MEM CPU NVIDIA OCP SSD KV
+
 Neha Gholkar (Meta) and Hasan Al Maruf (Meta)
 
 <a id="498"></a>
