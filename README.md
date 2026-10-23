@@ -6300,6 +6300,18 @@ Abe Garcia (Meta)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): CXL CPU GPU SSD AIC PCIE PCIe DRAM HBM TCO CSP DDR4 DDR5 FAST HPC POC PoC RCD
 
+Andrew Lee (QCT)
+
+<a id="590"></a>
+
+2025/10/23 [Not_All_AI_Racks_are_Built_the_Same_presented_by_QCT](https://drive.google.com/file/d/1CVipPxnUbCR_IdMaeRDa9Mhfu-Xo6LCE/view)
+
+[YouTube](https://www.youtube.com/watch?v=ieEwBEkh9Bc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/590)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): GPU BAR POC PoC FIT CPU AMD PCIE PCIe ARM CSP GH200 HTML LAN NVIDIA SPEC SSD TCO
+
 Dave Garcia (Meta)
 
 <a id="440"></a>
