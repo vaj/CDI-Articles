@@ -7196,6 +7196,18 @@ Erich Haratsch (Marvell)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): SSD DPU NVMe DRAM CPU NIC PCI RDMA NAND OCP PCIE PCIe TCP GPU IOPS PDF TLC
 
+Hardik Shah (Microsoft)
+
+<a id="591"></a>
+
+2026/09/17 [A Modular PCIe Cassette Architecture for Scalable AI Systems](https://drive.google.com/file/d/1_mmPHsWITWexCiT8MAg6mg31RWV5H8ys/view)
+
+[YouTube](https://www.youtube.com/watch?v=J1aYu4dvXUY)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/591)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI GPU FPGA SSD HPC AI OCP SKU PWM
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
