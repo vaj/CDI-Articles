@@ -7208,6 +7208,18 @@ Hardik Shah (Microsoft)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI GPU FPGA SSD HPC AI OCP SKU PWM
 
+Jeffrey Kung (Astera Labs)
+
+<a id="592"></a>
+
+2026/09/17 [Breaking the PCIe Barrier Enabling Scalable AI Infrastructure with Retimers and Active Electrical Cables](https://drive.google.com/file/d/1JZ3zSknq-uypke-f7-FtC4ifY-vPWVEi/view)
+
+[YouTube](https://www.youtube.com/watch?v=01Cece4NsVc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/592)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI OCP PCB SIG MHS GPU AI
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
