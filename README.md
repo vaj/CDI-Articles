@@ -7220,6 +7220,18 @@ Jeffrey Kung (Astera Labs)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI OCP PCB SIG MHS GPU AI
 
+Scott Lee (Google)
+
+<a id="593"></a>
+
+2026/09/17 [PCIe Gen6 System Design and Validation Strategy with non Standard Connector and Cable Linkage](https://drive.google.com/file/d/1svcPxgKUO2OvSDThMtbXfmvLqfwM1q3z/view)
+
+[YouTube](https://www.youtube.com/watch?v=LUFz-yeHcO4)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/593)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI SIG PCB DOE MCIO SPEC OCP AI GPU
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
