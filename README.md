@@ -7232,6 +7232,18 @@ Scott Lee (Google)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI SIG PCB DOE MCIO SPEC OCP AI GPU
 
+Thomas Su (Intel) and Brian Ho (Intel)
+
+<a id="594"></a>
+
+2026/09/17 [Ensuring PCIe Compliance for OCP Extension Cards Electrical Design and Validation Aligned with CEM Specifications](https://drive.google.com/file/d/1ESJD0l2BdCqU3LKmbDpaeLBlFVDzikLz/view)
+
+[YouTube](https://www.youtube.com/watch?v=7SZJpCzYIo8)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/594)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI OCP SIG PCB DOE HPM SPEC CPU CEM AI
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
