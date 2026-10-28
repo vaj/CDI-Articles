@@ -7244,6 +7244,18 @@ Thomas Su (Intel) and Brian Ho (Intel)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI OCP SIG PCB DOE HPM SPEC CPU CEM AI
 
+Chiew Yee Ho (Intel) and Robert Chen (Intel)
+
+<a id="595"></a>
+
+2026/09/17 [Optimization of OCP PCIe Channel Design for Next-Gen AI DC-MHS with Electrical Validation](https://drive.google.com/file/d/1McveDkRkpY0_FrDoAJKpjJBuzGJsq-oa/view)
+
+[YouTube](https://www.youtube.com/watch?v=iZcPtwoJzqs)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/595)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI OCP CPU NRZ SPEC DCM DC-MHS AI GPU
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
