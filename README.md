@@ -7268,6 +7268,18 @@ Caleb Shetland (Astera Labs) and Helia Naeimi (Astera Labs)
 
 [Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI GPU OCP HPM FIT UALink AI INC
 
+Jacky Hsu (TE Connectivity) and Michelle Ku (TE Connectivity)
+
+<a id="597"></a>
+
+2026/09/15 [Power. Speed. Scale. Enabling AI Infrastructure with PCIe Gen 7 Gen 8 and High-Voltage Connectivity](https://drive.google.com/file/d/1JlukmIaWqVn1WXe1fv-WN5PyHdE9SfMv/view)
+
+[YouTube](https://www.youtube.com/watch?v=Kwd5epTX9wc)
+
+[Text](https://github.com/vaj/CDI-Info/blob/main/597)
+
+[Acronyms](https://github.com/vaj/CDI-Info/blob/main/acronym.md): PCIe PCI GPU OCP PCB PAM4 MHS BAR TEE FIT AI
+
 ### The Linux Foundation
 
 Hoyeon Lee (SUSE) and Taehee Yoo (Rebellions)
